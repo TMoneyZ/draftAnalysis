@@ -22,7 +22,7 @@ for entry in j['feed']['entry']:
 
 df = df.reset_index(drop=True)
 df['salary'] = df['salary'].str.replace('$','')
-df.to_csv('rostered.csv', index=False)
+df.to_csv('csv/roster.csv', index=False)
 print(df.shape)
 print(df.dtypes)
 # print(df.salary.sum())

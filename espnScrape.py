@@ -48,4 +48,4 @@ while rows:
 df = pd.DataFrame(lst)
 print(df.shape)
 print(df.dtypes)
-df.to_csv('espn.csv', index=False)
+df.to_csv('csv/espn.csv', index=False)

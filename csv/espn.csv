@@ -225,11 +225,11 @@ id,name,position,team
 15888,Marcus Cooper,[u'CB'],Chi
 17593,DeVante Parker,[u'WR'],Mia
 14946,Bruce Irvin,"[u'LB', u'EDR']",Oak
-16763,Jordan Matthews,[u'WR'],Phi
+16763,Jordan Matthews,[u'WR'],Buf
 12426,Malcolm Jenkins,[u'S'],Phi
 16720,C.J. Mosley,[u'LB'],Bal
 17264,Will Compton,[u'LB'],Wsh
-17843,Roberto Aguayo,[u'K'],TB
+17843,Roberto Aguayo,[u'K'],Chi
 14053,Randall Cobb,[u'WR'],GB
 13045,Jonathan Casillas,[u'LB'],NYG
 8430,Derrick Johnson,[u'LB'],KC
@@ -322,7 +322,7 @@ id,name,position,team
 14936,Whitney Mercilus,"[u'LB', u'EDR']",Hou
 17506,Tony Lippett,[u'CB'],Mia
 17576,Frank Clark,"[u'DE', u'EDR']",Sea
-17654,Ronald Darby,[u'CB'],Buf
+17654,Ronald Darby,[u'CB'],Phi
 18011,Harold Jones-Quartey,[u'S'],Chi
 10138,Ahmad Brooks,"[u'DE', u'LB', u'EDR']",SF
 13973,Ryan Kerrigan,"[u'DE', u'EDR']",Wsh
@@ -443,7 +443,7 @@ id,name,position,team
 14933,Dont'a Hightower,[u'LB'],NE
 16217,Nickell Robey-Coleman,[u'CB'],LAR
 17158,Anthony Hitchens,[u'LB'],Dal
-17230,E.J. Gaines,[u'CB'],LAR
+17230,E.J. Gaines,[u'CB'],Buf
 17277,Corey Nelson,[u'LB'],Den
 17688,Shaq Thompson,[u'LB'],Car
 17808,Darron Lee,[u'LB'],NYJ
@@ -530,7 +530,7 @@ id,name,position,team
 15887,Ryan Griffin,[u'TE'],Hou
 17505,Jeremy Langford,[u'RB'],Chi
 14648,Spencer Paysinger,[u'LB'],NYJ
-16725,Sammy Watkins,[u'WR'],Buf
+16725,Sammy Watkins,[u'WR'],LAR
 17134,Alfred Blue,[u'RB'],Hou
 12432,Robert Ayers,"[u'DE', u'EDR']",TB
 12690,Brice McCain,[u'CB'],Ten
@@ -591,7 +591,7 @@ id,name,position,team
 16227,Russell Shepard,[u'WR'],Car
 16785,Tim Jernigan,[u'DT'],Phi
 12438,Clay Matthews,"[u'LB', u'EDR']",GB
-11288,Jason Jones,[u'DE'],Mia
+11288,Jason Jones,[u'DE'],NO
 12762,Michael Bennett,"[u'DE', u'EDR']",Sea
 15916,Devin Taylor,"[u'DE', u'EDR']",NYG
 17862,Jordan Jenkins,"[u'LB', u'EDR']",NYJ
@@ -672,7 +672,7 @@ id,name,position,team
 16002,Kyle Juszczyk,[u'RB'],SF
 16786,Richard Rodgers,[u'TE'],GB
 18020,Quinton Dunbar,[u'CB'],Wsh
-11920,Leger Douzable,[u'DT'],Buf
+11920,Leger Douzable,[u'DT'],SF
 12895,Steve McLendon,[u'DT'],NYJ
 14048,Justin Houston,"[u'LB', u'EDR']",KC
 15850,Bennie Logan,[u'DT'],KC
@@ -793,7 +793,7 @@ id,name,position,team
 16376,Abry Jones,[u'DT'],Jax
 18111,Andrew Adams,[u'S'],NYG
 17564,C.J. Uzomah,[u'TE'],Cin
-15632,Jonathan Grimes,[u'RB'],Hou
+15632,Jonathan Grimes,[u'RB'],Jax
 15816,Sylvester Williams,[u'DT'],Ten
 16758,Will Clarke,"[u'DE', u'EDR']",Cin
 17887,Miles Killebrew,[u'S'],Det
@@ -973,7 +973,7 @@ id,name,position,team
 17536,Tyeler Davison,[u'DT'],NO
 17792,John Timu,[u'LB'],Chi
 17874,Vincent Valentine,[u'DT'],NE
-16561,Charles James II,[u'CB'],Buf
+16561,Charles James II,[u'CB'],Jax
 17340,Walter Powell,[u'WR'],Buf
 9587,Mario Williams,[u'DE'],Mia
 13292,Corey Peters,[u'DT'],Ari
@@ -1129,7 +1129,7 @@ id,name,position,team
 17880,Sheldon Day,[u'DT'],Jax
 12435,Tyson Jackson,[u'DE'],Atl
 13845,Anthony Levine Sr.,"[u'S', u'LB']",Bal
-14141,Andrew Gachkar,[u'LB'],Dal
+14141,Andrew Gachkar,[u'LB'],Jax
 15943,Don Jones,"[u'CB', u'S']",SF
 16080,Josh Johnson,[u'CB'],Jax
 17290,Tenny Palepoi,[u'DT'],LAC
@@ -1252,7 +1252,7 @@ id,name,position,team
 17767,Raheem Mostert,[u'RB'],SF
 14262,Mark Herzlich,[u'LB'],NYG
 5660,Antonio Smith,[u'DE'],Hou
-14954,John Lewis Hughes III,[u'DT'],TB
+14954,John Lewis Hughes III,[u'DT'],NO
 15838,Zaviar Gooden,[u'LB'],Ari
 15884,Duke Williams,[u'S'],Ind
 16021,Tharold Simon,[u'CB'],Ari
@@ -1328,7 +1328,7 @@ id,name,position,team
 18092,Julian Howsare,[u'RB'],NYJ
 17524,Malcolm Johnson,[u'RB'],Sea
 14963,Devon Still,[u'DT'],NYJ
-17779,Robenson Therezie,[u'S'],NO
+17779,Robenson Therezie,[u'S'],NYJ
 17811,Laquon Treadwell,[u'WR'],Min
 18005,Kalan Reed,[u'CB'],Ten
 18061,Cameron Lynch,[u'LB'],TB
@@ -1365,7 +1365,7 @@ id,name,position,team
 17931,Marqui Christian,[u'S'],LAR
 17961,Dadi Nicolas,"[u'LB', u'EDR']",KC
 18013,Christian Bryant,[u'S'],Ari
-18081,Braedon Bowman,[u'TE'],NYJ
+18081,Braedon Bowman,[u'TE'],NO
 18098,Ross Travis,[u'TE'],KC
 17466,Gerald Christian,[u'TE'],Ari
 18096,Paul Lasike,[u'RB'],Chi
@@ -1587,7 +1587,7 @@ id,name,position,team
 13554,Jermelle Cudjo,[u'DT'],NYG
 13555,Jeff Cumberland,[u'TE'],LAC
 13566,Junior Galette,"[u'DE', u'EDR']",Wsh
-13606,Thaddeus Lewis,[u'QB'],SF
+13606,Thaddeus Lewis,[u'QB'],Bal
 13611,Danny McCray,[u'S'],Dal
 13616,Marlon Moore,[u'WR'],Cle
 13797,Cassius Vaughn,[u'CB'],LAC
@@ -1678,7 +1678,7 @@ id,name,position,team
 15113,Josh Bush,[u'S'],Den
 15120,Greg Scruggs,[u'TE'],NE
 15180,Kashif Moore,[u'WR'],KC
-15187,Austin Davis,[u'QB'],Den
+15187,Austin Davis,[u'QB'],Sea
 15189,Nathan Palmer,[u'WR'],Oak
 15194,Jerry Franklin,[u'LB'],Det
 15226,Cory Harkey,[u'RB'],LAR
@@ -1747,7 +1747,7 @@ id,name,position,team
 16252,Tyler Bray,[u'QB'],KC
 16256,Jayson DiManche,[u'LB'],SF
 16285,Timothy Wright,[u'TE'],Det
-16373,Rodney Smith,[u'WR'],Dal
+16373,Rodney Smith,[u'WR'],Sea
 16381,Kenbrell Thompkins,[u'WR'],NYJ
 16398,A.J. Francis,[u'DT'],Wsh
 16418,Zach Sudfeld,[u'TE'],NYJ
@@ -1781,16 +1781,16 @@ id,name,position,team
 16885,Lache Seastrunk,[u'RB'],NYJ
 16886,Martavis Bryant,[u'WR'],Pit
 16915,Keith Wenning,[u'QB'],NYG
-16916,Zach Hocker,[u'K'],Cin
+16916,Zach Hocker,[u'K'],TB
 16928,Jalen Saunders,[u'WR'],NE
-16946,Bruce Ellington,[u'WR'],SF
+16946,Bruce Ellington,[u'WR'],Hou
 16956,Marion Grice,[u'RB'],Ari
 17021,Aaron Murray,[u'QB'],KC
-17139,Corey Washington,[u'WR'],KC
+17139,Corey Washington,[u'WR'],Dal
 17143,Branden Oliver,[u'RB'],LAC
 17144,Robert Herron,[u'WR'],Oak
 17153,Darrin Reaves,[u'RB'],KC
-17157,Travis Coons,[u'K'],Cle
+17157,Travis Coons,[u'K'],LAR
 17164,Silas Redd,[u'RB'],Wsh
 17165,Brandon Watts,[u'LB'],Mia
 17166,Jackson Jeffcoat,[u'DE'],Cle
@@ -1832,7 +1832,7 @@ id,name,position,team
 17356,Nic Jacobs,[u'TE'],Jax
 17357,Jeremiah George,[u'LB'],Ind
 17358,Cordarro Law,[u'DE'],LAC
-17369,Jumal Rolle,[u'CB'],Bal
+17369,Jumal Rolle,[u'CB'],Buf
 17382,Blake Annen,[u'TE'],Buf
 17383,RaShaun Allen,[u'TE'],Hou
 17391,Tramain Jacobs,[u'CB'],Det
@@ -1861,7 +1861,7 @@ id,name,position,team
 17553,Dezmin Lewis,[u'WR'],Buf
 17554,Tray Walker,[u'CB'],Bal
 17560,Tevin Mitchel,[u'LB'],Ind
-17569,Junior Sylvestre,[u'LB'],Buf
+17569,Junior Sylvestre,[u'LB'],Mia
 17572,Garrett Grayson,[u'QB'],NO
 17578,David Cobb,[u'RB'],Chi
 17579,Cedric Thompson,[u'S'],Cin
@@ -1909,7 +1909,7 @@ id,name,position,team
 17766,Uani' Unga,[u'LB'],NYG
 17770,Tyler Murphy,[u'WR'],Mia
 17772,Wes Saxton,[u'TE'],Buf
-17775,Bobby Richardson,[u'DE'],NO
+17775,Bobby Richardson,[u'DE'],NYG
 17780,Donteea Dye,[u'WR'],TB
 17782,Trey Williams,[u'RB'],Pit
 17783,Javontee Herndon,[u'WR'],Dal
@@ -1940,7 +1940,7 @@ id,name,position,team
 17980,Jonathan Woodard,"[u'DE', u'EDR']",Jax
 17984,Daniel Braverman,[u'WR'],Chi
 17985,Thomas Duarte,[u'TE'],Mia
-17986,Steven Daniels,[u'LB'],Phi
+17986,Steven Daniels,[u'LB'],NYG
 17991,Devin Lewis Fuller,[u'WR'],Atl
 17992,Trevor Bates,[u'LB'],NE
 17993,Alex McCalister,"[u'DE', u'EDR']",Phi
@@ -1964,7 +1964,7 @@ id,name,position,team
 18044,Bryce Williams,[u'TE'],Car
 18045,Marquez North,[u'WR'],LAR
 18046,Andy Jones,[u'WR'],Dal
-18048,Xavier Rush,[u'WR'],Phi
+18048,Xavier Rush,[u'WR'],NO
 18049,Dom Williams,[u'WR'],Phi
 18051,R.J. Harris,[u'WR'],NO
 18053,Bernard Reedy,[u'WR'],TB
