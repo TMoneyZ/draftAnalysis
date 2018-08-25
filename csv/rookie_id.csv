@@ -1,220 +1,214 @@
-round,pick,overall,team_x,name,position_x,school,id,position_y,team_y
-1,1,1,Cleveland Browns,Myles Garrett,DE,Texas A&M,18167,"[u'DE', u'EDR']",Cle
-1,2,2,Chicago Bears,Mitchell Trubisky,QB,North Carolina,18168,[u'QB'],Chi
-1,3,3,San Francisco 49ers,Solomon Thomas,DE,Stanford,18280,"[u'DE', u'DT']",SF
-1,4,4,Jacksonville Jaguars,Leonard Fournette,RB,LSU,18218,[u'RB'],Jax
-1,5,5,Tennessee Titans,Corey Davis,WR,Western Michigan,18320,[u'WR'],Ten
-1,6,6,New York Jets,Jamal Adams,S,LSU,18220,[u'S'],NYJ
-1,7,7,Los Angeles Chargers,Mike Williams,WR,Clemson,18235,[u'WR'],LAC
-1,8,8,Carolina Panthers,Christian McCaffrey,RB,Stanford,18279,[u'RB'],Car
-1,9,9,Cincinnati Bengals,John Ross,WR,Washington,18395,[u'WR'],Cin
-1,10,10,Kansas City Chiefs,Patrick Mahomes II,QB,Texas Tech,18210,[u'QB'],KC
-1,11,11,New Orleans Saints,Marshon Lattimore,CB,Ohio State,18282,[u'CB'],NO
-1,12,12,Houston Texans,Deshaun Watson,QB,Clemson,18246,[u'QB'],Hou
-1,13,13,Arizona Cardinals,Haason Reddick,LB,Temple,18363,[u'LB'],Ari
-1,14,14,Philadelphia Eagles,Derek Barnett,DE,Tennessee,18217,"[u'DE', u'EDR']",Phi
-1,15,15,Indianapolis Colts,Malik Hooker,S,Ohio State,18281,[u'S'],Ind
-1,16,16,Baltimore Ravens,Marlon Humphrey,CB,Alabama,18270,[u'CB'],Bal
-1,17,17,Washington,Jonathan Allen,DL,Alabama,18184,[u'DT'],Wsh
-1,18,18,Tennessee Titans,Adoree' Jackson,CB,Southern California,18305,[u'CB'],Ten
-1,19,19,Tampa Bay Buccaneers,O.J. Howard,TE,Alabama,18322,[u'TE'],TB
-1,21,21,Detroit Lions,Jarrad Davis,LB,Florida,18190,[u'LB'],Det
-1,22,22,Miami Dolphins,Charles Harris,DE/OLB,Missouri,18381,"[u'DE', u'EDR']",Mia
-1,23,23,New York Giants,Evan Engram,TE,Mississippi,18382,[u'TE'],NYG
-1,24,24,Oakland Raiders,Gareon Conley,CB,Ohio State,18180,[u'CB'],Oak
-1,25,25,Cleveland Browns,Jabrill Peppers,S,Michigan,18192,[u'S'],Cle
-1,26,26,Atlanta Falcons,Takkarist McKinley,OLB,UCLA,18222,"[u'DE', u'EDR']",Atl
-1,27,27,Buffalo Bills,Tre'Davious White,CB,LSU,18315,[u'CB'],Buf
-1,28,28,Dallas Cowboys,Taco Charlton,DE,Michigan,18239,"[u'DE', u'EDR']",Dal
-1,29,29,Cleveland Browns,David Njoku,TE,Miami,18303,[u'TE'],Cle
-1,30,30,Pittsburgh Steelers,T.J. Watt,OLB,Wisconsin,18244,"[u'LB', u'EDR']",Pit
-1,31,31,San Francisco 49ers,Reuben Foster,MLB,Alabama,18185,[u'LB'],SF
-2,1,33,Green Bay Packers,Kevin King,CB,Washington,18393,[u'CB'],GB
-2,3,35,Seattle Seahawks,Malik McDowell,DT,Michigan State,18352,[u'DT'],Sea
-2,4,36,Arizona Cardinals,Budda Baker,S,Washington,18308,[u'S'],Ari
-2,5,37,Buffalo Bills,Zay Jones,WR,East Carolina,18223,[u'WR'],Buf
-2,7,39,New York Jets,Marcus Maye,S,Florida,18259,[u'S'],NYJ
-2,8,40,Carolina Panthers,Curtis Samuel,WR/RB,Ohio State,18284,[u'WR'],Car
-2,9,41,Minnesota Vikings,Dalvin Cook,RB,Florida State,18260,[u'RB'],Min
-2,10,42,New Orleans Saints,Marcus Williams,S,Utah,18197,[u'S'],NO
-2,11,43,Philadelphia Eagles,Sidney Jones,CB,Washington,18309,[u'CB'],Phi
-2,12,44,Los Angeles Rams,Gerald Everett,TE,South Alabama,18374,[u'TE'],LAR
-2,13,45,Chicago Bears,Adam Shaheen,TE,Ashland,18276,[u'TE'],Chi
-2,14,46,Indianapolis Colts,Quincy Wilson,CB,Florida,18311,[u'CB'],Ind
-2,15,47,Baltimore Ravens,Tyus Bowser,OLB,Houston,18289,"[u'LB', u'EDR']",Bal
-2,16,48,Cincinnati Bengals,Joe Mixon,RB,Oklahoma,18193,[u'RB'],Cin
-2,17,49,Washington,Ryan Anderson,LB,Alabama,18414,"[u'DE', u'EDR']",Wsh
-2,18,50,Tampa Bay Buccaneers,Justin Evans,S,Texas A&M,18356,[u'S'],TB
-2,19,51,Denver Broncos,DeMarcus Walker,DE,Florida State,18331,[u'DE'],Den
-2,20,52,Cleveland Browns,DeShone Kizer,QB,Notre Dame,18328,[u'QB'],Cle
-2,21,53,Detroit Lions,Teez Tabor,CB,Florida,18212,[u'CB'],Det
-2,22,54,Miami Dolphins,Raekwon McMillan,LB,Ohio State,18283,[u'LB'],Mia
-2,23,55,New York Giants,Dalvin Tomlinson,DT,Alabama,18255,[u'DT'],NYG
-2,24,56,Oakland Raiders,Obi Melifonwu,S,UConn,18342,[u'S'],Oak
-2,25,57,Houston Texans,Zach Cunningham,LB,Vanderbilt,18379,[u'LB'],Hou
-2,27,59,Kansas City Chiefs,Tanoh Kpassagnon,DE,Villanova,18261,[u'DT'],KC
-2,28,60,Dallas Cowboys,Chidobe Awuzie,CB,Colorado,18390,[u'CB'],Dal
-2,29,61,Green Bay Packers,Josh Jones,S,NC State,18377,[u'S'],GB
-2,30,62,Pittsburgh Steelers,JuJu Smith-Schuster,WR,USC,18306,[u'WR'],Pit
-3,1,65,Cleveland Browns,Larry Ogunjobi,DL,Charlotte,18177,[u'DT'],Cle
-3,2,66,San Francisco 49ers,Ahkello Witherspoon,CB,Colorado,18191,[u'CB'],SF
-3,3,67,New Orleans Saints,Alvin Kamara,RB,Tennessee,18187,[u'RB'],NO
-3,4,68,Jacksonville Jaguars,Dawuane Smoot,DE,Illinois,18312,"[u'DE', u'EDR']",Jax
-3,5,69,Los Angeles Rams,Cooper Kupp,WR,Eastern Washington,18415,[u'WR'],LAR
-3,8,72,Tennessee Titans,Taywan Taylor,WR,Western Kentucky,18224,[u'WR'],Ten
-3,9,73,Cincinnati Bengals,Jordan Willis,DE,Kansas State,18397,"[u'DE', u'EDR']",Cin
-3,10,74,Baltimore Ravens,Chris Wormley,DL,Michigan,18200,[u'DT'],Bal
-3,11,75,Atlanta Falcons,Duke Riley,LB,LSU,18316,[u'LB'],Atl
-3,12,76,New Orleans Saints,Alex Anzalone,LB,Florida,18323,[u'LB'],NO
-3,13,77,Carolina Panthers,Daeshon Hall,DE,Texas A&M,18380,"[u'DE', u'EDR']",Car
-3,14,78,Baltimore Ravens,Tim Williams,LB,Alabama,18189,"[u'LB', u'EDR']",Bal
-3,15,79,New York Jets,ArDarius Stewart,WR,Alabama,18188,[u'WR'],NYJ
-3,16,80,Indianapolis Colts,Tarell Basham,DE,Ohio,18405,"[u'LB', u'EDR']",Ind
-3,17,81,Washington,Fabian Moreau,CB,UCLA,18370,[u'CB'],Wsh
-3,18,82,Denver Broncos,Carlos Henderson,WR,Louisiana Tech,18295,[u'WR'],Den
-3,19,83,New England Patriots,Derek Rivers,DE,Youngstown State,18176,"[u'LB', u'EDR']",NE
-3,20,84,Tampa Bay Buccaneers,Chris Godwin,WR,Penn State,18272,[u'WR'],TB
-3,22,86,Kansas City Chiefs,Kareem Hunt,RB,Toledo,18225,[u'RB'],KC
-3,23,87,New York Giants,Davis Webb,QB,Cal,18401,[u'QB'],NYG
-3,24,88,Oakland Raiders,Eddie Vanderdoes,DT,UCLA,18174,[u'DT'],Oak
-3,25,89,Houston Texans,D'Onta Foreman,RB,Texas,18196,[u'RB'],Hou
-3,26,90,Seattle Seahawks,Shaquill Griffin,CB,Central Florida,18182,[u'CB'],Sea
-3,27,91,Los Angeles Rams,John Johnson,S,Boston College,18337,[u'S'],LAR
-3,28,92,Dallas Cowboys,Jourdan Lewis,CB,Michigan,18238,[u'CB'],Dal
-3,29,93,Green Bay Packers,Montravius Adams,DT,Auburn,18384,[u'DT'],GB
-3,30,94,Pittsburgh Steelers,Cameron Sutton,CB,Tennessee,18230,[u'CB'],Pit
-3,31,95,Seattle Seahawks,Delano Hill,S,Michigan,18241,[u'S'],Sea
-3,32,96,Detroit Lions,Kenny Golladay,WR,Northern Illinois,18345,[u'WR'],Det
-3,33,97,Miami Dolphins,Cordrea Tankersley,CB,Clemson,18234,[u'CB'],Mia
-3,34,98,Arizona Cardinals,Chad Williams,WR,Grambling State,18169,[u'WR'],Ari
-3,35,99,Philadelphia Eagles,Rasul Douglas,CB,West Virginia,18329,[u'CB'],Phi
-3,36,100,Tennessee Titans,Jonnu Smith,TE,Florida International,18183,[u'TE'],Ten
-3,37,101,Denver Broncos,Brendan Langley,CB,Lamar,18325,[u'CB'],Den
-3,38,102,Seattle Seahawks,Nazair Jones,DL,North Carolina,18285,[u'DT'],Sea
-3,39,103,New Orleans Saints,Trey Hendrickson,DE,Florida Atlantic,18403,"[u'DE', u'EDR']",NO
-3,40,104,San Francisco 49ers,C.J. Beathard,QB,Iowa,18268,[u'QB'],SF
-3,41,105,Pittsburgh Steelers,James Conner,RB,Pittsburgh,18236,[u'RB'],Pit
-3,42,106,Seattle Seahawks,Amara Darboh,WR,Michigan,18201,[u'WR'],Sea
-3,43,107,Tampa Bay Buccaneers,Kendell Beckwith,LB,LSU,18317,[u'LB'],TB
-4,1,108,Green Bay Packers,Vince Biegel,LB,Wisconsin,18207,"[u'LB', u'EDR']",GB
-4,2,109,Minnesota Vikings,Jaleel Johnson,DT,Iowa,18269,[u'DT'],Min
-4,3,110,Jacksonville Jaguars,Dede Westbrook,WR,Oklahoma,18302,[u'WR'],Jax
-4,4,111,Seattle Seahawks,Tedric Thompson,S,Colorado,18391,[u'S'],Sea
-4,5,112,Chicago Bears,Eddie Jackson,S,Alabama,18186,[u'S'],Chi
-4,6,113,Los Angeles Chargers,Rayshawn Jenkins,S,Miami,18249,[u'S'],LAC
-4,7,114,Washington,Samaje Perine,RB,Oklahoma,18194,[u'RB'],Wsh
-4,9,116,Cincinnati Bengals,Carl Lawson,DE,Auburn,18386,"[u'DE', u'EDR']",Cin
-4,10,117,Los Angeles Rams,Josh Reynolds,WR,Texas A&M,18214,[u'WR'],LAR
-4,11,118,Philadelphia Eagles,Mack Hollins,WR,UNC,18350,[u'WR'],Phi
-4,12,119,Chicago Bears,Tarik Cohen,RB,North Carolina A&T,18171,[u'RB'],Chi
-4,13,120,Minnesota Vikings,Ben Gedeon,LB,Michigan,18240,[u'LB'],Min
-4,14,121,San Francisco 49ers,Joe Williams,RB,Utah,18354,[u'RB'],SF
-4,16,123,Washington,Montae Nicholson,S,Michigan State,18353,[u'S'],Wsh
-4,17,124,Detroit Lions,Jalen Reeves-Maybin,LB,Tennessee,18231,[u'LB'],Det
-4,18,125,Los Angeles Rams,Samson Ebukam,LB,Eastern Washington,18335,[u'LB'],LAR
-4,19,126,Cleveland Browns,Howard Wilson,CB,Houston,18330,[u'CB'],Cle
-4,20,127,Detroit Lions,Michael Roberts,TE,Toledo,18227,[u'TE'],Det
-4,21,128,Cincinnati Bengals,Josh Malone,WR,Tennessee,18216,[u'WR'],Cin
-4,24,131,New England Patriots,Deatrich Wise,DL,Arkansas,18258,"[u'DE', u'EDR']",NE
-4,25,132,Philadelphia Eagles,Donnel Pumphrey,RB,San Diego St,18172,[u'RB'],Phi
-4,26,133,Dallas Cowboys,Ryan Switzer,WR,UNC,18287,[u'WR'],Dal
-4,27,134,Green Bay Packers,Jamaal Williams,RB,BYU,18362,[u'RB'],GB
-4,28,135,Pittsburgh Steelers,Joshua Dobbs,QB,Tennessee,18229,[u'QB'],Pit
-4,31,138,Cincinnati Bengals,Ryan Glasgow,DL,Michigan,18203,[u'DT'],Cin
-4,32,139,Kansas City Chiefs,Jehu Chesson,WR,Michigan,18202,[u'WR'],KC
-4,33,140,New York Giants,Wayne Gallman,RB,Clemson,18233,[u'RB'],NYG
-4,34,141,New York Jets,Chad Hansen,WR,Cal,18170,[u'WR'],NYJ
-4,35,142,Houston Texans,Carlos Watkins,DT,Clemson,18206,[u'DT'],Hou
-4,36,143,Indianapolis Colts,Marlon Mack,RB,USF,18211,[u'RB'],Ind
-4,37,144,Indianapolis Colts,Grover Stewart,DT,Albany St.,18375,[u'DT'],Ind
-5,1,145,Denver Broncos,Jake Butt,TE,Michigan,18242,[u'TE'],Den
-5,2,146,San Francisco 49ers,George Kittle,TE,Iowa,18292,[u'TE'],SF
-5,4,148,Jacksonville Jaguars,Blair Brown,LB,Ohio,18364,[u'LB'],Jax
-5,5,149,Atlanta Falcons,Damontae Kazee,CB,San Diego St.,18347,"[u'CB', u'S']",Atl
-5,6,150,New York Jets,Jordan Leggett,TE,Clemson,18232,[u'TE'],NYJ
-5,7,151,Los Angeles Chargers,Desmond King,S,Iowa,18291,"[u'CB', u'S']",LAC
-5,8,152,Carolina Panthers,Corn Elder,CB,Miami,18388,[u'CB'],Car
-5,9,153,Cincinnati Bengals,Jake Elliott,K,Memphis,18178,[u'K'],Cin
-5,10,154,Washington,Jeremy Sprinkle,TE,Arkansas,18257,[u'TE'],Wsh
-5,11,155,Tennessee Titans,Jayon Brown,LB,UCLA,18173,[u'LB'],Ten
-5,12,156,Atlanta Falcons,Brian Hill,RB,Wyoming,18416,[u'RB'],Atl
-5,14,158,Indianapolis Colts,Nate Hairston,CB,Temple,18412,[u'CB'],Ind
-5,17,161,Indianapolis Colts,Anthony Walker Jr.,LB,Northwestern,18243,[u'LB'],Ind
-5,18,162,Tampa Bay Buccaneers,Jeremy McNichols,RB,Boise St.,18396,[u'RB'],TB
-5,19,163,Buffalo Bills,Matt Milano,LB,Boston College,18336,[u'LB'],Buf
-5,21,165,Detroit Lions,Jamal Agnew,DB,San Diego,18228,[u'CB'],Det
-5,22,166,Philadelphia Eagles,Shelton Gibson,WR,West Virginia,18300,[u'WR'],Phi
-5,23,167,New York Giants,Avery Moss,DE,Youngstown St.,18343,"[u'DE', u'EDR']",NYG
-5,24,168,Oakland Raiders,Marquel Lee,LB,Wake Forest,18288,[u'LB'],Oak
-5,25,169,Houston Texans,Treston Decoud,S,Oregon St.,18419,[u'CB'],Hou
-5,26,170,Minnesota Vikings,Rodney Adams,WR,USF,18226,[u'WR'],Min
-5,27,171,Buffalo Bills,Nathan Peterman,QB,Pitt,18252,[u'QB'],Buf
-5,28,172,Denver Broncos,Isaiah McKenzie,WR,Georgia,18304,[u'WR'],Den
-5,29,173,Pittsburgh Steelers,Brian Allen,CB,Utah,18372,[u'CB'],Pit
-5,30,174,Atlanta Falcons,Eric Saubert,TE,Drake,18346,[u'TE'],Atl
-5,31,175,Green Bay Packers,DeAngelo Yancey,WR,Purdue,18398,[u'WR'],GB
-5,33,177,San Francisco 49ers,Trent Taylor,WR,Louisiana Tech,18296,[u'WR'],SF
-5,34,178,Miami Dolphins,Davon Godchaux,DT,LSU,18221,[u'DT'],Mia
-5,35,179,Arizona Cardinals,T.J. Logan,RB,UNC,18286,[u'RB'],Ari
-5,37,181,New York Jets,Dylan Donahue,DL,West Georgia,18351,"[u'DE', u'LB', u'EDR']",NYJ
-5,38,182,Green Bay Packers,Aaron Jones,RB,Texas-El Paso,18314,[u'RB'],GB
-5,39,183,Kansas City Chiefs,Ukeme Eligwe,LB,Georgia Southern,18247,[u'LB'],KC
-5,40,184,Philadelphia Eagles,Nathan Gerry,LB,Nebraska,18294,"[u'S', u'LB']",Phi
-6,1,185,Cleveland Browns,Caleb Brantley,DT,Florida,18417,[u'DT'],Cle
-6,2,186,Baltimore Ravens,Chuck Clark,S,Virginia Tech,18418,[u'S'],Bal
-6,3,187,Seattle Seahawks,Mike Tyson,S,Cincinnati,18410,"[u'S', u'CB']",Sea
-6,4,188,New York Jets,Elijah McGuire,RB,Louisiana-Lafayette,18313,[u'RB'],NYJ
-6,5,189,Los Angeles Rams,Tanzel Smart,DT,Tulane,18298,[u'DT'],LAR
-6,7,191,Dallas Cowboys,Xavier Woods,S,Louisiana Tech,18297,[u'S'],Dal
-6,8,192,Carolina Panthers,Alex Armah,DE,West Georgia,18277,[u'LB'],Car
-6,9,193,Cincinnati Bengals,Jordan Evans,LB,Oklahoma,18402,[u'LB'],Cin
-6,10,194,Miami Dolphins,Vincent Taylor,DT,Oklahoma St.,18338,[u'DT'],Mia
-6,11,195,Buffalo Bills,Tanner Vallejo,LB,Boise State,18321,[u'LB'],Buf
-6,12,196,New Orleans Saints,Al-Quadin Muhammad,DE,Miami,18389,"[u'DE', u'EDR']",NO
-6,13,197,New York Jets,Jeremy Clark,CB,Michigan,18199,[u'CB'],NYJ
-6,14,198,San Francisco 49ers,D.J. Jones,DT,Mississippi,18274,[u'DT'],SF
-6,17,201,Minnesota Vikings,Bucky Hodges,TE,Virginia Tech,18333,[u'TE'],Min
-6,18,202,San Francisco 49ers,Pita Taumoepenu,LB,Utah,18408,"[u'DE', u'LB', u'EDR']",SF
-6,19,203,Denver Broncos,De'Angelo Henderson,RB,Coastal Carolina,18181,[u'RB'],Den
-6,20,204,New York Jets,Derrick Jones,CB,Mississippi,18383,[u'CB'],NYJ
-6,21,205,Detroit Lions,Jeremiah Ledbetter,DE,Arkansas,18301,"[u'DE', u'EDR']",Det
-6,22,206,Los Angeles Rams,Sam Rogers,FB,Virginia Tech,18334,[u'RB'],LAR
-6,23,207,Cincinnati Bengals,Brandon Wilson,CB,Houston,18263,"[u'CB', u'S']",Cin
-6,24,208,Arizona Cardinals,Rudy Ford,S,Auburn,18385,"[u'S', u'CB']",Ari
-6,25,209,Washington,Robert Davis,WR,Georgia State,18299,[u'WR'],Wsh
-6,30,214,Philadelphia Eagles,Elijah Qualls,DT,Washington,18394,[u'DT'],Phi
-6,31,215,Detroit Lions,Brad Kaaya,QB,Miami,18198,[u'QB'],Det
-6,32,216,Dallas Cowboys,Marquez White,CB,Florida State,18332,[u'CB'],Dal
-6,34,218,Kansas City Chiefs,Leon McQuay III,S,USC,18326,"[u'S', u'CB']",KC
-7,1,219,Minnesota Vikings,Stacy Coley,WR,Miami,18387,[u'WR'],Min
-7,2,220,Minnesota Vikings,Ifeadi Odenigbo,DE,Northwestern,18344,"[u'DE', u'EDR']",Min
-7,3,221,Oakland Raiders,Shalom Luani,S,Washington State,18273,[u'S'],Oak
-7,4,222,Jacksonville Jaguars,Jalen Myrick,CB,Minnesota,18293,[u'CB'],Jax
-7,5,223,Tampa Bay Buccaneers,Stevie Tu'ikolovatu,DT,USC,18400,[u'DT'],TB
-7,6,224,Cleveland Browns,Zane Gonzalez,K,Arizona State,18327,[u'K'],Cle
-7,7,225,Los Angeles Chargers,Isaac Rochell,DE,Notre Dame,18404,"[u'DE', u'DT']",LAC
-7,8,226,Seattle Seahawks,David Moore,WR,East Central (OK),18278,[u'WR'],Sea
-7,9,227,Tennessee Titans,Josh Carraway,LB,TCU,18368,"[u'LB', u'EDR']",Ten
-7,10,228,Dallas Cowboys,Joey Ivie,DT,Florida,18324,[u'DT'],Dal
-7,11,229,San Francisco 49ers,Adrian Colbert,CB,Miami,18251,"[u'CB', u'S']",SF
-7,12,230,Washington,Josh Harvey-Clemons,S,Louisville,18204,[u'S'],Wsh
-7,14,232,Minnesota Vikings,Elijah Lee,LB,Kansas State,18250,[u'LB'],Min
-7,15,233,Carolina Panthers,Harrison Butker,K,Georgia Tech,18409,[u'K'],Car
-7,16,234,Los Angeles Rams,Ejuan Price,DE,Pitt,18265,"[u'LB', u'EDR']",LAR
-7,17,235,Washington,Joshua Holsey,CB,Auburn,18208,[u'CB'],Wsh
-7,19,237,Miami Dolphins,Isaiah Ford,WR,Virginia Tech,18339,[u'WR'],Mia
-7,20,238,Green Bay Packers,Devante Mays,RB,Utah State,18340,[u'RB'],GB
-7,21,239,Dallas Cowboys,Noah Brown,WR,Ohio State,18349,[u'WR'],Dal
-7,22,240,Jacksonville Jaguars,Marquez Williams,RB,Miami,18209,[u'RB'],Jax
-7,23,241,Tennessee Titans,Khalfani Muhammad,RB,Cal,18392,[u'RB'],Ten
-7,24,242,Oakland Raiders,Elijah Hood,RB,UNC,18195,[u'RB'],Oak
-7,26,244,Oakland Raiders,Treyvon Hester,DT,Toledo,18358,[u'DT'],Oak
-7,27,245,Minnesota Vikings,Jack Tocho,CB,NC State,18378,"[u'CB', u'S']",Min
-7,28,246,Dallas Cowboys,Jordan Carrell,DE,Colorado,18407,[u'DT'],Dal
-7,29,247,Green Bay Packers,Malachi Dupre,WR,LSU,18219,[u'WR'],GB
-7,30,248,Pittsburgh Steelers,Keion Adams,DE,Western Michigan,18319,"[u'DE', u'LB', u'EDR']",Pit
-7,31,249,Seattle Seahawks,Chris Carson,RB,Oklahoma St.,18341,[u'RB'],Sea
-7,32,250,Detroit Lions,Pat O'Connor,DE,Eastern Michigan,18361,"[u'DE', u'EDR']",Det
-7,33,251,Cincinnati Bengals,Mason Schreck,TE,Buffalo,18253,[u'TE'],Cin
-7,34,252,Cleveland Browns,Matthew Dayes,RB,NC State,18376,[u'RB'],Cle
-7,35,253,Denver Broncos,Chad Kelly,QB,Mississippi,18205,[u'QB'],Den
+overall,team_x,name,position_x,school,id,position_y,team_y
+1,Cleveland Browns,Baker Mayfield,QB,Oklahoma,18565.0,[u'QB'],Cle
+2,New York Giants,Saquon Barkley,RB,Penn State,18567.0,[u'RB'],NYG
+3,New York Jets,Sam Darnold,QB,USC,18566.0,[u'QB'],NYJ
+4,Cleveland Browns,Denzel Ward,CB,Ohio State,18568.0,[u'CB'],Cle
+5,Denver Broncos,Bradley Chubb,DE,NC State,18569.0,"[u'LB', u'EDR']",Den
+7,Buffalo Bills,Josh Allen,QB,Wyoming,18570.0,[u'QB'],Buf
+8,Chicago Bears,Roquan Smith,LB,Georgia,18571.0,[u'LB'],Chi
+10,Arizona Cardinals,Josh Rosen,QB,UCLA,18572.0,[u'QB'],Ari
+11,Miami Dolphins,Minkah Fitzpatrick,S,Alabama,18573.0,[u'S'],Mia
+12,Tampa Bay Buccaneers,Vita Vea,DT,Washington,18574.0,[u'DT'],TB
+13,Washington Redskins,Daron Payne,DT,Alabama,18575.0,[u'DT'],Wsh
+14,New Orleans Saints,Marcus Davenport,DE,UTSA,18576.0,"[u'DE', u'EDR']",NO
+16,Buffalo Bills,Tremaine Edmunds,LB,Virginia Tech,18577.0,[u'LB'],Buf
+17,Los Angeles Chargers,Derwin James,S,Florida State,18578.0,[u'S'],LAC
+18,Green Bay Packers,Jaire Alexander,CB,Louisville,18579.0,[u'CB'],GB
+19,Dallas Cowboys,Leighton Vander Esch,LB,Boise State,18580.0,[u'LB'],Dal
+22,Tennessee Titans,Rashaan Evans,LB,Alabama,18581.0,[u'LB'],Ten
+24,Carolina Panthers,DJ Moore,WR,Maryland,18582.0,[u'WR'],Car
+25,Baltimore Ravens,Hayden Hurst,TE,South Carolina,18583.0,[u'TE'],Bal
+26,Atlanta Falcons,Calvin Ridley,WR,Alabama,18584.0,[u'WR'],Atl
+27,Seattle Seahawks,Rashaad Penny,RB,San Diego State,18585.0,[u'RB'],Sea
+28,Pittsburgh Steelers,Terrell Edmunds,S,Virginia Tech,18586.0,[u'S'],Pit
+29,Jacksonville Jaguars,Taven Bryan,DT,Florida,18587.0,[u'DT'],Jax
+30,Minnesota Vikings,Mike Hughes,CB,UCF,18588.0,[u'CB'],Min
+31,New England Patriots,Sony Michel,RB,Georgia,18589.0,[u'RB'],NE
+32,Baltimore Ravens,Lamar Jackson,QB,Louisville,18590.0,[u'QB'],Bal
+35,Cleveland Browns,Nick Chubb,RB,Georgia,18592.0,[u'RB'],Cle
+36,Indianapolis Colts,Darius Leonard,LB,South Carolina State,18593.0,[u'LB'],Ind
+38,Tampa Bay Buccaneers,Ronald Jones,RB,USC,18597.0,[u'RB'],TB
+40,Denver Broncos,Courtland Sutton,WR,SMU,18599.0,[u'WR'],Den
+41,Tennessee Titans,Harold Landry,LB,Boston College,18600.0,"[u'LB', u'EDR']",Ten
+42,Miami Dolphins,Mike Gesicki,TE,Penn State,18601.0,[u'TE'],Mia
+43,Detroit Lions,Kerryon Johnson,RB,Auburn,18602.0,[u'RB'],Det
+44,San Francisco 49ers,Dante Pettis,WR,Washington,18603.0,[u'WR'],SF
+45,Green Bay Packers,Josh Jackson,CB,Iowa,18604.0,[u'CB'],GB
+46,Kansas City Chiefs,Breeland Speaks,DE,Ole Miss,18605.0,"[u'LB', u'EDR']",KC
+47,Arizona Cardinals,Christian Kirk,WR,Texas A&M,18606.0,[u'WR'],Ari
+48,Los Angeles Chargers,Uchenna Nwosu,LB,USC,18607.0,"[u'LB', u'EDR']",LAC
+49,Philadelphia Eagles,Dallas Goedert,TE,South Dakota State,18608.0,[u'TE'],Phi
+51,Chicago Bears,Anthony Miller,WR,Memphis,18610.0,[u'WR'],Chi
+52,Indianapolis Colts,Kemoko Turay,DE,Rutgers,18611.0,"[u'DE', u'EDR']",Ind
+53,Tampa Bay Buccaneers,M.J. Stewart,CB,North Carolina,18612.0,[u'CB'],TB
+54,Cincinnati Bengals,Jessie Bates,S,Wake Forest,18613.0,[u'S'],Cin
+55,Carolina Panthers,Donte Jackson,CB,LSU,18614.0,[u'CB'],Car
+56,New England Patriots,Duke Dawson,CB,Florida,18615.0,[u'CB'],NE
+57,Oakland Raiders,P.J. Hall,DT,Sam Houston State,18616.0,[u'DT'],Oak
+58,Atlanta Falcons,Isaiah Oliver,CB,Colorado,18617.0,[u'CB'],Atl
+59,Washington Redskins,Derrius Guice,RB,LSU,18618.0,[u'RB'],Wsh
+60,Pittsburgh Steelers,James Washington,WR,Oklahoma State,18619.0,[u'WR'],Pit
+61,Jacksonville Jaguars,D.J. Chark,WR,LSU,18620.0,[u'WR'],Jax
+63,Tampa Bay Buccaneers,Carlton Davis,CB,Auburn,18622.0,[u'CB'],TB
+64,Indianapolis Colts,Tyquan Lewis,DE,Ohio State,18623.0,"[u'DE', u'EDR']",Ind
+66,New York Giants,Lorenzo Carter,LB,Georgia,18625.0,"[u'LB', u'EDR']",NYG
+67,Cleveland Browns,Chad Thomas,DE,Miami (FL),18626.0,"[u'DE', u'EDR']",Cle
+68,Houston Texans,Justin Reid,S,Stanford,18627.0,[u'S'],Hou
+69,New York Giants,B.J. Hill,DT,NC State,18628.0,[u'DT'],NYG
+70,San Francisco 49ers,Fred Warner,LB,BYU,18629.0,[u'LB'],SF
+71,Denver Broncos,Royce Freeman,RB,Oregon,18630.0,[u'RB'],Den
+72,New York Jets,Nathan Shepherd,DT,Fort Hays State,18631.0,[u'DT'],NYJ
+73,Miami Dolphins,Jerome Baker,LB,Ohio State,18632.0,[u'LB'],Mia
+75,Kansas City Chiefs,Derrick Nnadi,DT,Florida State,18634.0,[u'DT'],KC
+76,Pittsburgh Steelers,Mason Rudolph,QB,Oklahoma State,18635.0,[u'QB'],Pit
+77,Cincinnati Bengals,Sam Hubbard,DE,Ohio State,18636.0,"[u'DE', u'EDR']",Cin
+78,Cincinnati Bengals,Malik Jefferson,LB,Texas,18637.0,[u'LB'],Cin
+79,Seattle Seahawks,Rasheem Green,DE,USC,18638.0,"[u'DE', u'EDR']",Sea
+81,Dallas Cowboys,Michael Gallup,WR,Colorado State,18640.0,[u'WR'],Dal
+82,Detroit Lions,Tracy Walker,S,Louisiana,18641.0,[u'S'],Det
+84,Los Angeles Chargers,Justin Jones,DT,NC State,18643.0,[u'DT'],LAC
+85,Carolina Panthers,Rashaan Gaulden,CB,Tennessee,18644.0,[u'S'],Car
+86,Baltimore Ravens,Mark Andrews,TE,Oklahoma,18645.0,[u'TE'],Bal
+87,Oakland Raiders,Arden Key,DE,LSU,18646.0,"[u'DE', u'EDR']",Oak
+88,Green Bay Packers,Oren Burks,LB,Vanderbilt,18647.0,[u'LB'],GB
+90,Atlanta Falcons,Deadrin Senat,DT,South Florida,18649.0,[u'DT'],Atl
+91,New Orleans Saints,Tre'Quan Smith,WR,UCF,18650.0,[u'WR'],NO
+93,Jacksonville Jaguars,Ronnie Harrison,S,Alabama,18652.0,[u'S'],Jax
+95,San Francisco 49ers,Tarvarius Moore,S,Southern Miss,18654.0,[u'CB'],SF
+96,Buffalo Bills,Harrison Phillips,DT,Stanford,18655.0,[u'DT'],Buf
+98,Houston Texans,Jordan Akins,TE,UCF,18657.0,[u'TE'],Hou
+99,Denver Broncos,Isaac Yiadom,CB,Boston College,18658.0,[u'CB'],Den
+100,Kansas City Chiefs,Dorian O'Daniel,LB,Clemson,18659.0,[u'LB'],KC
+101,Carolina Panthers,Ian Thomas,TE,Indiana,18660.0,[u'TE'],Car
+102,Minnesota Vikings,Jalyn Holmes,DE,Ohio State,18661.0,[u'DT'],Min
+103,Houston Texans,Keke Coutee,WR,Texas Tech,18662.0,[u'WR'],Hou
+104,Indianapolis Colts,Nyheim Hines,RB,NC State,18663.0,[u'RB'],Ind
+105,Cleveland Browns,Antonio Callaway,WR,Florida,18664.0,[u'WR'],Cle
+106,Denver Broncos,Josey Jewell,LB,Iowa,18665.0,[u'LB'],Den
+107,New York Jets,Chris Herndon,TE,Miami (FL),18666.0,[u'TE'],NYJ
+108,New York Giants,Kyle Lauletta,QB,Richmond,18667.0,[u'QB'],NYG
+109,Washington Redskins,Troy Apke,S,Penn State,18668.0,[u'S'],Wsh
+110,Oakland Raiders,Nick Nelson,CB,Wisconsin,18669.0,[u'CB'],Oak
+112,Cincinnati Bengals,Mark Walton,RB,Miami (FL),18671.0,[u'RB'],Cin
+113,Denver Broncos,DaeSean Hamilton,WR,Penn State,18672.0,[u'WR'],Den
+114,Detroit Lions,Da'Shawn Hand,DE,Alabama,18673.0,"[u'DE', u'EDR']",Det
+115,Chicago Bears,Joel Iyiegbuniwe,LB,Western Kentucky,18674.0,[u'LB'],Chi
+116,Dallas Cowboys,Dorance Armstrong,DE,Kansas,18675.0,"[u'DE', u'EDR']",Dal
+117,Tampa Bay Buccaneers,Jordan Whitehead,S,Pittsburgh,18676.0,[u'S'],TB
+118,Baltimore Ravens,Anthony Averett,CB,Alabama,18677.0,[u'CB'],Bal
+119,Los Angeles Chargers,Kyzir White,S,West Virginia,18678.0,[u'LB'],LAC
+120,Seattle Seahawks,Will Dissly,TE,Washington,18679.0,[u'TE'],Sea
+121,Buffalo Bills,Taron Johnson,CB,Weber State,18680.0,[u'CB'],Buf
+122,Baltimore Ravens,Kenny Young,LB,UCLA,18681.0,[u'LB'],Bal
+123,Miami Dolphins,Durham Smythe,TE,Notre Dame,18682.0,[u'TE'],Mia
+124,Kansas City Chiefs,Armani Watts,S,Texas A&M,18683.0,[u'S'],KC
+125,Philadelphia Eagles,Avonte Maddox,CB,Pittsburgh,18684.0,[u'CB'],Phi
+126,Atlanta Falcons,Ito Smith,RB,Southern Miss,18685.0,[u'RB'],Atl
+128,San Francisco 49ers,Kentavius Street,DE,NC State,18687.0,"[u'DE', u'EDR']",SF
+130,Philadelphia Eagles,Josh Sweat,DE,Florida State,18689.0,"[u'DE', u'EDR']",Phi
+131,Miami Dolphins,Kalen Ballage,RB,Arizona State,18690.0,[u'RB'],Mia
+132,Baltimore Ravens,Jaleel Scott,WR,New Mexico State,18691.0,[u'WR'],Bal
+133,Green Bay Packers,J'Mon Moore,WR,Missouri,18692.0,[u'WR'],GB
+134,Arizona Cardinals,Chase Edmonds,RB,Fordham,18693.0,[u'RB'],Ari
+135,Los Angeles Rams,John Franklin-Myers,DE,Stephen F. Austin,18694.0,[u'DE'],LAR
+136,Carolina Panthers,Marquis Haynes,DE,Ole Miss,18695.0,"[u'DE', u'EDR']",Car
+137,Dallas Cowboys,Dalton Schultz,TE,Stanford,18696.0,[u'TE'],Dal
+139,New York Giants,RJ McIntosh,DT,Miami (FL),18698.0,[u'DE'],NYG
+140,Oakland Raiders,Maurice Hurst,DT,Michigan,18699.0,[u'DT'],Oak
+141,Seattle Seahawks,Shaquem Griffin,LB,UCF,18700.0,[u'LB'],Sea
+142,San Francisco 49ers,D.J. Reed,CB,Kansas State,18701.0,[u'CB'],SF
+143,New England Patriots,Ja'Whaun Bentley,LB,Purdue,18702.0,[u'LB'],NE
+144,Tampa Bay Buccaneers,Justin Watson,WR,Penn,18703.0,[u'WR'],TB
+145,Chicago Bears,Bilal Nichols,DT,Delaware,18704.0,[u'DT'],Chi
+146,Seattle Seahawks,Tre Flowers,S,Oklahoma State,18705.0,[u'CB'],Sea
+147,Los Angeles Rams,Micah Kiser,LB,Virginia,18706.0,[u'LB'],LAR
+148,Pittsburgh Steelers,Marcus Allen,S,Penn State,18707.0,[u'S'],Pit
+150,Cleveland Browns,Genard Avery,LB,Memphis,18709.0,[u'LB'],Cle
+151,Cincinnati Bengals,Davontae Harris,CB,Illinois State,18710.0,[u'CB'],Cin
+152,Tennessee Titans,Dane Cruikshank,CB,Arizona,18711.0,[u'S'],Ten
+154,Buffalo Bills,Siran Neal,CB,Jacksonville State,18713.0,[u'S'],Buf
+156,Denver Broncos,Troy Fumagalli,TE,Wisconsin,18715.0,[u'TE'],Den
+157,Minnesota Vikings,Tyler Conklin,TE,Central Michigan,18716.0,[u'TE'],Min
+158,Cincinnati Bengals,Andrew Brown,DE,Virginia,18717.0,[u'DT'],Cin
+159,Indianapolis Colts,Daurice Fountain,WR,Northern Iowa,18718.0,[u'WR'],Ind
+160,Los Angeles Rams,Ogbonnia Okoronkwo,LB,Oklahoma,18719.0,"[u'LB', u'EDR']",LAR
+161,Carolina Panthers,Jermaine Carter,LB,Maryland,18720.0,[u'LB'],Car
+162,Baltimore Ravens,Jordan Lasley,WR,UCLA,18721.0,[u'WR'],Bal
+163,Washington Redskins,Tim Settle,DT,Virginia Tech,18722.0,[u'DT'],Wsh
+164,New Orleans Saints,Natrell Jamerson,S,Wisconsin,18723.0,[u'S'],NO
+165,Pittsburgh Steelers,Jaylen Samuels,FB,NC State,18724.0,[u'RB'],Pit
+167,Minnesota Vikings,Daniel Carlson,K,Auburn,18726.0,[u'K'],Min
+169,Indianapolis Colts,Jordan Wilkins,RB,Ole Miss,18728.0,[u'RB'],Ind
+170,Cincinnati Bengals,Darius Phillips,CB,Western Michigan,18729.0,[u'CB'],Cin
+171,Dallas Cowboys,Mike White,QB,Western Kentucky,18730.0,[u'QB'],Dal
+174,Green Bay Packers,Marquez Valdes-Scantling,WR,South Florida,18733.0,[u'WR'],GB
+175,Cleveland Browns,Damion Ratley,WR,Texas A&M,18734.0,[u'WR'],Cle
+176,Los Angeles Rams,John Kelly,RB,Tennessee,18735.0,[u'RB'],LAR
+177,Houston Texans,Duke Ejiofor,DE,Wake Forest,18736.0,"[u'LB', u'EDR']",Hou
+178,New England Patriots,Christian Sam,LB,Arizona State,18737.0,[u'LB'],NE
+179,New York Jets,Parry Nickerson,CB,Tulane,18738.0,[u'CB'],NYJ
+180,New York Jets,Folorunso Fatukasi,DT,Connecticut,18739.0,[u'DT'],NYJ
+181,Chicago Bears,Kylie Fitts,DE,Utah,18740.0,"[u'LB', u'EDR']",Chi
+182,Arizona Cardinals,Chris Campbell,CB,Penn State,18741.0,[u'CB'],Ari
+184,San Francisco 49ers,Marcell Harris,S,Florida,18743.0,[u'S'],SF
+185,Indianapolis Colts,Deon Cain,WR,Clemson,18744.0,[u'WR'],Ind
+186,Seattle Seahawks,Jacob Martin,LB,Temple,18745.0,"[u'LB', u'EDR']",Sea
+187,Buffalo Bills,Ray-Ray McCloud III,WR,Clemson,18746.0,[u'WR'],Buf
+188,Cleveland Browns,Simeon Thomas,CB,Louisiana,18747.0,[u'CB'],Cle
+189,New Orleans Saints,Kamrin Moore,CB,Boston College,18748.0,[u'CB'],NO
+190,Baltimore Ravens,DeShon Elliott,S,Texas,18749.0,[u'S'],Bal
+191,Los Angeles Chargers,Dylan Cantrell,WR,Texas Tech,18750.0,[u'WR'],LAC
+193,Dallas Cowboys,Chris Covington,LB,Indiana,18752.0,[u'LB'],Dal
+194,Atlanta Falcons,Russell Gage,WR,LSU,18753.0,[u'WR'],Atl
+195,Los Angeles Rams,Sebastian Joseph-Day,DT,Rutgers,18754.0,[u'DT'],LAR
+196,Kansas City Chiefs,Tremon Smith,CB,Central Arkansas,18755.0,[u'CB'],KC
+197,Washington Redskins,Shaun Dion Hamilton,LB,Alabama,18756.0,[u'LB'],Wsh
+198,Kansas City Chiefs,Kahlil McKenzie,DT,Tennessee,18815.0,[u'DT'],KC
+199,Tennessee Titans,Luke Falk,QB,Washington State,18757.0,[u'QB'],Ten
+200,Atlanta Falcons,Foye Oluokun,S,Yale,18758.0,[u'LB'],Atl
+201,New Orleans Saints,Boston Scott,RB,Louisiana Tech,18759.0,[u'RB'],NO
+202,Tampa Bay Buccaneers,Jack Cichy,LB,Wisconsin,18760.0,[u'LB'],TB
+203,Jacksonville Jaguars,Tanner Lee,QB,Nebraska,18761.0,[u'QB'],Jax
+204,New York Jets,Trenton Cannon,RB,Virginia State,18762.0,[u'RB'],NYJ
+205,Los Angeles Rams,Trevon Young,DE,Louisville,18763.0,"[u'LB', u'EDR']",LAR
+207,Green Bay Packers,Equanimeous St. Brown,WR,Notre Dame,18765.0,[u'WR'],GB
+208,Dallas Cowboys,Cedrick Wilson,WR,Boise State,18766.0,[u'WR'],Dal
+209,Miami Dolphins,Cornell Armstrong,CB,Southern Miss,18767.0,[u'CB'],Mia
+210,New England Patriots,Braxton Berrios,WR,Miami (FL),18768.0,[u'WR'],NE
+211,Houston Texans,Jordan Thomas,TE,Mississippi State,18769.0,[u'TE'],Hou
+214,Houston Texans,Peter Kalambayi,LB,Stanford,18772.0,"[u'LB', u'EDR']",Hou
+216,Oakland Raiders,Azeem Victor,LB,Washington,18774.0,[u'LB'],Oak
+217,Denver Broncos,Keishawn Bierria,LB,Washington,18775.0,[u'LB'],Den
+218,Minnesota Vikings,Ade Aruna,DE,Tulane,18776.0,"[u'DE', u'EDR']",Min
+219,New England Patriots,Danny Etling,QB,LSU,18777.0,[u'QB'],NE
+220,Seattle Seahawks,Alex McGough,QB,Florida International,18778.0,[u'QB'],Sea
+221,Indianapolis Colts,Matthew Adams,LB,Houston,18779.0,[u'LB'],Ind
+222,Houston Texans,Jermaine Kelly Jr.,CB,San Jose State,18780.0,[u'CB'],Hou
+223,San Francisco 49ers,Jullian Taylor,DT,Temple,18781.0,[u'DT'],SF
+224,Chicago Bears,Javon Wims,WR,Georgia,18782.0,[u'WR'],Chi
+225,Minnesota Vikings,Devante Downs,LB,California,18783.0,[u'LB'],Min
+226,Denver Broncos,David Williams,RB,Arkansas,18784.0,[u'RB'],Den
+227,Miami Dolphins,Quentin Poling,LB,Ohio,18785.0,[u'LB'],Mia
+228,Oakland Raiders,Marcell Ateman,WR,Oklahoma State,18786.0,[u'WR'],Oak
+229,Miami Dolphins,Jason Sanders,K,New Mexico,18787.0,[u'K'],Mia
+230,Jacksonville Jaguars,Leon Jacobs,OLB,Wisconsin,18788.0,[u'LB'],Jax
+231,Los Angeles Rams,Travin Howard,LB,TCU,18789.0,"[u'LB', u'EDR']",LAR
+232,Green Bay Packers,James Looney,DE,California,18790.0,[u'DT'],GB
+234,Carolina Panthers,Andre Smith,ILB,North Carolina,18792.0,[u'LB'],Car
+235,Indianapolis Colts,Zaire Franklin,LB,Syracuse,18793.0,[u'LB'],Ind
+236,Dallas Cowboys,Bo Scarbrough,RB,Alabama,18794.0,[u'RB'],Dal
+237,Detroit Lions,Nick Bawden,FB,San Diego State,18795.0,[u'RB'],Det
+238,Baltimore Ravens,Zach Sieler,DE,Ferris State,18796.0,[u'DE'],Bal
+240,San Francisco 49ers,Richie James,WR,Middle Tennessee,18798.0,[u'WR'],SF
+241,Washington Redskins,Greg Stroman,CB,Virginia Tech,18799.0,[u'CB'],Wsh
+242,Carolina Panthers,Kendrick Norton,DT,Miami (FL),18800.0,[u'DT'],Car
+243,New England Patriots,Keion Crossen,CB,Western Carolina,18801.0,[u'CB'],NE
+244,Los Angeles Rams,Justin Lawler,DE,SMU,18802.0,[u'DE'],LAR
+246,Pittsburgh Steelers,Joshua Frazier,DT,Alabama,18804.0,[u'DT'],Pit
+248,Green Bay Packers,Kendall Donnerson,OLB,Southeast Missouri State,18806.0,"[u'LB', u'EDR']",GB
+249,Cincinnati Bengals,Logan Woodside,QB,Toledo,18807.0,[u'QB'],Cin
+250,New England Patriots,Ryan Izzo,TE,Florida State,18808.0,[u'TE'],NE
+251,Los Angeles Chargers,Justin Jackson,RB,Northwestern,18809.0,[u'RB'],LAC
+253,Cincinnati Bengals,Auden Tate,WR,Florida State,18811.0,[u'WR'],Cin
+255,Buffalo Bills,Austin Proehl,WR,North Carolina,18813.0,[u'WR'],Buf
+256,Washington Redskins,Trey Quinn,WR,SMU,18814.0,[u'WR'],Wsh

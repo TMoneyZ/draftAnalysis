@@ -8,7 +8,7 @@ startIndex = 0
 inc = 50
 n = 0
 
-url = 'http://games.espn.com/ffl/freeagency?leagueId=122885&seasonId=2017&context=freeagency&view=overview&version=projections&avail=-1&startIndex={0}'
+url = 'http://games.espn.com/ffl/freeagency?leagueId=122885&seasonId=2018&context=freeagency&view=overview&version=projections&avail=-1&startIndex={0}'
 
 def scape(index):
     r = requests.get(url.format(index))

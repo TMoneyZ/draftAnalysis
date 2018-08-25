@@ -1,152 +1,18 @@
-,name,team_x,position_x,rank
-6,Cedric O'Neal,Buffalo Bills,RB,4
-7,Jordan Johnson,Buffalo Bills,RB,5
-12,Brandon Reilly,Buffalo Bills,WR1,5
-23,Jason Croom,Buffalo Bills,TE,5
-38,Malcolm Lewis,Miami Dolphins,WR1,5
-43,Drew Morgan,Miami Dolphins,WR2,5
-63,Cody Hollister,New England Patriots,WR1,5
-68,K.J. Maye,New England Patriots,WR2,5
-74,Jacob Hollister,New England Patriots,TE,5
-99,Jason Vander Laan,New York Jets,TE,4
-102,Ross Martin,New York Jets,K,2
-105,Thad Lewis,Baltimore Ravens,QB,3
-106,Josh Woodrum,Baltimore Ravens,QB,4
-109,Buck Allen,Baltimore Ravens,RB,3
-111,Taquan Mizzell,Baltimore Ravens,RB,5
-116,Quincy Adeboyejo,Baltimore Ravens,WR1,5
-123,Ben Watson,Baltimore Ravens,TE,1
-127,Ryan Malleck,Baltimore Ravens,TE,5
-130,A.J. McCarron,Cincinnati Bengals,QB,2
-136,Tra Carson,Cincinnati Bengals,RB,5
-141,Alonzo Russell,Cincinnati Bengals,WR1,5
-145,Karel Hamilton,Cincinnati Bengals,WR2,4
-146,Chris Brown,Cincinnati Bengals,WR2,5
-152,Cethan Carter,Cincinnati Bengals,TE,5
-160,Duke Johnson,Cleveland Browns,RB,2
-161,Matt Dayes,Cleveland Browns,RB,3
-167,Jordan Leslie,Cleveland Browns,WR1,4
-168,Rasheed Bailey,Cleveland Browns,WR1,5
-178,J.P. Holtz,Cleveland Browns,TE,4
-179,Taylor McNamara,Cleveland Browns,TE,5
-184,Josh Dobbs,Pittsburgh Steelers,QB,3
-185,Bart Houston,Pittsburgh Steelers,QB,4
-195,Marcus Tucker,Pittsburgh Steelers,WR1,5
-200,DeMarcus Ayers,Pittsburgh Steelers,WR2,5
-206,Phazahn Odom,Pittsburgh Steelers,TE,4
-207,Jake McGee,Pittsburgh Steelers,TE,5
-222,Will Fuller,Houston Texans,WR2,1
-225,Justin Hardee,Houston Texans,WR2,4
-226,Deante' Gray,Houston Texans,WR2,5
-233,Rashaun Allen,Houston Texans,TE,4
-234,Evan Baylis,Houston Texans,TE,5
-236,Ka'imi Fairbairn,Houston Texans,K,2
-240,Phillip Walker,Indianapolis Colts,QB,4
-249,Tevaun Smith,Indianapolis Colts,WR1,4
-250,Fred Brown,Indianapolis Colts,WR1,5
-254,Valdez Showers,Indianapolis Colts,WR2,4
-255,Bug Howard,Indianapolis Colts,WR2,5
-262,Darrell Daniels,Indianapolis Colts,TE,4
-271,I'Tavius Mathers,Jacksonville Jaguars,RB,5
-275,Shane Wynn,Jacksonville Jaguars,WR1,4
-276,Larry Pinkard,Jacksonville Jaguars,WR1,5
-279,Rashad Greene,Jacksonville Jaguars,WR2,3
-280,Amba Etta-Tawo,Jacksonville Jaguars,WR2,4
-281,Jamal Robinson,Jacksonville Jaguars,WR2,5
-287,Caleb Bluiett,Jacksonville Jaguars,TE,5
-292,Tyler Ferguson,Tennessee Titans,QB,4
-295,David Fluellen,Tennessee Titans,RB,3
-297,Akeem Judd,Tennessee Titans,RB,5
-317,Kyle Sloter,Denver Broncos,QB,3
-332,Hunter Sharp,Denver Broncos,WR2,4
-333,Kalif Raymond,Denver Broncos,WR2,5
-336,AJ Derby,Denver Broncos,TE,2
-339,Austin Traylor,Denver Broncos,TE,5
-343,Patrick Mahomes,Kansas City Chiefs,QB,2
-345,Joel Stave,Kansas City Chiefs,QB,4
-350,Devine Redding,Kansas City Chiefs,RB,5
-354,Tevin Jones,Kansas City Chiefs,WR1,4
-355,Robert Wheelwright,Kansas City Chiefs,WR1,5
-360,Marcus Kemp,Kansas City Chiefs,WR2,5
-371,Mike Bercovici,Los Angeles Chargers,QB,4
-380,Artavis Scott,Los Angeles Chargers,WR1,4
-386,Andre Patton,Los Angeles Chargers,WR2,4
-387,Mitchell Paige,Los Angeles Chargers,WR2,5
-394,Younghoe Koo,Los Angeles Chargers,K,2
-397,E.J. Manuel,Oakland Raiders,QB,3
-406,Jaydon Mickens,Oakland Raiders,WR1,4
-410,K.J. Brent,Oakland Raiders,WR2,3
-411,Keon Hatcher,Oakland Raiders,WR2,4
-412,Isaac Whitney,Oakland Raiders,WR2,5
-417,Gabe Holmes,Oakland Raiders,TE,4
-420,Giorgio Tavecchio,Oakland Raiders,K,2
-424,Cooper Rush,Dallas Cowboys,QB,4
-433,Uzoma Nwachukwu,Dallas Cowboys,WR1,4
-439,Lance Lenoir,Dallas Cowboys,WR2,5
-445,Blake Jarwin,Dallas Cowboys,TE,5
-456,Odell Beckham,New York Giants,WR1,1
-459,Andrew Turzilli,New York Giants,WR1,4
-460,Travis Rudolph,New York Giants,WR1,5
-466,Jerome Lane,New York Giants,WR2,5
-478,Dane Evans,Philadelphia Eagles,QB,4
-487,Greg Ward Jr.,Philadelphia Eagles,WR1,4
-499,Adam Zaruba,Philadelphia Eagles,TE,5
-504,Rob Kelley,Washington Redskins,RB,1
-509,Terrelle Pryor,Washington Redskins,WR1,1
-511,Maurice Harris,Washington Redskins,WR1,3
-513,Zach Pascal,Washington Redskins,WR1,5
-518,James Quick,Washington Redskins,WR2,5
-543,Tanner Gentry,Chicago Bears,WR2,4
-544,Titus Davis,Chicago Bears,WR2,5
-564,Michael Rector,Detroit Lions,WR1,4
-567,T.J. Jones,Detroit Lions,WR2,3
-569,Noel Thomas,Detroit Lions,WR2,5
-575,Tim Wright,Detroit Lions,TE,5
-580,Taysom Hill,Green Bay Packers,QB,4
-585,William Stanback,Green Bay Packers,RB,5
-595,Michael Clark,Green Bay Packers,WR2,5
-600,Aaron Peck,Green Bay Packers,TE,4
-609,Terrell Newby,Minnesota Vikings,RB,4
-610,Bronson Hill,Minnesota Vikings,RB,5
-614,Isaac Fruechte,Minnesota Vikings,WR1,4
-619,Cayleb Jones,Minnesota Vikings,WR2,4
-623,David Morgan,Minnesota Vikings,TE,2
-625,Kyle Carter,Minnesota Vikings,TE,4
-626,Nick Truesdell,Minnesota Vikings,TE,5
-628,Marshall Koehn,Minnesota Vikings,K,2
-632,Alek Torgersen,Atlanta Falcons,QB,4
-641,Marvin Hall,Atlanta Falcons,WR1,4
-642,Deante Burton,Atlanta Falcons,WR1,5
-648,Josh Magee,Atlanta Falcons,WR2,5
-652,Josh Perkins,Atlanta Falcons,TE,3
-654,Alex Gray,Atlanta Falcons,TE,5
-656,Mike Meyer,Atlanta Falcons,K,2
-660,Garrett Gilbert,Carolina Panthers,QB,4
-665,Jalen Simmons,Carolina Panthers,RB,5
-674,T.J. Graham,Carolina Panthers,WR2,4
-675,Mose Frazier,Carolina Panthers,WR2,5
-681,Eric Wallace,Carolina Panthers,TE,5
-698,Jordan Williams,New Orleans Saints,WR1,4
-699,Travin Dural,New Orleans Saints,WR1,5
-700,Ted Ginn,New Orleans Saints,WR2,1
-703,Jake Lampman,New Orleans Saints,WR2,4
-715,Sefo Liufau,Tampa Bay Buccaneers,QB,4
-725,Shaq Hill,Tampa Bay Buccaneers,WR1,5
-730,Bobo Wilson,Tampa Bay Buccaneers,WR2,5
-736,Tevin Westbrook,Tampa Bay Buccaneers,TE,5
-742,Trevor Knight,Arizona Cardinals,QB,4
-748,Elijhaa Penny,Arizona Cardinals,RB,5
-752,Marquis Bundy,Arizona Cardinals,WR1,4
-753,Krishawn Hogan,Arizona Cardinals,WR1,5
-771,Aaron Green,Los Angeles Rams,RB,3
-772,Justin Davis,Los Angeles Rams,RB,4
-778,Brandon Shippen,Los Angeles Rams,WR1,5
-781,Mike Thomas,Los Angeles Rams,WR2,3
-788,Johnny Mundt,Los Angeles Rams,TE,4
-789,Travis Wilson,Los Angeles Rams,TE,5
-813,Marcus Lucas,Seattle Seahawks,TE,4
-814,Tyrone Swoopes,Seattle Seahawks,TE,5
-819,Nick Mullens,San Francisco 49ers,QB,4
-828,Victor Bolden,San Francisco 49ers,WR1,4
-834,Tim Patrick,San Francisco 49ers,WR2,5
-842,Nick Rose,San Francisco 49ers,K,2
+href,name,position_x,rank,team,id,position_y
+http://rotoworld.com/player/nfl/11586/taylor-bertolet,Taylor Bertolet,K,1,NYJ,,
+http://rotoworld.com/player/nfl/13606/gus-edwards,Gus Edwards,RB,4,Bal,,
+http://rotoworld.com/player/nfl/12643/tim-white,Tim White,WR2,3,Bal,,
+http://rotoworld.com/player/nfl/11359/tra-carson,Tra Carson,RB,4,Cin,,
+http://rotoworld.com/player/nfl/12644/cj-board,C.J. Board,WR1,3,Cle,,
+http://rotoworld.com/player/nfl/12001/kj-brent,K.J. Brent,WR1,2,Ind,,
+http://rotoworld.com/player/nfl/12501/tim-patrick,Tim Patrick,WR1,3,Den,,
+http://rotoworld.com/player/nfl/13816/detrez-newsome,Detrez Newsome,RB,4,LAC,,
+http://rotoworld.com/player/nfl/12471/artavis-scott,Artavis Scott,WR1,3,LAC,,
+http://rotoworld.com/player/nfl/12042/jalen-simmons,Jalen Simmons,RB,4,NYG,,
+http://rotoworld.com/player/nfl/13364/teo-redding,Teo Redding,WR1,3,Det,,
+http://rotoworld.com/player/nfl/13438/mike-boone,Mike Boone,RB,3,Min,,
+http://rotoworld.com/player/nfl/12914/reggie-davis,Reggie Davis,WR2,3,Atl,,
+http://rotoworld.com/player/nfl/9522/garrett-gilbert,Garrett Gilbert,QB,2,Car,,
+http://rotoworld.com/player/nfl/10688/rasheed-bailey,Rasheed Bailey,WR1,3,Car,,
+http://rotoworld.com/player/nfl/6575/greg-little,Greg Little,WR2,3,Ari,,
+http://rotoworld.com/player/nfl/11002/gabe-holmes,Gabe Holmes,TE,2,Ari,,

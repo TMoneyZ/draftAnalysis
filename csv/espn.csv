@@ -1,2288 +1,2221 @@
 id,name,position,team
-8439,Aaron Rodgers,[u'QB'],GB
-11237,Matt Ryan,[u'QB'],Atl
+17683,Todd Gurley II,[u'RB'],LAR
+14881,Russell Wilson,[u'QB'],Sea
+13994,Cam Newton,[u'QB'],Car
+8416,Alex Smith,[u'QB'],Wsh
+2330,Tom Brady,[u'QB'],NE
+18187,Alvin Kamara,[u'RB'],NO
+15825,Le'Veon Bell,[u'RB'],Pit
+17795,Carson Wentz,[u'QB'],Phi
+5529,Philip Rivers,[u'QB'],LAC
 2580,Drew Brees,[u'QB'],NO
-17442,David Johnson,[u'RB'],Ari
-14874,Andrew Luck,[u'QB'],Ind
-14880,Kirk Cousins,[u'QB'],Wsh
-17797,Ezekiel Elliott,[u'RB'],Dal
+18225,Kareem Hunt,[u'RB'],KC
+5536,Ben Roethlisberger,[u'QB'],Pit
+14880,Kirk Cousins,[u'QB'],Min
+17794,Jared Goff,[u'QB'],LAR
+17586,Melvin Gordon,[u'RB'],LAC
 17907,Dak Prescott,[u'QB'],Dal
 12483,Matthew Stafford,[u'QB'],Det
 16724,Blake Bortles,[u'QB'],Jax
-14163,Tyrod Taylor,[u'QB'],Buf
-14881,Russell Wilson,[u'QB'],Sea
-16757,Derek Carr,[u'QB'],Oak
-14012,Andy Dalton,[u'QB'],Cin
-17610,Marcus Mariota,[u'QB'],Ten
-5529,Philip Rivers,[u'QB'],LAC
-2330,Tom Brady,[u'QB'],NE
-17399,Jameis Winston,[u'QB'],TB
-13994,Cam Newton,[u'QB'],Car
-5536,Ben Roethlisberger,[u'QB'],Pit
-12514,LeSean McCoy,[u'RB'],Buf
-11252,Joe Flacco,[u'QB'],Bal
-15825,Le'Veon Bell,[u'RB'],Pit
-4459,Carson Palmer,[u'QB'],Ari
-14005,DeMarco Murray,[u'RB'],Ten
-17929,Tyreek Hill,[u'WR'],KC
-16944,Devonta Freeman,[u'RB'],Atl
-13213,LeGarrette Blount,[u'RB'],Phi
-8416,Alex Smith,[u'QB'],KC
-5526,Eli Manning,[u'QB'],NYG
-13197,Sam Bradford,[u'QB'],Min
-13934,Antonio Brown,[u'WR'],Pit
-17795,Carson Wentz,[u'QB'],Phi
-17586,Melvin Gordon,[u'RB'],LAC
-16737,Mike Evans,[u'WR'],TB
-11270,Jordy Nelson,[u'WR'],GB
-17919,Jordan Howard,[u'RB'],Chi
-16733,Odell Beckham Jr.,[u'WR'],NYG
-14001,Colin Kaepernick,[u'QB'],SF
-13981,Mark Ingram,[u'RB'],NO
-17455,Trevor Siemian,[u'QB'],Den
-14876,Ryan Tannehill,[u'QB'],Mia
-17556,Jay Ajayi,[u'RB'],Mia
-14924,T.Y. Hilton,[u'WR'],Ind
-4333,Matt Bryant,[u'K'],Atl
-13982,Julio Jones,[u'WR'],Atl
-8479,Frank Gore,[u'RB'],Ind
-15920,Latavius Murray,[u'RB'],Min
-16800,Davante Adams,[u'WR'],GB
-15683,Justin Tucker,[u'K'],Bal
-17692,Landon Collins,[u'S'],NYG
-16731,Brandin Cooks,[u'WR'],NE
-14879,Brock Osweiler,[u'QB'],Cle
-17834,Michael Thomas,[u'WR'],NO
-17133,Isaiah Crowell,[u'RB'],Cle
-16777,Carlos Hyde,[u'RB'],SF
-17600,Jamison Crowder,[u'WR'],Wsh
-14886,Lamar Miller,[u'RB'],Hou
-17679,Kwon Alexander,[u'LB'],TB
-16020,Spencer Ware,[u'RB'],KC
-17689,Tevin Coleman,[u'RB'],Atl
-14221,Doug Baldwin,[u'WR'],Sea
-17683,Todd Gurley,[u'RB'],LAR
-16790,Jarvis Landry,[u'WR'],Mia
-16803,Jeremy Hill,[u'RB'],Cin
-14979,Bobby Wagner,[u'LB'],Sea
-14973,Zach Brown,[u'LB'],Wsh
-11278,Matt Forte,[u'RB'],NYJ
-1097,Adam Vinatieri,[u'K'],Ind
-15918,Caleb Sturgis,[u'K'],Phi
-15965,Dustin Hopkins,[u'K'],Wsh
-17762,Tyrell Williams,[u'WR'],LAC
-18104,Wil Lutz,[u'K'],NO
-12563,Michael Crabtree,[u'WR'],Oak
-17677,Amari Cooper,[u'WR'],Oak
-12649,Julian Edelman,[u'WR'],NE
-2148,Sebastian Janikowski,[u'K'],Oak
-10453,Ted Ginn Jr.,[u'WR'],NO
-14322,Dan Bailey,[u'K'],Dal
-15102,Rishard Matthews,[u'WR'],Ten
-16787,Marqise Lee,[u'WR'],Jax
-9329,Nick Novak,[u'K'],Hou
-11122,Matt Prater,[u'K'],Det
-12460,Graham Gano,[u'K'],Car
-15806,Alec Ogletree,[u'LB'],LAR
-14129,Bilal Powell,[u'RB'],NYJ
-17438,Jason Myers,[u'K'],Jax
-17171,Brandon McManus,[u'K'],Den
-16710,Khalil Mack,"[u'DE', u'EDR']",Oak
-14851,Terrelle Pryor Sr.,[u'WR'],Wsh
-11247,Jonathan Stewart,[u'RB'],Car
-13216,Demaryius Thomas,[u'WR'],Den
-18079,Jalen Richard,[u'RB'],Oak
-15847,Travis Kelce,[u'TE'],KC
-16783,Terrance West,[u'RB'],Bal
-17619,Tyler Lockett,[u'WR'],Sea
-13976,Von Miller,"[u'LB', u'EDR']",Den
-9424,Lorenzo Alexander,"[u'DE', u'LB', u'EDR']",Buf
-9704,Stephen Gostkowski,[u'K'],NE
-5528,Larry Fitzgerald,[u'WR'],Ari
-16767,Christian Kirksey,[u'LB'],Cle
-8544,Darren Sproles,[u'RB'],Phi
-16730,Kelvin Benjamin,[u'WR'],Car
-13295,Emmanuel Sanders,[u'WR'],Den
-8664,Ryan Fitzpatrick,[u'QB'],TB
-11923,Stephen Hauschka,[u'K'],Buf
-17242,Zachary Orr,[u'LB'],Bal
-12601,Mike Wallace,[u'WR'],Bal
-13204,Ryan Mathews,[u'RB'],Phi
-17178,Adam Thielen,[u'WR'],Min
-13217,Golden Tate,[u'WR'],Det
-17172,Cairo Santos,[u'K'],KC
-17837,Deion Jones,[u'LB'],Atl
-13215,Dez Bryant,[u'WR'],Dal
-17159,Telvin Smith,[u'LB'],Jax
-16016,Kenny Stills,[u'WR'],Mia
-17623,Benardrick McKinney,[u'LB'],Hou
-10475,Greg Olsen,[u'TE'],Car
-12556,Kenny Britt,[u'WR'],Cle
-15786,Tavon Austin,[u'WR'],LAR
-10478,Paul Posluszny,[u'LB'],Jax
-14932,Mark Barron,[u'LB'],LAR
-16799,Allen Robinson,[u'WR'],Jax
-14054,Kyle Rudolph,[u'TE'],Min
-14140,K.J. Wright,[u'LB'],Sea
-15831,Johnathan Cyprien,[u'S'],Ten
-17452,Eric Kendricks,[u'LB'],Min
-17746,Josh Lambo,[u'K'],LAC
-8429,Thomas Davis,[u'LB'],Car
-11283,DeSean Jackson,[u'WR'],TB
-17468,Vic Beasley Jr.,"[u'DE', u'EDR']",Atl
+13981,Mark Ingram II,[u'RB'],NO
+15168,Case Keenum,[u'QB'],Den
 15795,DeAndre Hopkins,[u'WR'],Hou
-13232,Jimmy Graham,[u'TE'],Sea
-10636,Mason Crosby,[u'K'],GB
-14985,Lavonte David,[u'LB'],TB
-9761,Delanie Walker,[u'TE'],Ten
-15830,Jamie Collins,[u'LB'],Cle
-12576,Brandon LaFell,[u'WR'],Cin
-15070,Tahir Whitehead,[u'LB'],Det
-10459,Lawrence Timmons,[u'LB'],Mia
-11439,Pierre Garcon,[u'WR'],SF
-17184,Willie Snead,[u'WR'],NO
-15952,Mike Gillislee,[u'RB'],NE
-13284,Sean Lee,[u'LB'],Dal
-17827,Sterling Shepard,[u'WR'],NYG
-12731,Ryan Succop,[u'K'],Ten
-18078,Robert Kelley,[u'RB'],Wsh
-13983,A.J. Green,[u'WR'],Cin
-16762,Preston Brown,[u'LB'],Buf
-17750,Cameron Meredith,[u'WR'],Chi
-15855,Christine Michael,[u'RB'],Ind
-14023,Mason Foster,[u'LB'],Wsh
-2622,Steve Smith Sr.,[u'WR'],Bal
-15966,Chris Thompson,[u'RB'],Wsh
-16727,Ryan Shazier,[u'LB'],Pit
-15072,Marvin Jones,[u'WR'],Det
-15819,Kiko Alonso,[u'LB'],Mia
-17806,Keanu Neal,[u'S'],Atl
-17169,Chandler Catanzaro,[u'K'],NYJ
-17784,Cameron Brate,[u'TE'],TB
-13340,Kurt Coleman,[u'S'],Car
-15246,Vontaze Burfict,[u'LB'],Cin
-17611,Ty Montgomery,[u'RB'],GB
-17676,Stefon Diggs,[u'WR'],Min
-17758,Quincy Enunwa,[u'WR'],NYJ
-15349,Cole Beasley,[u'WR'],Dal
-9793,Antoine Bethea,[u'S'],Ari
-13264,Morgan Burnett,[u'S'],GB
-15807,Cordarrelle Patterson,[u'WR'],Oak
-11295,Martellus Bennett,[u'TE'],GB
-17175,Chris Boswell,[u'K'],Pit
-17908,Devontae Booker,[u'RB'],Den
-15861,Logan Ryan,[u'CB'],Ten
-14966,Casey Hayward,[u'CB'],LAC
-15168,Case Keenum,[u'QB'],Min
-10621,Nick Folk,[u'K'],TB
-10913,Brent Grimes,[u'CB'],TB
-15075,Nigel Bradham,[u'LB'],Phi
-16195,Tony Jefferson,[u'S'],Bal
-17664,Markus Golden,"[u'LB', u'EDR']",Ari
-13252,Eric Berry,[u'S'],KC
-17514,J.J. Nelson,[u'WR'],Ari
-14938,Luke Kuechly,[u'LB'],Car
-14214,Malcolm Smith,[u'LB'],SF
-17136,Dontrelle Inman,[u'WR'],LAC
-15994,Theo Riddick,[u'RB'],Det
-17680,Danielle Hunter,"[u'DE', u'EDR']",Min
-13304,T.J. Ward,[u'S'],Den
-14860,Craig Robertson,[u'LB'],NO
-17494,Jordan Hicks,[u'LB'],Phi
-11383,Tim Hightower,[u'RB'],SF
-14926,Melvin Ingram,"[u'LB', u'DE', u'EDR']",LAC
-16782,Jerick McKinnon,[u'RB'],Min
-15835,Zach Ertz,[u'TE'],Phi
-10481,Eric Weddle,[u'S'],Bal
-16269,Bradley McDougald,[u'S'],Sea
-4512,Anquan Boldin,[u'WR'],Buf
-14927,Chandler Jones,"[u'LB', u'EDR']",Ari
-5558,Karlos Dansby,[u'LB'],Ari
-11533,Jerrell Freeman,[u'LB'],Chi
-17658,Duke Johnson Jr.,[u'RB'],Cle
-17177,Taylor Gabriel,[u'WR'],Atl
-9705,Brandon Marshall,[u'WR'],NYG
-11284,Calais Campbell,"[u'DT', u'EDR']",Jax
-12503,Rashad Jennings,[u'RB'],NYG
-17756,Adam Humphries,[u'WR'],TB
-15222,Rodney McLeod,[u'S'],Phi
-17229,Bashaud Breeland,[u'CB'],Wsh
-17809,Will Fuller V,[u'WR'],Hou
-16913,James White,[u'RB'],NE
-13274,Carlos Dunlap,"[u'DE', u'EDR']",Cin
-15124,Josh Norman,[u'CB'],Wsh
-17254,Avery Williamson,[u'LB'],Ten
-15860,Jordan Reed,[u'TE'],Wsh
-14360,Matt Asiata,[u'RB'],Det
-13256,Jason Pierre-Paul,"[u'DE', u'EDR']",NYG
-17319,Malcolm Butler,[u'CB'],NE
-11250,Dominique Rodgers-Cromartie,[u'CB'],NYG
-16735,Ha Ha Clinton-Dix,[u'S'],GB
-17479,Byron Jones,[u'S'],Dal
-17936,Jatavis Brown,[u'LB'],LAC
-14151,Jeremy Kerley,[u'WR'],SF
-11688,Dan Carpenter,[u'K'],Buf
-15888,Marcus Cooper,[u'CB'],Chi
-17593,DeVante Parker,[u'WR'],Mia
-14946,Bruce Irvin,"[u'LB', u'EDR']",Oak
-16763,Jordan Matthews,[u'WR'],Buf
-12426,Malcolm Jenkins,[u'S'],Phi
+13934,Antonio Brown,[u'WR'],Pit
+12514,LeSean McCoy,[u'RB'],Buf
+11237,Matt Ryan,[u'QB'],Atl
+14198,Dion Lewis,[u'RB'],Ten
+18218,Leonard Fournette,[u'RB'],Jax
+17929,Tyreek Hill,[u'WR'],KC
+15818,Keenan Allen,[u'WR'],LAC
+16757,Derek Carr,[u'QB'],Oak
+17610,Marcus Mariota,[u'QB'],Ten
+14993,Greg Zuerlein,[u'K'],LAR
+16777,Carlos Hyde,[u'RB'],Cle
+17797,Ezekiel Elliott,[u'RB'],Dal
+17919,Jordan Howard,[u'RB'],Chi
+14163,Tyrod Taylor,[u'QB'],Cle
+14012,Andy Dalton,[u'QB'],Cin
+18279,Christian McCaffrey,[u'RB'],Car
+17399,Jameis Winston,[u'QB'],TB
+9704,Stephen Gostkowski,[u'K'],NE
+9354,Robbie Gould,[u'K'],SF
+3609,Josh McCown,[u'QB'],NYJ
+16944,Devonta Freeman,[u'RB'],Atl
+15683,Justin Tucker,[u'K'],Bal
+13982,Julio Jones,[u'WR'],Atl
+15072,Marvin Jones Jr.,[u'WR'],Det
+18305,Adoree' Jackson,[u'CB'],Ten
+16790,Jarvis Landry,[u'WR'],Cle
+11252,Joe Flacco,[u'QB'],Bal
+13229,Rob Gronkowski,[u'TE'],NE
+18104,Wil Lutz,[u'K'],NO
+4333,Matt Bryant,[u'K'],Atl
+18409,Harrison Butker,[u'K'],KC
+17834,Michael Thomas,[u'WR'],NO
+14886,Lamar Miller,[u'RB'],Hou
+16731,Brandin Cooks,[u'WR'],LAR
 16720,C.J. Mosley,[u'LB'],Bal
-17264,Will Compton,[u'LB'],Wsh
-17843,Roberto Aguayo,[u'K'],Chi
-14053,Randall Cobb,[u'WR'],GB
-13045,Jonathan Casillas,[u'LB'],NYG
-8430,Derrick Johnson,[u'LB'],KC
-1440,Phil Dawson,[u'K'],Ari
-13226,Andre Roberts,[u'WR'],Atl
-8461,Mike Nugent,[u'K'],NYG
-14929,Nick Perry,"[u'LB', u'EDR']",GB
+5526,Eli Manning,[u'QB'],NYG
+17175,Chris Boswell,[u'K'],Pit
+18306,JuJu Smith-Schuster,[u'WR'],Pit
+12731,Ryan Succop,[u'K'],Ten
+18171,Tarik Cohen,[u'RB'],Chi
+17870,Jacoby Brissett,[u'QB'],Ind
+13983,A.J. Green,[u'WR'],Cin
+5528,Larry Fitzgerald,[u'WR'],Ari
+15847,Travis Kelce,[u'TE'],KC
+18246,Deshaun Watson,[u'QB'],Hou
+17619,Tyler Lockett,[u'WR'],Sea
+14221,Doug Baldwin,[u'WR'],Sea
+14979,Bobby Wagner,[u'LB'],Sea
+17933,Alex Collins,[u'RB'],Bal
+11122,Matt Prater,[u'K'],Det
+17178,Adam Thielen,[u'WR'],Min
+17903,Blake Martinez,[u'LB'],GB
+16800,Davante Adams,[u'WR'],GB
+17837,Deion Jones,[u'LB'],Atl
+16040,C.J. Anderson,[u'RB'],Car
+17876,Joe Schobert,[u'LB'],Cle
+17658,Duke Johnson Jr.,[u'RB'],Cle
+10456,Marshawn Lynch,[u'RB'],Oak
+8479,Frank Gore,[u'RB'],Mia
+13395,Reshad Jones,[u'S'],Mia
+16782,Jerick McKinnon,[u'RB'],SF
+14958,Demario Davis,[u'LB'],NO
+16767,Christian Kirksey,[u'LB'],Cle
+15920,Latavius Murray,[u'RB'],Min
+11609,Wesley Woodyard,[u'LB'],Ten
+14816,Kai Forbath,[u'K'],Min
+17689,Tevin Coleman,[u'RB'],Atl
 14912,Alshon Jeffery,[u'WR'],Phi
-10611,Corey Graham,[u'S'],Phi
-15419,DeShawn Shead,[u'CB'],Sea
-15817,Robert Alford,[u'CB'],Atl
+11923,Stephen Hauschka,[u'K'],Buf
+18097,Robby Anderson,[u'WR'],NYJ
+14938,Luke Kuechly,[u'LB'],Car
+9597,Jay Cutler,[u'QB'],FA
+18328,DeShone Kizer,[u'QB'],GB
+13217,Golden Tate,[u'WR'],Det
+17676,Stefon Diggs,[u'WR'],Min
+16737,Mike Evans,[u'WR'],TB
+13971,Cameron Jordan,"[u'DE', u'EDR']",NO
+18178,Jake Elliott,[u'K'],Phi
+14005,DeMarco Murray,[u'RB'],FA
+17159,Telvin Smith,[u'LB'],Jax
+17668,Nelson Agholor,[u'WR'],Phi
+17682,Devin Funchess,[u'WR'],Car
+11284,Calais Campbell,"[u'DE', u'EDR']",Jax
+14927,Chandler Jones,"[u'DE', u'EDR']",Ari
+1440,Phil Dawson,[u'K'],Ari
+15835,Zach Ertz,[u'TE'],Phi
+15979,Jordan Poyer,[u'S'],Buf
+12460,Graham Gano,[u'K'],Car
+17616,Javorius Allen,[u'RB'],Bal
+17848,Kevin Byard,[u'S'],Ten
+17806,Keanu Neal,[u'S'],Atl
+14129,Bilal Powell,[u'RB'],NYJ
+17832,Derrick Henry,[u'RB'],Ten
+13216,Demaryius Thomas,[u'WR'],Den
+14973,Zach Brown,[u'LB'],Wsh
+17856,Kenyan Drake,[u'RB'],Mia
+15062,Travis Benjamin,[u'WR'],LAC
+16762,Preston Brown,[u'LB'],Cin
+17796,Joey Bosa,"[u'DE', u'EDR']",LAC
+18291,Desmond King,[u'CB'],LAC
+15966,Chris Thompson,[u'RB'],Wsh
+15863,Darius Slay,[u'CB'],Det
+18362,Jamaal Williams,[u'RB'],GB
+10453,Ted Ginn Jr.,[u'WR'],NO
+13262,NaVorro Bowman,[u'LB'],Oak
+1097,Adam Vinatieri,[u'K'],Ind
+14985,Lavonte David,[u'LB'],TB
+17169,Chandler Catanzaro,[u'K'],TB
+17208,Orleans Darkwa,[u'RB'],FA
+16016,Kenny Stills,[u'WR'],Mia
+14924,T.Y. Hilton,[u'WR'],Ind
+17133,Isaiah Crowell,[u'RB'],NYJ
+15002,Brandon Marshall,[u'LB'],Den
+13215,Dez Bryant,[u'WR'],FA
+18415,Cooper Kupp,[u'WR'],LAR
+15839,Marquise Goodwin,[u'WR'],SF
+16802,DeMarcus Lawrence,"[u'DE', u'EDR']",Dal
+16710,Khalil Mack,"[u'DE', u'EDR']",Oak
+12563,Michael Crabtree,[u'WR'],Bal
+13232,Jimmy Graham,[u'TE'],GB
+15806,Alec Ogletree,[u'LB'],NYG
+17452,Eric Kendricks,[u'LB'],Min
+17677,Amari Cooper,[u'WR'],Oak
+17692,Landon Collins,[u'S'],NYG
+18193,Joe Mixon,[u'RB'],Cin
+15934,Vince Williams,[u'LB'],Pit
+18315,Tre'Davious White,[u'CB'],Buf
+17600,Jamison Crowder,[u'WR'],Wsh
+17842,Sean Davis,[u'S'],Pit
+17556,Jay Ajayi,[u'RB'],Phi
+15428,Jermaine Kearse,[u'WR'],NYJ
+16727,Ryan Shazier,[u'LB'],Pit
+15070,Tahir Whitehead,[u'LB'],Oak
+18382,Evan Engram,[u'TE'],NYG
+12716,Glover Quin,[u'S'],Det
+15819,Kiko Alonso,[u'LB'],Mia
+11247,Jonathan Stewart,[u'RB'],NYG
+15960,Micah Hyde,[u'S'],Buf
+14945,Harrison Smith,[u'S'],Min
+15826,Giovani Bernard,[u'RB'],Cin
+17580,Ameer Abdullah,[u'RB'],Det
+14922,Mohamed Sanu,[u'WR'],Atl
+8439,Aaron Rodgers,[u'QB'],GB
+16734,Jadeveon Clowney,"[u'DE', u'EDR']",Hou
+15880,Robert Woods,[u'WR'],LAR
+16725,Sammy Watkins,[u'WR'],KC
+16781,Paul Richardson,[u'WR'],Wsh
+13973,Ryan Kerrigan,"[u'DE', u'EDR']",Wsh
+15971,Rex Burkhead,[u'RB'],NE
+17171,Brandon McManus,[u'K'],Den
+14140,K.J. Wright,[u'LB'],Sea
+15865,D.J. Swearinger,[u'S'],Wsh
+17808,Darron Lee,[u'LB'],NYJ
+13236,Devin McCourty,[u'S'],NE
+17679,Kwon Alexander,[u'LB'],TB
+15102,Rishard Matthews,[u'WR'],Ten
+16715,Kyle Fuller,[u'CB'],Chi
+13976,Von Miller,"[u'LB', u'EDR']",Den
+9761,Delanie Walker,[u'TE'],Ten
+14054,Kyle Rudolph,[u'TE'],Min
+10481,Eric Weddle,[u'S'],Bal
+15058,Blair Walsh,[u'K'],Sea
+11674,Danny Amendola,[u'WR'],Mia
+12691,Jason McCourty,[u'CB'],NE
+17846,James Bradberry,[u'CB'],Car
+18168,Mitchell Trubisky,[u'QB'],Chi
+13256,Jason Pierre-Paul,"[u'DE', u'EDR']",TB
+14048,Justin Houston,"[u'LB', u'EDR']",KC
+15075,Nigel Bradham,[u'LB'],Phi
+15994,Theo Riddick,[u'RB'],Det
+14926,Melvin Ingram,"[u'LB', u'EDR']",LAC
+13338,Barry Church,[u'S'],Jax
+4468,Terrell Suggs,"[u'LB', u'EDR']",Bal
+16718,Darqueze Dennard,[u'CB'],Cin
+14932,Mark Barron,[u'LB'],LAR
+12601,Mike Wallace,[u'WR'],Phi
+18458,Austin Ekeler,[u'RB'],LAC
+18149,Matthias Farley,[u'S'],Ind
+18190,Jarrad Davis,[u'LB'],Det
+5558,Karlos Dansby,[u'LB'],Ari
+17809,Will Fuller V,[u'WR'],Hou
+13213,LeGarrette Blount,[u'RB'],Det
+15851,Tyrann Mathieu,[u'S'],Hou
+16562,A.J. Bouye,[u'CB'],Jax
+17893,Pharoh Cooper,[u'WR'],LAR
+17916,Matthew Judon,"[u'LB', u'EDR']",Bal
+18282,Marshon Lattimore,[u'CB'],NO
+18454,Ka'imi Fairbairn,[u'K'],Hou
+17823,Myles Jack,[u'LB'],Jax
+14989,Trumaine Johnson,[u'CB'],NYJ
+17845,Vonn Bell,[u'S'],NO
+18186,Eddie Jackson,[u'S'],Chi
+13251,Earl Thomas,[u'S'],Sea
+18220,Jamal Adams,[u'S'],NYJ
+16039,Jahleel Addae,[u'S'],LAC
 17326,Daniel Sorensen,[u'S'],KC
+12527,Patrick Chung,[u'S'],NE
+14946,Bruce Irvin,"[u'DE', u'EDR']",Oak
+15817,Robert Alford,[u'CB'],Atl
+17784,Cameron Brate,[u'TE'],TB
+13284,Sean Lee,[u'LB'],Dal
+17623,Benardrick McKinney,[u'LB'],Hou
+17762,Tyrell Williams,[u'WR'],LAC
+15074,Danny Trevathan,[u'LB'],Chi
 17798,Jalen Ramsey,[u'CB'],Jax
-17859,Daryl Worley,[u'CB'],Car
-5362,Antonio Gates,[u'TE'],LAC
+17852,Yannick Ngakoue,"[u'DE', u'EDR']",Jax
+14860,Craig Robertson,[u'LB'],NO
+16716,Aaron Donald,[u'DT'],LAR
+12426,Malcolm Jenkins,[u'S'],Phi
+13373,Everson Griffen,"[u'DE', u'EDR']",Min
+17613,Brett Hundley,[u'QB'],GB
+16787,Marqise Lee,[u'WR'],Jax
+17173,Cody Parkey,[u'K'],Chi
+17214,Tre Boston,[u'S'],Ari
+17222,T.J. Carrie,[u'CB'],Cle
+13977,Cameron Heyward,[u'DT'],Pit
+17319,Malcolm Butler,[u'CB'],Ten
+14053,Randall Cobb,[u'WR'],GB
+18466,Keelan Cole,[u'WR'],Jax
+13239,Brandon Graham,"[u'DE', u'EDR']",Phi
+17633,Marcus Peters,[u'CB'],LAR
+17987,Jalen Mills,[u'CB'],Phi
+17891,De'Vondre Campbell,[u'LB'],Atl
+14016,Chris Conte,[u'S'],TB
+17254,Avery Williamson,[u'LB'],NYJ
+17312,Dontae Johnson,[u'CB'],Sea
+17455,Trevor Siemian,[u'QB'],Min
+18244,T.J. Watt,"[u'LB', u'EDR']",Pit
+10465,Reggie Nelson,[u'S'],Oak
+13274,Carlos Dunlap,"[u'DE', u'EDR']",Cin
+17229,Bashaud Breeland,[u'CB'],Wsh
+18496,Mike Hilton,[u'CB'],Pit
+16886,Martavis Bryant,[u'WR'],Oak
+16473,Jeff Heath,[u'S'],Dal
+16504,Jack Doyle,[u'TE'],Ind
+16735,Ha Ha Clinton-Dix,[u'S'],GB
+17479,Byron Jones,[u'CB'],Dal
+17248,Christian Jones,[u'LB'],Det
+18145,Patrick Onwuasor,[u'LB'],Bal
+16195,Tony Jefferson,[u'S'],Bal
+16772,Kyle Van Noy,[u'LB'],NE
+16024,Kerwynn Williams,[u'RB'],KC
+18192,Jabrill Peppers,[u'S'],Cle
+18425,Corey Clement,[u'RB'],Phi
+15827,Jon Bostic,[u'LB'],Pit
+17381,Terrance Mitchell,[u'CB'],Cle
+13254,Kareem Jackson,[u'CB'],Hou
+13238,Patrick Robinson,[u'CB'],NO
+17899,Antonio Morrison,[u'LB'],Ind
+18379,Zach Cunningham,[u'LB'],Hou
+9424,Lorenzo Alexander,[u'LB'],Buf
+15785,Ezekiel Ansah,"[u'DE', u'EDR']",Det
+17577,Trae Waynes,[u'CB'],Min
+17647,Adrian Amos,[u'S'],Chi
+18197,Marcus Williams,[u'S'],NO
+18194,Samaje Perine,[u'RB'],Wsh
+14139,Buster Skrine,[u'CB'],NYJ
+18308,Budda Baker,[u'S'],Ari
+11283,DeSean Jackson,[u'WR'],TB
+16723,Deone Bucannon,[u'LB'],Ari
+17559,Trey Flowers,"[u'DE', u'EDR']",NE
+18506,James Burgess Jr.,[u'LB'],Cle
+15813,Kenny Vaccaro,[u'S'],Ten
+5893,Mike Adams,[u'S'],Car
+15091,Randy Bullock,[u'K'],Cin
+18058,Alex Erickson,[u'WR'],Cin
+17827,Sterling Shepard,[u'WR'],NYG
+14966,Casey Hayward,[u'CB'],LAC
+9793,Antoine Bethea,[u'S'],Ari
+16730,Kelvin Benjamin,[u'WR'],Buf
+15245,Giorgio Tavecchio,[u'K'],Oak
+17180,Patrick Murray,[u'K'],TB
+17825,Xavien Howard,[u'CB'],Mia
+12988,Ramon Humber,[u'LB'],Buf
+18424,Matt Breida,[u'RB'],SF
+17804,Karl Joseph,[u'S'],Oak
+11278,Matt Forte,[u'RB'],FA
+17650,Tyler Kroft,[u'TE'],Cin
+11270,Jordy Nelson,[u'WR'],Oak
+18211,Marlon Mack,[u'RB'],Ind
+15807,Cordarrelle Patterson,[u'WR'],NE
+17746,Josh Lambo,[u'K'],Jax
+18337,John Johnson III,[u'S'],LAR
+17810,Josh Doctson,[u'WR'],Wsh
+13939,Andrew Sendejo,[u'S'],Min
+15235,Tashaun Gipson,[u'S'],Jax
+18377,Josh Jones,[u'S'],GB
+18182,Shaquill Griffin,[u'CB'],Sea
+4527,Jason Witten,[u'TE'],FA
+11363,Brandon Carr,[u'CB'],Bal
+14978,Mychal Kendricks,[u'LB'],Cle
+14320,Mario Addison,"[u'DE', u'EDR']",Car
+17322,Andre Hal,[u'S'],Hou
+17875,Justin Simmons,[u'S'],Den
+18296,Trent Taylor,[u'WR'],SF
+14940,Dre Kirkpatrick,[u'CB'],Cin
+17859,Daryl Worley,[u'CB'],Oak
+17179,Ryan Grant,[u'WR'],Ind
+14984,Akiem Hicks,[u'DT'],Chi
+18165,Aldrick Rosas,[u'K'],NYG
+17822,Hunter Henry,[u'TE'],LAC
+17627,Quandre Diggs,[u'S'],Det
+17950,Anthony Brown,[u'CB'],Dal
+16732,Eric Ebron,[u'TE'],Ind
+10636,Mason Crosby,[u'K'],GB
+17624,Preston Smith,"[u'DE', u'EDR']",Wsh
+17854,Darian Thompson,[u'S'],NYG
+17863,Kendall Fuller,[u'CB'],KC
+12537,Jared Cook,[u'TE'],Oak
+15047,Malik Jackson,[u'DT'],Jax
+17756,Adam Humphries,[u'WR'],TB
+17158,Anthony Hitchens,[u'LB'],KC
+4459,Carson Palmer,[u'QB'],FA
+16711,Anthony Barr,[u'LB'],Min
+5557,Benjamin Watson,[u'TE'],NO
+18079,Jalen Richard,[u'RB'],Oak
+15380,Damon Harrison,[u'DT'],NYG
+18259,Marcus Maye,[u'S'],NYJ
+16760,Jimmy Garoppolo,[u'QB'],SF
+9592,Vernon Davis,[u'TE'],Wsh
+17821,Jaylon Smith,[u'LB'],Dal
+14047,Jurrell Casey,[u'DT'],Ten
+18108,Ken Crawley,[u'CB'],NO
+17781,Rod Smith,[u'RB'],Dal
+15085,George Iloka,[u'S'],Min
+18228,Jamal Agnew,[u'CB'],Det
+16913,James White,[u'RB'],NE
+17230,E.J. Gaines,[u'CB'],Cle
+18317,Kendell Beckwith,[u'LB'],TB
+17866,Nick Vigil,[u'LB'],Cin
+18134,Trevor Williams,[u'CB'],LAC
+15503,Deonte Thompson,[u'WR'],Dal
+16172,Jaron Brown,[u'WR'],Sea
+10459,Lawrence Timmons,[u'LB'],Mia
+17928,Trevor Davis,[u'WR'],GB
+15862,Kawann Short,[u'DT'],Car
+17708,Damarious Randall,[u'S'],Cle
+17908,Devontae Booker,[u'RB'],Den
+14322,Dan Bailey,[u'K'],Dal
+17824,Chris Jones,[u'DT'],KC
+18356,Justin Evans,[u'S'],TB
+8430,Derrick Johnson,[u'LB'],Oak
+15861,Logan Ryan,[u'CB'],Ten
+14402,Chris Hogan,[u'WR'],NE
+14297,Ron Parker,[u'S'],Atl
+15866,Jamar Taylor,[u'CB'],Ari
+14036,Jabaal Sheard,"[u'DE', u'EDR']",Ind
+17799,DeForest Buckner,[u'DT'],SF
+18322,O.J. Howard,[u'TE'],TB
+15124,Josh Norman,[u'CB'],Wsh
+17813,Artie Burns,[u'CB'],Pit
+17182,Albert Wilson,[u'WR'],Mia
+18233,Wayne Gallman,[u'RB'],NYG
+13645,Darian Stewart,[u'S'],Den
+17504,Jake Ryan,[u'LB'],GB
+18106,Peyton Barber,[u'RB'],TB
+11334,Tyvon Branch,[u'S'],Ari
+15812,Desmond Trufant,[u'CB'],Atl
+16769,Lamarcus Joyner,[u'S'],LAR
+8429,Thomas Davis,[u'LB'],Car
+3530,Julius Peppers,"[u'DE', u'EDR']",Car
+15809,Eric Reid,[u'S'],FA
+16719,Bradley Roby,[u'CB'],Den
+18327,Zane Gonzalez,[u'K'],Cle
+17947,Jakeem Grant,[u'WR'],Mia
+15246,Vontaze Burfict,[u'LB'],Cin
+12439,Brian Orakpo,"[u'LB', u'EDR']",Ten
+13766,Vincent Rey,[u'LB'],Cin
+10913,Brent Grimes,[u'CB'],TB
+17396,Adrian Phillips,[u'LB'],LAC
+17593,DeVante Parker,[u'WR'],Mia
+12576,Brandon LaFell,[u'WR'],Cin
+18015,Justin Coleman,[u'CB'],Sea
+16463,Ray-Ray Armstrong,[u'LB'],NYG
+17884,Ryan Smith,[u'CB'],TB
+17861,Austin Hooper,[u'TE'],Atl
+17576,Frank Clark,"[u'DE', u'EDR']",Sea
+17148,Michael Campanaro,[u'WR'],Ten
+14944,Michael Brockers,[u'DE'],LAR
+15810,Xavier Rhodes,[u'CB'],Min
+17833,A'Shawn Robinson,[u'DT'],Det
+18314,Aaron Jones,[u'RB'],GB
+17320,K'Waun Williams,[u'CB'],SF
+18268,C.J. Beathard,[u'QB'],SF
+12438,Clay Matthews,"[u'LB', u'EDR']",GB
+17936,Jatavis Brown,[u'LB'],LAC
+16269,Bradley McDougald,[u'S'],Sea
+17815,Kenny Clark,[u'DT'],GB
+18185,Reuben Foster,[u'LB'],SF
+13340,Kurt Coleman,[u'S'],NO
+17226,Ross Cockrell,[u'CB'],Car
+17394,Todd Davis,[u'LB'],Den
+13311,Geno Atkins,[u'DT'],Cin
+18238,Jourdan Lewis,[u'CB'],Dal
+14018,Marcus Gilchrist,[u'S'],Oak
+15222,Rodney McLeod,[u'S'],Phi
+17680,Danielle Hunter,"[u'DE', u'EDR']",Min
+13295,Emmanuel Sanders,[u'WR'],Den
+13412,Robert McClain,[u'CB'],TB
+17449,Hayes Pullard,[u'LB'],LAC
+10452,Adrian Peterson,[u'RB'],Wsh
+14145,Charles Clay,[u'TE'],Buf
+17611,Ty Montgomery,[u'RB'],GB
+9610,Johnathan Joseph,[u'CB'],Hou
+14942,Stephon Gilmore,[u'CB'],NE
+16217,Nickell Robey-Coleman,[u'CB'],LAR
+14909,Kendall Wright,[u'WR'],Min
+12417,Cameron Wake,"[u'DE', u'EDR']",Mia
+13264,Morgan Burnett,[u'S'],Pit
+12762,Michael Bennett,"[u'DE', u'EDR']",Phi
+15952,Mike Gillislee,[u'RB'],NE
+18345,Kenny Golladay,[u'WR'],Det
+13281,Linval Joseph,[u'DT'],Min
+17902,Derrick Kindred,[u'S'],Cle
+13234,Ndamukong Suh,[u'DT'],LAR
+13240,Gerald McCoy,[u'DT'],TB
+14885,Doug Martin,[u'RB'],Oak
+17971,Elandon Roberts,[u'LB'],NE
+8664,Ryan Fitzpatrick,[u'QB'],TB
+13965,Adrian Clayborn,"[u'DE', u'EDR']",NE
 14974,Janoris Jenkins,[u'CB'],NYG
 14977,Tavon Wilson,[u'S'],Det
-15062,Travis Benjamin,[u'WR'],LAC
-17822,Hunter Henry,[u'TE'],LAC
-11326,Cliff Avril,"[u'DE', u'EDR']",Sea
-17802,Vernon Hargreaves III,[u'CB'],TB
-15977,Gerald Hodges,[u'LB'],Buf
-17633,Marcus Peters,[u'CB'],KC
-12439,Brian Orakpo,"[u'LB', u'EDR']",Ten
-14958,Demario Davis,[u'LB'],NYJ
-13236,Devin McCourty,[u'S'],NE
-14402,Chris Hogan,[u'WR'],NE
-17832,Derrick Henry,[u'RB'],Ten
-10465,Reggie Nelson,[u'S'],Oak
-12417,Cameron Wake,"[u'DE', u'EDR']",Mia
-14945,Harrison Smith,[u'S'],Min
-14982,Olivier Vernon,"[u'DE', u'EDR']",NYG
-14993,Greg Zuerlein,[u'K'],LAR
-13971,Cameron Jordan,"[u'DE', u'EDR']",NO
-15865,D.J. Swearinger,[u'S'],Wsh
-17845,Vonn Bell,[u'S'],NO
-14922,Mohamed Sanu,[u'WR'],Atl
-13373,Everson Griffen,"[u'DE', u'EDR']",Min
-14471,Nick Bellore,[u'LB'],Det
-15820,David Amerson,[u'CB'],Oak
-17394,Todd Davis,[u'LB'],Den
-17747,Andrew Franks,[u'K'],Mia
-11401,Erik Walden,[u'LB'],Ten
-12691,Jason McCourty,[u'CB'],Cle
-16504,Jack Doyle,[u'TE'],Ind
-14900,Coby Fleener,[u'TE'],NO
-11737,Connor Barth,[u'K'],Chi
-17678,T.J. Yeldon,[u'RB'],Jax
-13336,Kam Chancellor,[u'S'],Sea
-14133,Byron Maxwell,[u'CB'],Mia
-15810,Xavier Rhodes,[u'CB'],Min
-15877,Shawn Williams,[u'S'],Cin
-13338,Barry Church,[u'S'],Jax
-17173,Cody Parkey,[u'K'],Cle
-17710,Steven Nelson,[u'CB'],KC
-5893,Mike Adams,[u'S'],Car
-15856,Kevin Minter,[u'LB'],Cin
-17813,Artie Burns,[u'CB'],Pit
-13234,Ndamukong Suh,[u'DT'],Mia
-14398,Chris Harris Jr.,[u'CB'],Den
-16040,C.J. Anderson,[u'RB'],Den
-16562,A.J. Bouye,[u'CB'],Jax
-16716,Aaron Donald,[u'DT'],LAR
-15826,Giovani Bernard,[u'RB'],Cin
-4527,Jason Witten,[u'TE'],Dal
-17669,Leonard Williams,[u'DT'],NYJ
-17764,Ricardo Allen,[u'S'],Atl
-16723,Deone Bucannon,[u'LB'],Ari
-17799,DeForest Buckner,[u'DT'],SF
-14518,Shaun Draughn,[u'RB'],NYG
-15960,Micah Hyde,[u'S'],Buf
-14894,Robert Turbin,[u'RB'],Ind
-15380,Damon Harrison,[u'DT'],NYG
-14016,Chris Conte,[u'S'],TB
-14984,Akiem Hicks,[u'DT'],Chi
-16732,Eric Ebron,[u'TE'],Det
-10491,David Harris,[u'LB'],NE
-12619,Mike Mitchell,[u'S'],Pit
-13281,Linval Joseph,[u'DT'],Min
-15813,Kenny Vaccaro,[u'S'],NO
-13231,Dennis Pitta,[u'TE'],Bal
-12527,Patrick Chung,[u'S'],NE
-8421,Adam Jones,[u'CB'],Cin
-13645,Darian Stewart,[u'S'],Den
-14297,Ron Parker,[u'S'],KC
-17620,Shane Ray,"[u'LB', u'EDR']",Den
-18037,Eli Rogers,[u'WR'],Pit
-9613,DeAngelo Williams,[u'RB'],Pit
-13766,Vincent Rey,[u'LB'],Cin
-14936,Whitney Mercilus,"[u'LB', u'EDR']",Hou
-17506,Tony Lippett,[u'CB'],Mia
-17576,Frank Clark,"[u'DE', u'EDR']",Sea
-17654,Ronald Darby,[u'CB'],Phi
-18011,Harold Jones-Quartey,[u'S'],Chi
-10138,Ahmad Brooks,"[u'DE', u'LB', u'EDR']",SF
-13973,Ryan Kerrigan,"[u'DE', u'EDR']",Wsh
-14466,Isa Abdul-Quddus,[u'S'],Mia
-15878,Terrance Williams,[u'WR'],Dal
-12747,Lardarius Webb,[u'S'],Bal
-16804,John Brown,[u'WR'],Ari
-14086,Richard Sherman,[u'CB'],Sea
-11347,Dwight Lowery,[u'S'],LAC
-11351,Quintin Demps,[u'S'],Chi
-13681,Tramaine Brock,[u'CB'],SF
-15085,George Iloka,[u'S'],Cin
-15112,Korey Toomer,[u'LB'],LAC
-16751,Trent Murphy,"[u'DE', u'EDR']",Wsh
-17641,Ramik Wilson,[u'LB'],KC
-12597,Brandon Tate,[u'WR'],Buf
-12477,Brian Hoyer,[u'QB'],SF
-13239,Brandon Graham,"[u'DE', u'EDR']",Phi
-15866,Jamar Taylor,[u'CB'],Cle
-17842,Sean Davis,[u'S'],Pit
-16766,C.J. Fiedorowicz,[u'TE'],Hou
-14908,Michael Floyd,[u'WR'],Min
-14193,Jacquizz Rodgers,[u'RB'],TB
-12613,Jairus Byrd,[u'S'],NO
-14145,Charles Clay,[u'TE'],Buf
-15017,Keenan Robinson,[u'LB'],NYG
-17741,Zach Zenner,[u'RB'],Det
-14901,Dwayne Allen,[u'TE'],NE
-4468,Terrell Suggs,"[u'LB', u'EDR']",Bal
-15971,Rex Burkhead,[u'RB'],NE
-12716,Glover Quin,[u'S'],Det
-14942,Stephon Gilmore,[u'CB'],NE
-15001,Keith Tandy,[u'S'],TB
-17644,Denzel Perryman,[u'LB'],LAC
-18097,Robby Anderson,[u'WR'],NYJ
-16707,Dee Ford,"[u'LB', u'EDR']",KC
-15503,Deonte Thompson,[u'WR'],Chi
-16717,Jimmie Ward,[u'S'],SF
-17796,Joey Bosa,"[u'DE', u'EDR']",LAC
-17872,Cody Kessler,[u'QB'],Cle
-4433,James Harrison,"[u'LB', u'EDR']",Pit
-17226,Ross Cockrell,[u'CB'],Pit
-15852,T.J. McDonald,[u'S'],Mia
-15862,Kawann Short,[u'DT'],Car
-15863,Darius Slay,[u'CB'],Det
-16734,Jadeveon Clowney,"[u'DE', u'EDR']",Hou
-9620,D'Qwell Jackson,[u'LB'],Ind
-14802,Sterling Moore,[u'CB'],NO
-14914,Brian Quick,[u'WR'],Wsh
-11364,Gary Barnidge,[u'TE'],Cle
-17138,Damien Williams,[u'RB'],Mia
-17761,Seth Roberts,[u'WR'],Oak
-13980,Patrick Peterson,[u'CB'],Ari
-16791,Donte Moncrief,[u'WR'],Ind
-11366,Orlando Scandrick,[u'CB'],Dal
-13587,Chris Ivory,[u'RB'],Jax
-17504,Jake Ryan,[u'LB'],GB
-17778,Joe Thomas,[u'LB'],GB
-17846,James Bradberry,[u'CB'],Car
-11245,Leodis McKelvin,[u'CB'],Phi
-11363,Brandon Carr,[u'CB'],Bal
-16719,Bradley Roby,[u'CB'],Den
-18085,Brian Poole,[u'CB'],Atl
-9720,Kyle Williams,[u'DT'],Buf
-13245,Jerry Hughes,"[u'DE', u'EDR']",Buf
-14320,Mario Addison,"[u'DE', u'EDR']",Car
-13987,Blaine Gabbert,[u'QB'],Ari
-12699,Zach Miller,[u'TE'],Chi
-11276,Eddie Royal,[u'WR'],Chi
-14964,Derek Wolfe,[u'DE'],Den
-14989,Trumaine Johnson,[u'CB'],LAR
-16270,Rashaan Melvin,[u'CB'],Ind
-16769,Lamarcus Joyner,"[u'CB', u'S']",LAR
-17906,Kenneth Dixon,[u'RB'],Bal
-17915,DeAndre Washington,[u'RB'],Oak
-13229,Rob Gronkowski,[u'TE'],NE
-15948,Matt Barkley,[u'QB'],SF
-13254,Kareem Jackson,[u'CB'],Hou
-14885,Doug Martin,[u'RB'],TB
-16711,Anthony Barr,[u'LB'],Min
-17577,Trae Waynes,[u'CB'],Min
-9592,Vernon Davis,[u'TE'],Wsh
-17840,Tyler Boyd,[u'WR'],Cin
-13240,Gerald McCoy,[u'DT'],TB
-13939,Andrew Sendejo,[u'S'],Min
-13985,Muhammad Wilkerson,"[u'DE', u'EDR']",NYJ
-15040,Nathan Stupar,[u'LB'],NO
-17647,Adrian Amos,[u'S'],Chi
-17800,Leonard Floyd,"[u'LB', u'EDR']",Chi
-17903,Blake Martinez,[u'LB'],GB
-11254,Aqib Talib,[u'CB'],Den
-10613,William Gay,[u'CB'],Pit
-17852,Yannick Ngakoue,"[u'DE', u'EDR']",Jax
-15788,Tyler Eifert,[u'TE'],Cin
-17562,Sammie Coates,[u'WR'],Pit
-17214,Tre Boston,[u'S'],LAC
-13249,Joe Haden,[u'CB'],Cle
-17695,Matt Jones,[u'RB'],Wsh
-11274,Tracy Porter,[u'CB'],Chi
-13333,Nolan Carroll II,[u'CB'],Dal
-15019,Jared Crick,[u'DT'],Den
-15809,Eric Reid,[u'S'],SF
-17674,Breshad Perriman,[u'WR'],Bal
-11609,Wesley Woodyard,[u'LB'],Ten
-14941,Fletcher Cox,[u'DT'],Phi
-15880,Robert Woods,[u'WR'],LAR
-15074,Danny Trevathan,[u'LB'],Chi
-17881,Tavon Young,[u'CB'],Bal
-14875,Robert Griffin III,[u'QB'],Cle
-17384,Charcandrick West,[u'RB'],KC
-18058,Alex Erickson,[u'WR'],Cin
-14952,Andre Branch,"[u'DE', u'EDR']",Mia
-17819,Emmanuel Ogbah,"[u'DE', u'EDR']",Cle
-12579,Jeremy Maclin,[u'WR'],Bal
-17987,Jalen Mills,[u'CB'],Phi
-12760,Chris Baker,[u'DT'],TB
-13248,Derrick Morgan,"[u'DE', u'EDR']",Ten
-14933,Dont'a Hightower,[u'LB'],NE
-16217,Nickell Robey-Coleman,[u'CB'],LAR
-17158,Anthony Hitchens,[u'LB'],Dal
-17230,E.J. Gaines,[u'CB'],Buf
-17277,Corey Nelson,[u'LB'],Den
-17688,Shaq Thompson,[u'LB'],Car
-17808,Darron Lee,[u'LB'],NYJ
-11674,Danny Amendola,[u'WR'],NE
-15755,Fozzy Whittaker,[u'RB'],Car
-17643,Phillip Dorsett,[u'WR'],Ind
-17163,Allen Hurns,[u'WR'],Jax
-13497,Willie Young,"[u'LB', u'EDR']",Chi
-16729,Calvin Pryor,[u'S'],Cle
-17559,Trey Flowers,"[u'DE', u'EDR']",NE
-17950,Anthony Brown,[u'CB'],Dal
-17918,Paul Perkins,[u'RB'],NYG
-15457,Travaris Cadet,[u'RB'],NO
-17888,Malcolm Mitchell,[u'WR'],NE
-13344,Perrish Cox,[u'CB'],Ten
-14047,Jurrell Casey,[u'DT'],Ten
-14972,Sean Spence,[u'LB'],Ind
-15859,Sio Moore,[u'LB'],Hou
-17233,Nevin Lawson,[u'CB'],Det
-17543,Clayton Geathers,[u'S'],Ind
-17804,Karl Joseph,[u'S'],Oak
-13553,Victor Cruz,[u'WR'],Chi
-14940,Dre Kirkpatrick,[u'CB'],Cin
-17856,Kenyan Drake,[u'RB'],Mia
-17912,Tajae Sharpe,[u'WR'],Ten
-17682,Devin Funchess,[u'WR'],Car
-13251,Earl Thomas,[u'S'],Sea
-13544,Rafael Bush,[u'S'],NO
-15811,Sheldon Richardson,"[u'DE', u'EDR']",NYJ
-17739,Thomas Rawls,[u'RB'],Sea
-14909,Kendall Wright,[u'WR'],Chi
-15853,Vance McDonald,[u'TE'],SF
-10546,Brian Robison,"[u'DE', u'EDR']",Min
-15047,Malik Jackson,[u'DT'],Jax
-17801,Eli Apple,[u'CB'],NYG
-15839,Marquise Goodwin,[u'WR'],SF
-15190,Duke Ihenacho,[u'S'],NYG
-13311,Geno Atkins,[u'DT'],Cin
-16750,Phillip Gaines,[u'CB'],KC
-17448,Jaquiski Tartt,[u'S'],SF
-17805,Corey Coleman,[u'WR'],Cle
-17921,Wendell Smallwood,[u'RB'],Phi
-13990,Nick Fairley,[u'DT'],NO
-15089,Justin Bethel,[u'CB'],Ari
-15231,Michael Thomas,[u'S'],Mia
-14007,Lance Kendricks,[u'TE'],GB
-16010,John Simon,"[u'LB', u'EDR']",Ind
-16019,William Gholston,"[u'DE', u'EDR']",TB
-16039,Jahleel Addae,[u'S'],LAC
-17848,Kevin Byard,[u'S'],Ten
-3530,Julius Peppers,"[u'DE', u'EDR']",Car
-9594,Donte Whitner,[u'S'],Wsh
-14018,Marcus Gilchrist,[u'S'],Hou
-17322,Andre Hal,[u'S'],Hou
-14816,Kai Forbath,[u'K'],Min
-17162,Devon Kennard,[u'LB'],NYG
-17258,Maurice Alexander,[u'S'],LAR
-17624,Preston Smith,"[u'DE', u'EDR']",Wsh
-14100,Dwayne Harris,[u'WR'],NYG
-17708,Damarious Randall,[u'CB'],GB
-17668,Nelson Agholor,[u'WR'],Phi
-12430,Sean Smith,[u'CB'],Oak
-14139,Buster Skrine,[u'CB'],NYJ
-16773,Kony Ealy,"[u'DE', u'EDR']",NE
-16798,Stephon Tuitt,[u'DE'],Pit
-10770,Eric Weems,[u'WR'],Ten
-10458,Darrelle Revis,[u'CB'],NYJ
-14859,Michael Wilhoite,[u'LB'],Sea
-17571,Bobby McCain,[u'CB'],Mia
-18021,Neville Hewitt,[u'LB'],Mia
-9610,Johnathan Joseph,[u'CB'],Hou
-13103,Dannell Ellerbe,[u'LB'],NO
-14010,Shareece Wright,[u'CB'],Buf
-15874,J.J. Wilcox,[u'S'],TB
-16030,Daimion Stafford,[u'S'],Pit
-17891,De'Vondre Campbell,[u'LB'],Atl
-14204,Julius Thomas,[u'TE'],Mia
-15428,Jermaine Kearse,[u'WR'],Sea
-11337,William Hayes,"[u'DE', u'EDR']",Mia
-12436,Michael Johnson,"[u'DE', u'EDR']",Cin
-15204,Garrett Celek,[u'TE'],SF
-13975,Prince Amukamara,[u'CB'],Chi
-16772,Kyle Van Noy,[u'LB'],NE
-15887,Ryan Griffin,[u'TE'],Hou
-17505,Jeremy Langford,[u'RB'],Chi
-14648,Spencer Paysinger,[u'LB'],NYJ
-16725,Sammy Watkins,[u'WR'],LAR
-17134,Alfred Blue,[u'RB'],Hou
-12432,Robert Ayers,"[u'DE', u'EDR']",TB
-12690,Brice McCain,[u'CB'],Ten
-17182,Albert Wilson,[u'WR'],KC
-17724,Quinten Rollins,[u'CB'],GB
-11128,Matt Moore,[u'QB'],Mia
-4596,Robert Mathis,[u'LB'],Ind
-17443,Kyle Emanuel,[u'LB'],LAC
-17667,Josh Shaw,[u'CB'],Cin
-17794,Jared Goff,[u'QB'],LAR
-13228,Jermaine Gresham,[u'TE'],Ari
-12703,Captain Munnerlyn,[u'CB'],Car
-17638,Chris Conley,[u'WR'],KC
-17671,Malcom Brown,[u'DT'],NE
-17475,Clive Walford,[u'TE'],Oak
-17690,Jesse James,[u'TE'],Pit
-12424,Vontae Davis,[u'CB'],Ind
-15799,Jarvis Jones,"[u'LB', u'EDR']",Ari
-18105,Kerry Hyder,"[u'DE', u'EDR']",Det
-10477,Alan Branch,[u'DT'],NE
-11236,Chris Long,"[u'DE', u'EDR']",Phi
-12449,Connor Barwin,"[u'LB', u'EDR']",LAR
-12453,Brian Cushing,[u'LB'],Hou
-13409,Marc Mariani,[u'WR'],Ten
-15058,Blair Walsh,[u'K'],Sea
-17390,Marcus Williams,[u'CB'],NYJ
-17826,Noah Spence,"[u'DE', u'EDR']",TB
-9701,Will Blackmon,[u'S'],Wsh
-12423,Darius Butler,[u'CB'],Ind
-14036,Jabaal Sheard,"[u'LB', u'EDR']",Ind
-15841,Johnathan Hankins,[u'DT'],Ind
-17541,David Parry,[u'DT'],Ind
-17665,Dorial Green-Beckham,[u'WR'],Phi
-16055,Benny Cunningham,[u'RB'],Chi
-3609,Josh McCown,[u'QB'],NYJ
-9354,Robbie Gould,[u'K'],SF
-13395,Reshad Jones,[u'S'],Mia
-17635,Danny Shelton,[u'DT'],Cle
-17788,Rontez Miles,[u'S'],NYJ
-13958,Andrew Hawkins,[u'WR'],Cle
-18077,Jalin Marshall,[u'WR'],NYJ
-15812,Desmond Trufant,[u'CB'],Atl
-16721,Dominique Easley,[u'DT'],LAR
-17694,Dante Fowler Jr.,"[u'DE', u'EDR']",Jax
-18012,David Irving,[u'DT'],Dal
-17752,Corey Grant,[u'RB'],Jax
-15974,Dion Sims,[u'TE'],Chi
-4463,Terence Newman,[u'CB'],Min
-13443,Perry Riley Jr.,[u'LB'],Oak
-14143,Da'Norris Searcy,[u'S'],Ten
-17618,Jalen Collins,[u'CB'],Atl
-17195,Trey Burton,[u'TE'],Phi
-17755,Lucky Whitehead,[u'WR'],NYJ
-15002,Brandon Marshall,[u'LB'],Den
-15851,Tyrann Mathieu,[u'CB'],Ari
-15875,Brandon Williams,[u'DT'],Bal
-15934,Vince Williams,[u'LB'],Pit
-16227,Russell Shepard,[u'WR'],Car
-16785,Tim Jernigan,[u'DT'],Phi
-12438,Clay Matthews,"[u'LB', u'EDR']",GB
-11288,Jason Jones,[u'DE'],NO
-12762,Michael Bennett,"[u'DE', u'EDR']",Sea
-15916,Devin Taylor,"[u'DE', u'EDR']",NYG
-17862,Jordan Jenkins,"[u'LB', u'EDR']",NYJ
-17889,Nick Kwiatkoski,[u'LB'],Chi
-16749,Charles Sims,[u'RB'],TB
-12587,Jordan Norwood,[u'WR'],Den
-17145,Brandon Coleman,[u'WR'],NO
-13851,Albert McClellan,"[u'LB', u'EDR']",Bal
-17777,Will Tye,[u'TE'],NYG
-15653,Jamize Olawale,[u'RB'],Oak
-17542,Justin Hardy,[u'WR'],Atl
-4680,Josh Brown,[u'K'],NYG
-10527,Charles L. Johnson,"[u'DE', u'EDR']",Car
-16528,Benson Mayowa,"[u'DE', u'EDR']",Dal
-14994,Mike Daniels,[u'DT'],GB
-17589,Grady Jarrett,[u'DT'],Atl
-13843,Marcus Sherels,[u'CB'],Min
-15555,Josh Bellamy,[u'WR'],Chi
-12714,Jerraud Powers,[u'CB'],Bal
-13992,Marcell Dareus,[u'DT'],Buf
-15087,Jeremy Lane,[u'CB'],Sea
-9597,Jay Cutler,[u'QB'],Mia
-9721,Rob Ninkovich,"[u'LB', u'EDR']",NE
-11424,Ahtyba Rubin,[u'DT'],Sea
-14014,Terrell McClain,[u'DT'],Wsh
-15794,D.J. Hayden,[u'CB'],Det
-17627,Quandre Diggs,[u'CB'],Det
-17825,Xavien Howard,[u'CB'],Mia
-17902,Derrick Kindred,[u'S'],Cle
-14032,Torrey Smith,[u'WR'],Phi
-14939,Dontari Poe,[u'DT'],Atl
-13233,Tyson Alualu,[u'DE'],Pit
-15939,B.W. Webb,[u'CB'],Chi
-17691,Eli Harold,"[u'DE', u'LB', u'EDR']",SF
-15350,Valentino Blake,[u'CB'],NYG
-14164,Aldrick Robinson,[u'WR'],SF
-17861,Austin Hooper,[u'TE'],Atl
-13779,Frank Zombo,"[u'LB', u'EDR']",KC
-13965,Adrian Clayborn,"[u'DE', u'EDR']",Atl
-15064,Cam Johnson,"[u'DE', u'EDR']",Cle
-17875,Justin Simmons,[u'S'],Den
-15921,Kenjon Barner,[u'RB'],LAC
-13662,Bryan Walters,[u'WR'],Jax
-16008,Kemal Ishmael,[u'LB'],Atl
-17954,Cory James,[u'LB'],Oak
-12692,Clinton McDonald,[u'DT'],TB
-17389,Denico Autry,[u'DT'],Oak
-17833,A'Shawn Robinson,[u'DT'],Det
-18009,Jamie Meder,[u'DT'],Cle
-16026,Quinton Patton,[u'WR'],NYJ
-9606,Tamba Hali,"[u'LB', u'EDR']",KC
-17599,Bud Dupree,"[u'LB', u'EDR']",Pit
-17850,Maliek Collins,[u'DT'],Dal
-17869,C.J. Prosise,[u'RB'],Sea
-15845,Justin Hunter,[u'WR'],Pit
-17222,TJ Carrie,[u'CB'],Oak
-17947,Jakeem Grant,[u'WR'],Mia
-16781,Paul Richardson,[u'WR'],Sea
-15235,Tashaun Gipson,[u'S'],Jax
-16367,Darryl Morris,[u'CB'],Ind
-16779,Josh Huff,[u'WR'],TB
-17776,Shaquil Barrett,"[u'LB', u'EDR']",Den
-17838,Su'a Cravens,[u'S'],Wsh
-10462,Leon Hall,[u'CB'],NYG
-13995,Kelvin Sheppard,[u'LB'],NYG
-12537,Jared Cook,[u'TE'],Oak
-5432,Tramon Williams Sr.,[u'CB'],Ari
-11269,Brandon Flowers,[u'CB'],LAC
-13262,NaVorro Bowman,[u'LB'],SF
-17899,Antonio Morrison,[u'LB'],Ind
-12570,Darrius Heyward-Bey,[u'WR'],Pit
-14987,Tyrone Crawford,"[u'DT', u'EDR']",Dal
-18068,Ed Reynolds II,[u'S'],Cle
-14186,Jordan Todman,[u'RB'],NYJ
-9530,John Kuhn,[u'RB'],NO
-11467,Justin Forsett,[u'RB'],Den
-17905,Rashard Robinson,[u'CB'],SF
-16002,Kyle Juszczyk,[u'RB'],SF
-16786,Richard Rodgers,[u'TE'],GB
-18020,Quinton Dunbar,[u'CB'],Wsh
-11920,Leger Douzable,[u'DT'],SF
-12895,Steve McLendon,[u'DT'],NYJ
-14048,Justin Houston,"[u'LB', u'EDR']",KC
-15850,Bennie Logan,[u'DT'],KC
-15912,Bacarri Rambo,[u'S'],Buf
-16718,Darqueze Dennard,[u'CB'],Cin
-17454,Ibraheim Campbell,[u'S'],Cle
-17642,Anthony Chickillo,"[u'LB', u'EDR']",Pit
-17989,Dwayne Washington,[u'RB'],Det
-15980,Levine Toilolo,[u'TE'],Atl
-17895,Tyler Ervin,[u'RB'],Hou
-14583,Kamar Aiken,[u'WR'],Ind
-15983,Cobi Hamilton,[u'WR'],Pit
-15802,Star Lotulelei,[u'DT'],Car
-17841,T.J. Green,[u'S'],Ind
-9643,Devin Hester,[u'WR'],Sea
-17890,Ricardo Louis,[u'WR'],Cle
-18089,Chester Rogers,[u'WR'],Ind
-18007,Bryce Callahan,[u'CB'],Chi
-17863,Kendall Fuller,[u'CB'],Wsh
-15896,Brice Butler,[u'WR'],Dal
-13214,James Starks,[u'RB'],GB
-14403,Andre Holmes,[u'WR'],Buf
-17916,Matthew Judon,"[u'LB', u'EDR']",Bal
-14198,Dion Lewis,[u'RB'],NE
-18031,Erik Swoope,[u'TE'],Ind
-17626,Aaron Ripkowski,[u'RB'],GB
-10492,Justin Durant,[u'LB'],Dal
-11373,Jacob Tamme,[u'TE'],Atl
-13257,Nate Allen,[u'S'],Mia
-15009,Alfred Morris,[u'RB'],Dal
-17396,Adrian Phillips,[u'S'],LAC
-15848,Eddie Lacy,[u'RB'],Sea
-17451,Craig Mager,[u'CB'],LAC
-12445,Sen'Derrick Marks,[u'DT'],Jax
-9603,Chad Greenway,[u'LB'],Min
-13977,Cameron Heyward,[u'DT'],Pit
-14519,Josh Bynes,[u'LB'],Ari
-15086,Corey White,"[u'CB', u'S']",NYJ
-17971,Elandon Roberts,[u'LB'],NE
-18019,Anthony Harris,[u'S'],Min
-18102,Keith Reaser,[u'CB'],SF
-18114,Cre'Von LeBlanc,[u'CB'],Chi
-15391,Rod Streater,[u'WR'],Buf
-13989,Corey Liuget,[u'DT'],LAC
-14937,Shea McClellin,"[u'LB', u'EDR']",NE
-17295,Ethan Westbrooks,"[u'LB', u'DE', u'EDR']",LAR
-17868,Javon Hargrave,[u'DT'],Pit
-17280,Cassius Marsh,"[u'DE', u'EDR']",Sea
-15501,Bobby Rainey,[u'RB'],Bal
-15979,Jordan Poyer,[u'S'],Buf
-5564,Daryl Smith,[u'LB'],TB
-10031,Tony Dewayne McDaniel,[u'DT'],NO
-12437,Paul Kruger,[u'LB'],NO
-12442,Ziggy Hood,[u'DT'],Wsh
-13963,Jimmy Smith,[u'CB'],Bal
-14943,Morris Claiborne,[u'CB'],NYJ
-15016,Trevin Wade,[u'CB'],Bal
-15842,Duron Harmon,[u'S'],NE
-17574,Eric Rowe,[u'CB'],NE
-17803,Sheldon Rankins,[u'DT'],NO
-17824,Chris Jones,[u'DT'],KC
-14904,Ladarius Green,[u'TE'],Pit
-17137,Jeff Janis,[u'WR'],GB
-12674,Rashad Johnson,[u'S'],Ten
-15785,Ezekiel Ansah,"[u'DE', u'EDR']",Det
-17791,Jude Adjei-Barimah,[u'CB'],TB
-16760,Jimmy Garoppolo,[u'QB'],NE
-15964,A.J. Klein,[u'LB'],NO
-17167,Corey Brown,[u'WR'],Buf
-15091,Randy Bullock,[u'K'],Cin
-15904,Landry Jones,[u'QB'],Pit
-17305,DaQuan Jones,[u'DT'],Ten
-13412,Robert McClain,[u'CB'],TB
-13984,Robert Quinn,"[u'LB', u'EDR']",LAR
-17701,Damien Wilson,[u'LB'],Dal
-17835,Jarran Reed,[u'DT'],Sea
-18106,Peyton Barber,[u'RB'],TB
-10463,Michael Griffin,[u'S'],Car
-13422,Arthur Moats,"[u'LB', u'EDR']",Pit
-13997,Brooks Reed,"[u'DE', u'EDR']",Atl
-14202,Pernell McPhee,"[u'LB', u'EDR']",Chi
-17849,Carl Nassib,"[u'DE', u'EDR']",Cle
-18052,Jordan Taylor,[u'WR'],Den
-18100,Tommylee Lewis,[u'WR'],NO
-17434,Bryce Petty,[u'QB'],NYJ
-17883,Chris Moore,[u'WR'],Bal
-13238,Patrick Robinson,[u'CB'],Phi
-13457,Eugene Sims,[u'DE'],LAR
-16028,Quinton Dial,[u'DT'],SF
-9709,Domata Peko,[u'DT'],Den
-11334,Tyvon Branch,[u'S'],Ari
-15305,Kelcie McCray,[u'S'],Sea
-15564,Brittan Golden,[u'WR'],Ari
-17234,Jaylen Watkins,[u'S'],Phi
-17751,Bennie Fowler,[u'WR'],Den
-13271,Eric Decker,[u'WR'],Ten
-17141,Kapri Bibbs,[u'RB'],SF
-17189,Demetrius Harris,[u'TE'],KC
-18110,Geronimo Allison,[u'WR'],GB
-11311,Pat Sims,[u'DT'],Cin
-12443,Ricky Jean Francois,[u'DT'],GB
-14959,Vinny Curry,"[u'DE', u'EDR']",Phi
-18123,Edwin Jackson,[u'LB'],Ind
-16024,Kerwynn Williams,[u'RB'],Ari
-14015,Akeem Ayers,"[u'LB', u'EDR']",Ind
-15398,Leonard Johnson,[u'CB'],Buf
-15906,Stacy McGee,[u'DT'],Wsh
-12638,David Bruton Jr.,[u'S'],Wsh
-14045,Aaron Williams,[u'S'],Buf
-14152,Sam Acho,"[u'LB', u'EDR']",Chi
-14185,Lawrence Guy,[u'DT'],NE
-15079,Robert Blanton,[u'S'],Dal
-15359,Johnson Bademosi,[u'CB'],Det
-18082,Tanner McEvoy,[u'WR'],Sea
-14085,Virgil Green,[u'TE'],Den
-14978,Mychal Kendricks,[u'LB'],Phi
-15090,Jack Crawford,"[u'DE', u'EDR']",Atl
-16376,Abry Jones,[u'DT'],Jax
-18111,Andrew Adams,[u'S'],NYG
-17564,C.J. Uzomah,[u'TE'],Cin
-15632,Jonathan Grimes,[u'RB'],Jax
-15816,Sylvester Williams,[u'DT'],Ten
-16758,Will Clarke,"[u'DE', u'EDR']",Cin
-17887,Miles Killebrew,[u'S'],Det
-18063,Mike Hull,[u'LB'],Mia
-18047,Roger Lewis,[u'WR'],NYG
-11658,Mike Tolbert,[u'RB'],Buf
-8426,DeMarcus Ware,[u'LB'],Den
-15213,Robert Golden,[u'S'],Pit
-15976,Alex Okafor,"[u'DE', u'EDR']",NO
-17395,Josh Mauro,"[u'DE', u'EDR']",Ari
-17625,Jordan Phillips,[u'DT'],Mia
-17789,Akeem Hunt,[u'RB'],Hou
-17867,Kyler Fackrell,"[u'LB', u'EDR']",GB
-14255,DuJuan Harris,[u'RB'],SF
-9712,Elvis Dumervil,"[u'LB', u'DE', u'EDR']",SF
-13478,Alterraun Verner,[u'CB'],Mia
-14970,Courtney Upshaw,"[u'DE', u'EDR']",Atl
-17309,Shamar Stephen,[u'DT'],Min
-17457,Kevin Johnson,[u'CB'],Hou
-17509,Darryl Roberts,[u'CB'],NYJ
-14310,Cedric Thornton,[u'DT'],Dal
-17704,Cameron Artis-Payne,[u'RB'],Car
+18272,Chris Godwin,[u'WR'],TB
 17712,Martrell Spaight,[u'LB'],Wsh
-17871,Brandon Williams,[u'CB'],Ari
-17924,LeShaun Sims,[u'CB'],Ten
-17814,Paxton Lynch,[u'QB'],Den
-17870,Jacoby Brissett,[u'QB'],NE
-14017,Shane Vereen,[u'RB'],NYG
-12455,Rey Maualuga,[u'LB'],Cin
-14877,Nick Foles,[u'QB'],Phi
-17860,Adolphus Washington,[u'DT'],Buf
-17975,Will Parks,[u'S'],Den
-18108,Ken Crawley,[u'CB'],NO
-17893,Pharoh Cooper,[u'WR'],LAR
-17994,Charone Peake,[u'WR'],NYJ
-10529,Brandon Mebane,[u'DT'],LAC
-17597,Lorenzo Mauldin,"[u'LB', u'EDR']",NYJ
-17910,Seth DeValve,[u'TE'],Cle
-9598,Haloti Ngata,[u'DT'],Det
-9629,Roman Harper,[u'S'],NO
-14079,Karl Klug,[u'DT'],Ten
-15914,Cornelius Washington,"[u'DE', u'EDR']",Det
-17381,Terrance Mitchell,[u'CB'],KC
-17876,Joe Schobert,[u'LB'],Cle
-17208,Orleans Darkwa,[u'RB'],NYG
-11386,Letroy Guion,[u'DT'],GB
-14998,Coty Sensabaugh,[u'CB'],Pit
-15798,Datone Jones,"[u'DE', u'EDR']",Min
-16744,Ra'Shede Hageman,[u'DT'],Atl
-17607,Darren Waller,[u'TE'],Bal
-17646,Christian Covington,[u'DE'],Hou
-17656,Eddie Goldman,[u'DT'],Chi
-16121,Luke Willson,[u'TE'],Sea
-15893,Andre Ellington,[u'RB'],Ari
-11239,Glenn Dorsey,[u'DE'],SF
-17299,Zach Kerr,[u'DT'],Den
-17823,Myles Jack,[u'LB'],Jax
-17933,Alex Collins,[u'RB'],Sea
-16945,De'Anthony Thomas,[u'WR'],KC
-16172,Jaron Brown,[u'WR'],Ari
-15612,Eddie Pleasant,[u'S'],Hou
-16473,Jeff Heath,[u'S'],Dal
-17342,Fitzgerald Toussaint,[u'RB'],Pit
-17914,Ronald Blair III,"[u'DE', u'EDR']",SF
-17974,Kevon Seymour,[u'CB'],Buf
-15923,Mychal Rivera,[u'TE'],Jax
-18093,Kenneth Farrow,[u'RB'],LAC
-17645,Ben Koyack,[u'TE'],Jax
-15885,Charles D. Johnson,[u'WR'],Car
-16431,Wes Horton,"[u'DE', u'EDR']",Car
-16449,LaRoy Reynolds,[u'LB'],Atl
-17294,Beau Allen,[u'DT'],Phi
-17663,Arik Armstead,"[u'DE', u'EDR']",SF
-17894,Juston Burris,[u'CB'],NYJ
-16793,Cody Latimer,[u'WR'],Den
-15005,Jaye Howard,[u'DT'],Chi
-16419,Brynden Trawick,[u'S'],Ten
-17317,Robert Chevis Nelson Jr.,[u'CB'],Hou
-17379,Steven Terrell,[u'S'],KC
-18010,Mike Purcell,[u'DT'],LAR
-18113,LaDarius Gunter,[u'CB'],GB
-15369,Lance Dunbar,[u'RB'],LAR
-16143,Josh Hill,[u'TE'],NO
-17615,JaCorey Shepherd,[u'CB'],Pit
-18006,Josh Ferguson,[u'RB'],Ind
-13243,Sean Weatherspoon,[u'LB'],Atl
-16712,Marcus Smith II,"[u'DE', u'EDR']",Sea
-17223,Demontre Hurst,[u'CB'],Ten
-17385,Aaron Colvin,[u'CB'],Jax
-17831,Jihad Ward,[u'DT'],Oak
-17892,Hassan Ridgeway,[u'DT'],Ind
-13203,C.J. Spiller,[u'RB'],KC
-13272,Ed Dickson,[u'TE'],Car
-18101,Xavier Grimble,[u'TE'],Pit
-14072,Chris Prosinski,[u'S'],Chi
-15460,Tyrunn Walker,[u'DT'],Det
-15955,Chris Dwightstone Jones,[u'DT'],SF
-15985,Jelani Jenkins,[u'LB'],Oak
-17213,Nat Berhe,[u'S'],NYG
-17555,Deon Simon,[u'DT'],NYJ
-17706,Za'Darius Smith,"[u'LB', u'EDR']",Bal
-13218,Arrelious Benn,[u'WR'],Jax
-15951,Denard Robinson,[u'RB'],Jax
-9588,Reggie Bush,[u'RB'],Buf
-8560,Trent Cole,[u'LB'],Ind
-11327,Philip Wheeler,[u'LB'],Ari
-11809,Wallace Gilberry,"[u'DE', u'EDR']",Cin
-13860,Mitch Unrein,[u'DT'],Chi
-14953,Kendall Reyes,[u'DE'],KC
-16023,Marquess Wilson,[u'WR'],NYJ
-17932,Antwione Williams,[u'LB'],Det
-9614,Marcedes Lewis,[u'TE'],Jax
-13265,Donald Butler,[u'LB'],Mia
-13394,Arthur Jones,[u'DE'],Ind
-16243,Paul Worrilow,[u'LB'],Det
-16756,Khyri Thornton,[u'DT'],Det
-17231,Keith McGill,[u'S'],Oak
-17570,Rakeem Nunez-Roches,[u'DT'],KC
-17807,Shaq Lawson,"[u'DE', u'EDR']",Buf
-14895,Ronnie Hillman,[u'RB'],Dal
-13482,Dekoda Watson,[u'LB'],SF
-13608,Kyle Love,[u'DT'],Car
-15844,Margus Hunt,[u'DE'],Ind
-15849,Corey Lemonier,"[u'LB', u'EDR']",NYJ
-17386,Max Bullough,[u'LB'],Hou
-17815,Kenny Clark,[u'DT'],GB
-17879,Joshua Perry,[u'LB'],LAC
-14500,Jeremy Ross,[u'WR'],Ari
-17580,Ameer Abdullah,[u'RB'],Det
-17561,Quan Bray,[u'WR'],Ind
-17286,Brent Urban,[u'DE'],Bal
-17817,Vernon Butler,[u'DT'],Car
-18073,Justin March-Lillard,[u'LB'],KC
-16795,Austin Seferian-Jenkins,[u'TE'],NYJ
-17187,Darren Fells,[u'TE'],Det
-11788,Danny Woodhead,[u'RB'],Bal
-17928,Trevor Davis,[u'WR'],GB
-11318,Harry Douglas,[u'WR'],Ten
-15778,Josh McNary,[u'LB'],Jax
-17232,Kenneth Acker,[u'CB'],KC
-17303,Daniel McCullers,[u'DT'],Pit
-17769,Delvin Breaux,[u'CB'],NO
-17898,Deon Bush,[u'S'],Chi
-3539,Dwight Freeney,[u'LB'],Atl
-4461,Andre Johnson,[u'WR'],Ten
-12738,Greg Toler,[u'CB'],Wsh
-16231,Damion Square,[u'DT'],LAC
-17249,Jayrone Elliott,"[u'LB', u'EDR']",GB
-17855,Jonathan Bullard,[u'DT'],Chi
-17958,Cody Core,[u'WR'],Cin
-9639,Anthony Fasano,[u'TE'],Mia
-17370,Freddie Martino,[u'WR'],TB
-12682,DeAndre Levy,[u'LB'],Det
-12932,Dan Skuta,"[u'LB', u'EDR']",Chi
-16942,Ka'Deem Carey,[u'RB'],Chi
-17312,Dontae Johnson,[u'CB'],SF
-17440,Rodney Gunter,[u'DT'],Ari
-17930,D.J. Reader,[u'DT'],Hou
-17955,Blake Countess,[u'CB'],LAR
-16323,MarQueis Gray,[u'TE'],Mia
-16286,Cody Davis,[u'S'],LAR
-17964,Michael Thomas,[u'WR'],LAR
-13207,Dexter McCluster,[u'RB'],LAC
-17703,Kevin White,[u'WR'],Chi
-8473,Jonathan Babineaux,[u'DT'],Atl
-14944,Michael Brockers,[u'DT'],LAR
-16037,Armonty Bryant,"[u'DE', u'EDR']",Det
-16726,Jason Verrett,[u'CB'],LAC
-17866,Nick Vigil,[u'LB'],Cin
-17787,Nick Marshall,[u'CB'],NYJ
-18041,George Atkinson III,[u'RB'],Oak
-9605,Antonio Cromartie,[u'CB'],Ind
-13244,Jared Odrick,[u'DE'],Jax
-13470,Cam Thomas,[u'DT'],KC
-15125,Nate Ebner,[u'S'],NE
-17194,Isaiah Burse,[u'WR'],LAC
-17536,Tyeler Davison,[u'DT'],NO
-17792,John Timu,[u'LB'],Chi
-17874,Vincent Valentine,[u'DT'],NE
-16561,Charles James II,[u'CB'],Jax
-17340,Walter Powell,[u'WR'],Buf
-9587,Mario Williams,[u'DE'],Mia
-13292,Corey Peters,[u'DT'],Ari
-15373,Julian Stanford,[u'LB'],NYJ
-16761,Jerry Attaochu,"[u'DE', u'EDR']",LAC
-17259,Aaron Lynch,"[u'DE', u'EDR']",SF
-17790,Daniel Brown,[u'TE'],Chi
-17945,Jerell Adams,[u'TE'],NYG
-17864,Braxton Miller,[u'WR'],Hou
-17228,Bene Benwikere,[u'CB'],Cin
-17310,Justin Ellis,[u'DT'],Oak
-17939,D.J. White,[u'CB'],KC
-17999,Tyler Matakevich,[u'LB'],Pit
-17970,Aaron Burbridge,[u'WR'],SF
-18027,Stephen Anderson,[u'TE'],Hou
-16943,Tom Savage,[u'QB'],Hou
-9649,Darryl Tapp,"[u'DE', u'EDR']",NO
-13235,Dan Williams,[u'DT'],Oak
-17193,James Wright,[u'WR'],Cle
-17311,Caraun Reid,[u'DT'],LAC
-17673,David Mayo,[u'LB'],Car
-17699,D.J. Alexander,[u'LB'],Sea
-18066,T.Y. McGill,[u'DT'],Ind
-8475,Vincent Jackson,[u'WR'],TB
-17744,Terron Ward,[u'RB'],Atl
-18091,Johnny Holton,[u'WR'],Oak
-14184,Cecil Shorts III,[u'WR'],TB
-16000,Tourek Williams,[u'DE'],LAC
-17927,Kevin Hogan,[u'QB'],Cle
-17844,Cyrus Jones,[u'CB'],NE
-8627,Derek Anderson,[u'QB'],Car
-5009,Cullen Jenkins,[u'DT'],Wsh
-5546,Vince Wilfork,[u'DT'],Hou
-11636,Erin Henderson,[u'LB'],NYJ
-13287,Koa Misi,[u'LB'],Mia
-15956,Jonathan Meeks,[u'S'],Buf
-15958,Akeem Spence,[u'DT'],Det
-16802,DeMarcus Lawrence,"[u'DE', u'EDR']",Dal
-17886,Tyler Higbee,[u'TE'],LAR
-17909,Dean Lowry,[u'DT'],GB
-17977,Aaron Wallace,"[u'LB', u'EDR']",Ten
-17717,Mario Alford,[u'WR'],Cle
-17650,Tyler Kroft,[u'TE'],Cin
-14135,Anthony Sherman,[u'RB'],KC
-13493,Al Woods,[u'DT'],Ind
-15535,Neiko Thorpe,[u'CB'],Sea
-16764,Kareem Martin,"[u'DE', u'EDR']",Ari
-18116,Corey Moore,[u'S'],Hou
-17937,Andy Janovich,[u'RB'],Den
-8644,Matt Cassel,[u'QB'],Ten
-15832,Knile Davis,[u'RB'],Pit
-10605,Brent Celek,[u'TE'],Phi
-11258,Chris Johnson,[u'RB'],Ari
-12454,James Laurinaitis,[u'LB'],NO
-13419,Sherrick McManis,[u'CB'],Chi
-14157,Davon House,[u'CB'],GB
-15008,Ron Brooks,[u'CB'],Phi
-15903,Michael Mauti,[u'LB'],NO
-16776,Jay Bromley,[u'DT'],NYG
-17156,Brock Coyle,[u'LB'],SF
-17636,Xavier Cooper,[u'DT'],Cle
-17901,Deiondre' Hall,"[u'CB', u'S']",Chi
+17883,Chris Moore,[u'WR'],Bal
+13984,Robert Quinn,"[u'DE', u'EDR']",Mia
+18085,Brian Poole,[u'CB'],Atl
+17688,Shaq Thompson,[u'LB'],Car
 17960,Anthony Zettel,"[u'DE', u'EDR']",Det
-18115,Briean Boddy-Calhoun,[u'CB'],Cle
-17604,Nick O'Leary,[u'TE'],Buf
-12644,Don Juan Carey,"[u'CB', u'S']",Det
-12988,Ramon Humber,[u'LB'],Buf
-13411,Ricardo Mathews,[u'DT'],Pit
-13491,C.J. Wilson,[u'DT'],Chi
-16090,Lerentee McCray,"[u'LB', u'EDR']",Jax
-16457,Terence Garvin,[u'LB'],Sea
-16768,Terrence Brooks,[u'S'],Phi
-17246,Kasim Edebali,"[u'LB', u'EDR']",Den
-12705,Brandon Myers,[u'TE'],TB
-14106,Greg Salas,[u'WR'],Buf
-18124,Mack Brown,[u'RB'],Wsh
-5533,DeAngelo Hall,[u'S'],Wsh
-9677,Frostee Rucker,[u'DT'],Ari
-10749,James Ihedigbo,[u'S'],Buf
-15021,Billy Winn,[u'DT'],Den
-16463,Ray-Ray Armstrong,[u'LB'],SF
-17540,Henry Anderson,[u'DE'],Ind
-17773,Thurston Armbrister,[u'LB'],Det
-17896,David Onyemata,[u'DT'],NO
-17601,Rashad Greene Sr.,[u'WR'],Jax
-15707,Larry Donnell,[u'TE'],Bal
-17583,Jeff Heuerman,[u'TE'],Den
-13288,Earl Mitchell,[u'DT'],SF
-14026,Bruce Carter,[u'LB'],NYJ
-14292,Mike Morgan,[u'LB'],Sea
-15829,Tank Carradine,"[u'DE', u'EDR']",SF
+17752,Corey Grant,[u'RB'],Jax
+15976,Alex Okafor,"[u'DE', u'EDR']",NO
+18313,Elijah McGuire,[u'RB'],NYJ
+18463,J.D. McKissic,[u'RB'],Sea
+15009,Alfred Morris,[u'RB'],SF
+5432,Tramon Williams,[u'CB'],GB
+14994,Mike Daniels,[u'DT'],GB
+15805,Barkevious Mingo,"[u'LB', u'EDR']",Sea
+17514,J.J. Nelson,[u'WR'],Ari
+18292,George Kittle,[u'TE'],SF
+12436,Michael Johnson,"[u'DE', u'EDR']",Cin
+18287,Ryan Switzer,[u'WR'],Oak
+9614,Marcedes Lewis,[u'TE'],GB
+15794,D.J. Hayden,[u'CB'],Jax
+13587,Chris Ivory,[u'RB'],Buf
+18303,David Njoku,[u'TE'],Cle
+14982,Olivier Vernon,"[u'LB', u'EDR']",NYG
+15964,A.J. Klein,[u'LB'],NO
+17589,Grady Jarrett,[u'DT'],Atl
+13271,Eric Decker,[u'WR'],NE
+10478,Paul Posluszny,[u'LB'],Jax
+17571,Bobby McCain,[u'CB'],Mia
+13963,Jimmy Smith,[u'CB'],Bal
+15965,Dustin Hopkins,[u'K'],Wsh
+12597,Brandon Tate,[u'WR'],NO
+15112,Korey Toomer,[u'LB'],SF
+17599,Bud Dupree,"[u'LB', u'EDR']",Pit
+15204,Garrett Celek,[u'TE'],SF
+17163,Allen Hurns,[u'WR'],Dal
+17195,Trey Burton,[u'TE'],Chi
+16270,Rashaan Melvin,[u'CB'],Oak
+12747,Lardarius Webb,[u'S'],Bal
+12579,Jeremy Maclin,[u'WR'],FA
+13226,Andre Roberts,[u'WR'],NYJ
+14133,Byron Maxwell,[u'CB'],Sea
+17694,Dante Fowler Jr.,"[u'DE', u'EDR']",Jax
+18446,Deshazor Everett,[u'S'],Wsh
+15398,Leonard Johnson,[u'CB'],NYG
 15867,Manti Te'o,[u'LB'],NO
-17588,Stephone Anthony,[u'LB'],NO
-17614,Ben Heeney,[u'LB'],Oak
-17711,A.J. Derby,[u'TE'],Den
-17830,Austin Johnson,[u'DT'],Ten
-14167,Taiwan Jones,[u'RB'],Buf
-10001,Tom Johnson,[u'DT'],Min
-16268,Josh Martin,"[u'LB', u'EDR']",NYJ
-17148,Michael Campanaro,[u'WR'],Bal
-17224,Walt Aikens,"[u'S', u'CB']",Mia
-17236,Demetri Goodson,[u'CB'],GB
-17248,Christian Jones,"[u'LB', u'EDR']",Chi
-17700,Mike Davis,[u'RB'],Sea
-12497,Arian Foster,[u'RB'],Mia
-17763,Chris Harper,[u'WR'],NYJ
-17957,Derek Watt,[u'RB'],LAC
-12550,John Phillips,[u'TE'],NO
-18112,Paul Turner,[u'WR'],Phi
-15873,Markus Wheaton,[u'WR'],Chi
-16775,Crockett Gillmore,[u'TE'],Bal
-17709,Jaelen Strong,[u'WR'],Hou
-11300,Kendall Langford,[u'DE'],Ind
-14019,Jarvis Jenkins,[u'DT'],KC
-14189,Jordan Cameron,[u'TE'],Mia
-15038,Kyle Wilber,[u'LB'],Dal
-15775,Ifeanyi Momah,[u'TE'],Ari
-16025,David Bass,"[u'LB', u'DE', u'EDR']",Sea
-16738,Will Sutton,[u'DT'],Min
-17490,Blake Bell,[u'TE'],SF
-17693,Darius Philon,[u'DT'],LAC
-14820,Chase Reynolds,[u'RB'],LAR
-17923,Jonathan Williams,[u'RB'],Buf
-13484,Joe Webb,[u'QB'],Car
-15836,Gavin Escobar,[u'TE'],KC
-14918,Jarius Wright,[u'WR'],Min
-18095,Joshua Perkins,[u'TE'],Atl
-18015,Justin Coleman,[u'CB'],NE
-14332,Patrick DiMarco,[u'RB'],Buf
-15383,Dominique Jones,[u'TE'],Mia
-14441,Sealver Siliga,[u'DT'],TB
-17293,Kerry Wynn,[u'DE'],NYG
-17376,Adarius Glanton,[u'LB'],TB
-17483,Neal Sterling,[u'TE'],Jax
-17847,Adam Gotsis,[u'DE'],Den
-18017,Peyton Thompson,"[u'CB', u'S']",Jax
-11238,Darren McFadden,[u'RB'],Dal
-15003,Rhett Ellison,[u'TE'],NYG
-18080,Alan Cross,[u'TE'],TB
-13465,Darrell Stuckey,[u'S'],LAC
-13922,Teddy Williams,[u'CB'],Car
-13979,J.J. Watt,[u'DE'],Hou
-15936,Steven Means,"[u'RB', u'EDR']",Phi
-18103,De'Vante Harris,[u'CB'],NO
-18107,DaVonte Lambert,"[u'DE', u'EDR']",TB
-11307,Jamaal Charles,[u'RB'],Den
-17486,Marcus Murphy,[u'RB'],NYJ
-12506,David Johnson,[u'TE'],Pit
-14049,Stephen Paea,[u'DT'],Dal
-14387,Jonathan Freeny,[u'LB'],NE
-14948,Josh Robinson,"[u'CB', u'S']",TB
-17282,Terrence Fede,"[u'DE', u'EDR']",Mia
-17880,Sheldon Day,[u'DT'],Jax
-12435,Tyson Jackson,[u'DE'],Atl
-13845,Anthony Levine Sr.,"[u'S', u'LB']",Bal
-14141,Andrew Gachkar,[u'LB'],Jax
-15943,Don Jones,"[u'CB', u'S']",SF
-16080,Josh Johnson,[u'CB'],Jax
-17290,Tenny Palepoi,[u'DT'],LAC
-17963,Harlan Miller,[u'S'],Ari
-13158,Antone Smith,[u'RB'],TB
-17990,Daniel Lasco,[u'RB'],NO
-11717,Marcel Reece,[u'RB'],Sea
-15257,Phillip Supernaw,[u'TE'],Ten
-4260,Shaun Hill,[u'QB'],Min
-17983,Demarcus Ayers,[u'WR'],Pit
-12698,Roy Miller,[u'DT'],KC
-14006,Akeem Dent,[u'LB'],Hou
-14122,Shiloh Keo,[u'S'],NO
-15805,Barkevious Mingo,"[u'LB', u'EDR']",Ind
-16299,Daren Bates,[u'LB'],Ten
-17774,Ryan Delaire,"[u'DE', u'EDR']",Car
-17885,B.J. Goodson,[u'LB'],NYG
-17951,Josh Forrest,"[u'LB', u'EDR']",LAR
-14353,Scott Tolzien,[u'QB'],Ind
-18084,Bryce Treggs,[u'WR'],Phi
-13697,Chris Maragos,[u'S'],Phi
-15023,Audie Cole,[u'LB'],Jax
-15068,Najee Goode,[u'LB'],Phi
-15846,John Jenkins,[u'DT'],Chi
-15930,Nate Palmer,[u'LB'],Ten
-16568,Stefan Charles,[u'DT'],Jax
-17276,Kevin Pierre-Louis,[u'LB'],KC
-17858,Shilique Calhoun,"[u'LB', u'EDR']",Oak
-17884,Ryan Smith,[u'CB'],TB
-9667,Charlie Whitehurst,[u'QB'],Cle
-10487,Drew Stanton,[u'QB'],Ari
+17389,Denico Autry,[u'DT'],Ind
 17192,TJ Jones,[u'WR'],Det
-18029,Terrell Watson,[u'RB'],Pit
-18035,Byron Marshall,[u'RB'],Phi
-16313,Brandon Williams,[u'TE'],Ind
-17140,Juwan Thompson,[u'RB'],Den
-13404,Kendrick Lewis,[u'S'],Bal
-15515,Sean McGrath,[u'TE'],LAC
-15640,Emmanuel Lamur,[u'LB'],Min
-15837,Mike Glennon,[u'QB'],Chi
-15872,Kayvon Webster,[u'CB'],LAR
-17301,Anthony Johnson,[u'DT'],NYJ
+18514,Calvin Munson,[u'LB'],NYG
 17684,P.J. Williams,[u'CB'],NO
-17820,Kevin Dodd,"[u'LB', u'EDR']",Ten
-17882,Eric Murray,[u'S'],KC
-17926,Kentrell Brothers,[u'LB'],Min
-15478,Brandon Bolden,[u'RB'],NE
-17865,Leonte Carroo,[u'WR'],Mia
-16889,Andre Williams,[u'RB'],LAC
-17179,Ryan Grant,[u'WR'],Wsh
-14967,Jerel Worthy,[u'DT'],Buf
-15278,Derrick Shelby,"[u'DE', u'DT', u'EDR']",Atl
-15733,Steven Johnson,[u'LB'],Pit
-17344,Marcus Burley,[u'CB'],Cle
-17365,Dewey McDonald,[u'S'],Sea
-17528,L.T. Walton,"[u'DT', u'DE']",Pit
-17742,Malcolm Brown,[u'RB'],LAR
-17998,Clayton Fejedelem,[u'S'],Cin
-17237,Chris Davis,[u'CB'],SF
-17771,Bradley Marquez,[u'WR'],LAR
-18126,Matt Lengel,[u'TE'],NE
-14231,Corbin Bryant,"[u'DE', u'DT']",NYG
-17180,Patrick Murray,[u'K'],NO
-17287,Chris Smith,"[u'DE', u'EDR']",Cin
-17459,Ryan Russell,"[u'DE', u'EDR']",TB
-17566,Angelo Blackson,[u'DT'],Ten
-17829,Kamalei Correa,[u'LB'],Bal
-17942,Tyrone Holmes,"[u'DE', u'EDR']",Cle
-18069,Deji Olatoye,[u'CB'],Atl
-15864,Geno Smith,[u'QB'],NYG
-11369,Jerome Felton,[u'RB'],Buf
-17441,James O'Shaughnessy,[u'TE'],NE
-18008,Trevone Boykin,[u'QB'],Sea
-17934,Rashard Higgins,[u'WR'],Cle
-18024,Ben Braunecker,[u'TE'],Chi
-15081,Asa Jackson,[u'CB'],SF
-17296,Mike Pennel,[u'DT'],NYJ
-17374,Keith Smith,[u'LB'],Dal
-17477,Bryce Hager,"[u'LB', u'EDR']",LAR
-17537,Derron Smith,[u'S'],Cin
-17966,Kamu Grugier-Hill,[u'LB'],Phi
-18055,Wendall Williams,[u'WR'],Hou
-15803,EJ Manuel,[u'QB'],Oak
-17507,Keith Mumphery,[u'WR'],Hou
-17149,Antonio Andrews,[u'RB'],Ten
-15688,Brandon Bostick,[u'TE'],NYJ
-9702,Stephen Tulloch,[u'LB'],Phi
-10452,Adrian Peterson,[u'RB'],NO
-10552,Paul Soliai,[u'DT'],Car
-15782,Chris Banjo,[u'S'],NO
-15833,Will Davis,[u'CB'],SF
-15854,Leon McFadden,[u'CB'],Dal
-15858,Damontre Moore,"[u'DE', u'EDR']",Dal
-15992,Shamarko Thomas,[u'S'],NYJ
-17255,Marquis Flowers,[u'LB'],Cin
-17449,Hayes Pullard III,[u'LB'],Jax
-17672,Lorenzo Doss,[u'CB'],Den
-17913,Zack Sanchez,[u'CB'],Car
-17920,Matt Ioannidis,[u'DT'],Wsh
-18118,Michael Pierce,[u'DT'],Bal
-17616,Javorius Allen,[u'RB'],Bal
-17713,Geoff Swaim,[u'TE'],Dal
-17810,Josh Doctson,[u'WR'],Wsh
-13298,Brandon Spikes,[u'LB'],Buf
-14174,Chris Carter,"[u'LB', u'DE', u'EDR']",Wsh
-15824,Johnthan Banks,[u'CB'],Chi
-17854,Darian Thompson,[u'S'],NYG
-17567,Nick Boyle,[u'TE'],Bal
-15818,Keenan Allen,[u'WR'],LAC
-11387,Matthew Slater,[u'WR'],NE
-18125,D.J. Tialavea,[u'TE'],Atl
-14020,Allen Bailey,[u'DT'],KC
-15911,Tavarres King,[u'WR'],NYG
-17285,Ed Stinson,[u'DT'],Ari
-17418,Roosevelt Nix,[u'RB'],Pit
-17877,Connor Cook,[u'QB'],Oak
-17997,Jayron Kearse,[u'S'],Min
-16345,Nick Williams,[u'WR'],Atl
-16792,Jace Amaro,[u'TE'],Ten
-17767,Raheem Mostert,[u'RB'],SF
-14262,Mark Herzlich,[u'LB'],NYG
-5660,Antonio Smith,[u'DE'],Hou
-14954,John Lewis Hughes III,[u'DT'],NO
-15838,Zaviar Gooden,[u'LB'],Ari
-15884,Duke Williams,[u'S'],Ind
-16021,Tharold Simon,[u'CB'],Ari
-17191,Jay Prosch,[u'RB'],Hou
-17786,Jonathan Anderson,[u'LB'],Chi
-17857,KeiVarae Russell,[u'CB'],Cin
-16714,Justin Gilbert,[u'CB'],Pit
-14156,Niles Paul,[u'TE'],Wsh
-5209,Tony Romo,[u'QB'],Dal
-14524,Bryan Braman,[u'LB'],Phi
-15014,Tank Carder,[u'LB'],Cle
-15360,Griff Whalen,[u'WR'],Bal
-15840,Dwayne Gratz,[u'CB'],Phi
-16054,Marcus Cromartie,[u'CB'],Sea
-17161,Vinnie Sunseri,[u'S'],SF
-17352,Deontae Skinner,[u'LB'],NYG
-17565,Gabe Wright,[u'DT'],Phi
-17969,Kavon Frazier,[u'S'],Dal
-18016,Xavier Williams,[u'DT'],Ari
-18086,Troymaine Pope,[u'RB'],Ind
-17956,Dan Vitale,[u'RB'],Cle
-18032,Brandon Wilds,[u'RB'],Cle
-10686,Clark Harris,[u'TE'],Cin
-11392,Kellen Davis,[u'TE'],NYJ
-14117,Colin Jones,[u'S'],Car
-17235,Pierre Desir,[u'CB'],Sea
-17256,Carl Bradford,[u'LB'],Buf
-17308,Ryan Carrethers,[u'DT'],LAC
-17392,Justin Perillo,[u'TE'],Chi
-17925,K.J. Dillon,[u'S'],Hou
-18120,Darius Latham,[u'DT'],Oak
-18121,Destiny Vaeao,[u'DT'],Phi
-17170,Ryan Hewitt,[u'RB'],Cin
-15968,Mike James,[u'RB'],Det
-18043,D.J. Foster,[u'RB'],NE
-13940,James Develin,[u'RB'],NE
-12519,Cedric Peerman,[u'RB'],Cin
-13541,Sergio Brown,[u'S'],Buf
-15061,Antonio Allen,[u'S'],NYJ
-15789,Matt Elam,[u'S'],Bal
-17453,Owa Odighizuwa,"[u'DE', u'EDR']",NYG
-17785,Howard Jones,[u'DE'],TB
-17839,Mackensie Alexander,[u'CB'],Min
-17900,Demarcus Robinson,[u'WR'],KC
-18117,Tracy Howard,[u'S'],Jax
-13376,Clay Harbor,[u'TE'],NO
-17516,Jalston Fowler,[u'RB'],Ten
-13726,Logan Paulsen,[u'TE'],SF
-14274,Jeron Johnson,[u'S'],Jax
-14673,Justin Trattou,[u'DE'],TB
-15073,Winston Guy,[u'S'],Ind
-15264,L.J. Fort,[u'LB'],Pit
-15319,Ryan Davis,"[u'DE', u'EDR']",Buf
-15944,Mike Catapano,[u'DE'],NYJ
-16366,Zach Line,[u'RB'],Min
-17473,Darius Kilgo,[u'DT'],NE
-17491,Geneo Grissom,"[u'DE', u'EDR']",NE
-17584,Devin Smith,[u'WR'],NYJ
-14099,Luke Stocker,[u'TE'],TB
-17873,Nick Vannett,[u'TE'],Sea
-18109,Don Jackson,[u'RB'],GB
-18050,Damiere Byrd,[u'WR'],Car
-13277,Lamarr Houston,"[u'LB', u'EDR']",Chi
-13769,Sam Shields,[u'CB'],GB
-15828,Arthur Brown,[u'LB'],NYJ
-17328,Marqueston Huff,[u'S'],TB
-17575,Mark Nzeocha,[u'LB'],Dal
-17612,Jordan Richards,[u'S'],NE
-17716,Nate Orchard,"[u'DE', u'EDR']",Cle
-18014,Brandon Dunn,[u'DT'],Hou
-14215,Lee Smith,[u'TE'],Oak
-14888,Isaiah Pead,[u'RB'],Mia
-18092,Julian Howsare,[u'RB'],NYJ
-17524,Malcolm Johnson,[u'RB'],Sea
-14963,Devon Still,[u'DT'],NYJ
-17779,Robenson Therezie,[u'S'],NYJ
-17811,Laquon Treadwell,[u'WR'],Min
-18005,Kalan Reed,[u'CB'],Ten
-18061,Cameron Lynch,[u'LB'],TB
-17781,Rod Smith,[u'RB'],Dal
-17718,DeAndre Smelter,[u'WR'],SF
-17444,MyCole Pruitt,[u'TE'],Chi
-15981,Stepfan Taylor,[u'RB'],Ari
-9782,Kedric Golston,[u'DT'],Wsh
-12757,Colt Anderson,[u'S'],Buf
-13324,Crezdon Butler,[u'CB'],Det
-15430,Tony Jerod-Eddie,[u'DT'],SF
-17135,Devin Street,[u'WR'],Hou
-17273,Jordan Tripp,[u'LB'],GB
-17316,Brian Dixon,[u'CB'],Jax
-17359,Deandre Coleman,[u'DT'],Buf
-17816,Robert Nkemdiche,[u'DT'],Ari
-17967,Maurice Canady,[u'CB'],Bal
+17751,Bennie Fowler,[u'WR'],Chi
+17862,Jordan Jenkins,"[u'LB', u'EDR']",NYJ
+18438,Jonathan Jones,[u'CB'],NE
+17233,Nevin Lawson,[u'CB'],Det
+17776,Shaquil Barrett,"[u'LB', u'EDR']",Den
+15349,Cole Beasley,[u'WR'],Dal
+17915,DeAndre Washington,[u'RB'],Oak
+17156,Brock Coyle,[u'LB'],SF
+17801,Eli Apple,[u'CB'],NYG
+14204,Julius Thomas,[u'TE'],FA
+13245,Jerry Hughes,"[u'DE', u'EDR']",Buf
+17678,T.J. Yeldon,[u'RB'],Jax
+16010,John Simon,"[u'DE', u'EDR']",Ind
+17819,Emmanuel Ogbah,"[u'DE', u'EDR']",Cle
+18336,Matt Milano,[u'LB'],Buf
+18509,Nicholas Morrow,[u'LB'],Oak
+15878,Terrance Williams,[u'WR'],Dal
+13985,Muhammad Wilkerson,[u'DT'],GB
+13975,Prince Amukamara,[u'CB'],Chi
+14879,Brock Osweiler,[u'QB'],Mia
+18173,Jayon Brown,[u'LB'],Ten
+18047,Roger Lewis,[u'WR'],NYG
+14157,Davon House,[u'CB'],GB
+14929,Nick Perry,"[u'LB', u'EDR']",GB
+17448,Jaquiski Tartt,[u'S'],SF
+11737,Connor Barth,[u'K'],Chi
+17800,Leonard Floyd,"[u'LB', u'EDR']",Chi
+17954,Cory James,[u'LB'],Oak
+13980,Patrick Peterson,[u'CB'],Ari
+13843,Marcus Sherels,[u'CB'],Min
+14032,Torrey Smith,[u'WR'],Car
+17889,Nick Kwiatkoski,[u'LB'],Chi
+18007,Bryce Callahan,[u'CB'],Chi
+13248,Derrick Morgan,"[u'DE', u'EDR']",Ten
+14398,Chris Harris Jr.,[u'CB'],Den
+18167,Myles Garrett,"[u'DE', u'EDR']",Cle
+16793,Cody Latimer,[u'WR'],NYG
+14185,Lawrence Guy,[u'DT'],NE
+16055,Benny Cunningham,[u'RB'],Chi
+18012,David Irving,[u'DT'],Dal
+17812,William Jackson,[u'CB'],Cin
+18260,Dalvin Cook,[u'RB'],Min
 18018,Zach Vigil,[u'LB'],Wsh
-17355,Rashad Ross,[u'WR'],Buf
-17949,David Morgan II,[u'TE'],Min
-18026,Cole Wick,[u'TE'],Det
-17911,Cardale Jones,[u'QB'],LAC
-12569,Percy Harvin,[u'WR'],Buf
-17154,Brenton Bersin,[u'WR'],Car
-16593,Matt McGloin,[u'QB'],Phi
-15272,Dezman Moses,[u'LB'],KC
-15403,Derek Carrier,[u'TE'],Wsh
-15954,Sam Barrington,[u'LB'],Buf
-17269,Trevor Reilly,[u'LB'],Mia
-17281,Taylor Hart,[u'DE'],Phi
-17655,Mario Edwards Jr.,[u'DT'],Oak
-17715,Vince Mayle,[u'WR'],Bal
-17725,Edmond Robinson,[u'LB'],Min
-17931,Marqui Christian,[u'S'],LAR
-17961,Dadi Nicolas,"[u'LB', u'EDR']",KC
-18013,Christian Bryant,[u'S'],Ari
-18081,Braedon Bowman,[u'TE'],NO
-18098,Ross Travis,[u'TE'],KC
-17466,Gerald Christian,[u'TE'],Ari
-18096,Paul Lasike,[u'RB'],Chi
-17737,Terrence Magee,[u'RB'],Cle
-17197,Jeremy Butler,[u'WR'],Buf
-18122,George Farmer,[u'RB'],Sea
-15933,Nick Moody,[u'LB'],Wsh
-15957,Malliciah Goodman,"[u'DE', u'EDR']",Jax
-16797,Troy Niklas,[u'TE'],Ari
-16805,Dexter McDougle,[u'CB'],NYJ
-16950,Lorenzo Taliaferro,[u'RB'],Bal
-17253,Chris McCain,"[u'DE', u'EDR']",LAC
-17279,Larry Webster,"[u'DE', u'EDR']",Car
-17306,T.J. Barnes,[u'DT'],KC
+17690,Jesse James,[u'TE'],Pit
+17887,Miles Killebrew,[u'S'],Det
+18270,Marlon Humphrey,[u'CB'],Bal
+18530,Nick Rose,[u'K'],Hou
+11236,Chris Long,"[u'LB', u'EDR']",Phi
+15850,Bennie Logan,[u'DT'],Ten
+17283,Shelby Harris,[u'DT'],Den
+18217,Derek Barnett,"[u'DE', u'EDR']",Phi
+14010,Shareece Wright,[u'CB'],Oak
+14941,Fletcher Cox,[u'DT'],Phi
+17654,Ronald Darby,[u'CB'],Phi
+14943,Morris Claiborne,[u'CB'],NYJ
+14193,Jacquizz Rodgers,[u'RB'],TB
+17975,Will Parks,[u'S'],Den
+18504,Olsen Pierre,[u'DT'],Ari
+13995,Kelvin Sheppard,[u'LB'],NYG
+15831,Johnathan Cyprien,[u'S'],Ten
+17509,Darryl Roberts,[u'CB'],NYJ
+16791,Donte Moncrief,[u'WR'],Jax
 17484,Dexter McDonald,[u'CB'],Oak
-17502,Michael Burton,[u'RB'],Chi
-17549,Chris Manhertz,[u'TE'],Car
-17660,Maxx Williams,[u'TE'],Bal
-17666,P.J. Dawson,[u'LB'],Cin
-17938,Temarrick Hemingway,[u'TE'],LAR
-17946,DeAndre Houston-Carson,[u'S'],Chi
-17962,Jordan Lucas,[u'CB'],Mia
-17981,Stephen Weatherly,"[u'DE', u'EDR']",Min
-18001,Prince Charles Iworah,[u'CB'],SF
-18002,Scooby Wright III,[u'LB'],Ari
-16821,David Fales,[u'QB'],Mia
-11708,Matthew Mulligan,[u'TE'],Det
-16836,Jared Abbrederis,[u'WR'],Det
-14028,Stevan Ridley,[u'RB'],Den
-15111,Daryl Richardson,[u'RB'],Jax
-15296,Joe Banyard,[u'RB'],Buf
-13913,Will Tukuafu,[u'DE'],Sea
-12471,Chase Daniel,[u'QB'],NO
-18054,Paul McRoberts,[u'WR'],LAR
-12482,Mark Sanchez,[u'QB'],Chi
-10569,Dashon Goldson,[u'S'],Atl
-15984,Josh Evans,[u'S'],Wsh
-17628,Mykkele Thompson,[u'S'],NYG
-17917,Quinton Jefferson,[u'DT'],Sea
-18064,Alani Fua,[u'LB'],Ari
-18067,Eric Pinkins,"[u'LB', u'S']",NYG
-17478,Geremy Davis,[u'WR'],LAC
-5615,Matt Schaub,[u'QB'],Atl
-13536,Joique Bell,[u'RB'],Det
-17450,Randall Telfer,[u'TE'],Cle
-17922,Jordan Payton,[u'WR'],Cle
-16530,Khiry Robinson,[u'RB'],NYJ
-2549,Mike Vick,[u'QB'],Pit
-3504,Shayne Graham,[u'K'],Atl
-4245,Billy Cundiff,[u'K'],Cle
-4467,Kevin Williams,[u'DT'],NO
-4476,Calvin Pace,[u'LB'],NYJ
-4493,Charles Tillman,[u'CB'],Car
-4497,Rashean Mathis,[u'CB'],Det
-4524,Cory Redding,[u'DE'],Ari
-4864,Chris Clemons,[u'DE'],Sea
-4870,Colin Cole,[u'DT'],Car
-5531,Kellen Winslow,[u'TE'],NYJ
-5549,Steven Jackson,[u'RB'],NE
-5552,Jason Babin,[u'DE'],Ari
-5557,Benjamin Watson,[u'TE'],Bal
-5576,Dwan Edwards,[u'DT'],Car
-5596,Randy Starks,[u'DT'],Cle
-5631,Luke McCown,[u'QB'],Dal
-5633,Jerricho Cotchery,[u'WR'],Car
-5636,Will Allen,[u'S'],Pit
-5651,Jared Allen,[u'DE'],Car
-5662,Josh Scobee,[u'K'],NO
-5941,Wes Welker,[u'WR'],LAR
-8423,Antrel Rolle,[u'S'],Chi
-8442,Roddy White,[u'WR'],Atl
-8485,Alex Smith,[u'TE'],Wsh
-8488,Justin Tuck,[u'DE'],Oak
-8546,Chris Canty,[u'DE'],Bal
-8559,Dan Orlovsky,[u'QB'],LAR
-8605,C.J. Mosley,[u'DT'],NYJ
-8638,Jeremiah Ratliff,[u'DT'],Chi
-9250,Brandon Browner,[u'CB'],Sea
-9270,Joshua Cribbs,[u'WR'],Ind
-9307,Nate Washington,[u'WR'],NE
-9361,Shaun Suisham,[u'K'],Pit
-9400,Lance Moore,[u'WR'],Atl
-9591,A.J. Hawk,[u'LB'],Atl
-9608,Manny Lawson,[u'LB'],Buf
-9619,DeMeco Ryans,[u'LB'],Phi
-9638,Greg Jennings,[u'WR'],Mia
-9648,Tim Jennings,[u'CB'],TB
-9650,Tarvaris Jackson,[u'QB'],Sea
-9668,Derek Hagan,[u'WR'],Ten
-9674,James Anderson,[u'LB'],NO
-9678,Jason Hatcher,[u'DE'],Wsh
-9684,Owen Daniels,[u'TE'],Den
-9695,Jason Avant,[u'WR'],KC
-9710,Barry Cofield,[u'DT'],NYG
-9732,Dawan Landry,[u'S'],NYJ
-9777,Jeremy Mincey,[u'DE'],Dal
-9780,Bruce Gradkowski,[u'QB'],Pit
-9801,Cortland Finnegan,[u'CB'],NO
-9838,Marques Colston,[u'WR'],NO
-10147,Miles Austin,[u'WR'],Phi
-10195,Fred Jackson,[u'RB'],Sea
-10287,Daniel Fells,[u'TE'],NYG
-10361,Stephen Bowen,[u'DE'],NYJ
-10447,Calvin Johnson,[u'WR'],Det
-10451,LaRon Landry,[u'S'],Ind
-10456,Marshawn Lynch,[u'RB'],Oak
-10467,Dwayne Bowe,[u'WR'],Cle
-10468,Brandon Meriweather,[u'S'],NYG
-10469,Jon Beason,[u'LB'],NYG
-10490,LaMarr Woodley,[u'LB'],Ari
-10499,Josh Wilson,[u'CB'],Det
-10517,Jacoby Jones,[u'WR'],Pit
-10521,Matt Spaeth,[u'TE'],Pit
-10522,James Jones,[u'WR'],LAC
-10572,Scott Chandler,[u'TE'],NE
-10590,Tarell Brown,[u'CB'],NE
-10635,Desmond Bishop,[u'LB'],Wsh
-10664,Trumaine McBride,[u'CB'],NYG
-10680,Alan Ball,[u'CB'],Ari
-10693,Ahmad Bradshaw,[u'RB'],Ind
-10713,Pierre Thomas,[u'RB'],Wsh
-10763,Mike DeVito,[u'DE'],KC
-10785,Craig Dahl,[u'S'],NYG
-10927,Jason Trusnik,[u'LB'],NO
-11244,Jerod Mayo,[u'LB'],NE
-11259,Mike Jenkins,[u'CB'],Ari
-11271,Curtis Lofton,[u'LB'],Oak
-11280,Jerome Simpson,[u'WR'],SF
-11282,Fred Davis,[u'TE'],Wsh
-11286,Quentin Groves,[u'LB'],Buf
-11301,Charles Godfrey,[u'S'],Atl
-11319,Craig Stevens,[u'TE'],Ten
-11331,Andre Jerome Caldwell,[u'WR'],Det
-11358,Red Bryant,[u'DE'],Ari
-11365,Zack Bowman,[u'CB'],Mia
-11388,Kroy Biermann,[u'DE'],Buf
-11394,Josh Javon Johnson,[u'QB'],NYG
-11415,Nick Hayden,[u'DT'],Cle
-11428,Ryan Mundy,[u'S'],Chi
-11434,Joe Mays,[u'LB'],LAC
-11443,Matt Flynn,[u'QB'],NO
-11458,Stevie Johnson,[u'WR'],LAC
-11463,Cary Williams,[u'CB'],Wsh
-11494,Kyle Arrington,[u'CB'],Bal
-11543,Garrett Hartley,[u'K'],Pit
-11544,David Hawthorne,[u'LB'],Buf
-11693,Jo-Lonn Dunbar,[u'LB'],NO
-11762,Danny Lansanah,[u'LB'],Mia
-11778,Ropati Pitoitua,[u'DE'],Ten
-11841,Jameel McClain,[u'LB'],NYG
-11910,Husain Abdullah,[u'S'],KC
-12447,B.J. Raji,[u'DT'],GB
-12448,Vance Walker,[u'DT'],Den
-12451,Jasper Brinkley,[u'LB'],NYG
-12473,Josh Freeman,[u'QB'],Ind
-12489,Donald Brown,[u'RB'],NE
-12510,Jorvorskie Lane,[u'RB'],TB
-12524,Marcus Thigpen,[u'RB'],Buf
-12528,Louis Delmas,[u'S'],Mia
-12530,William Moore,[u'S'],Atl
-12535,James Casey,[u'TE'],Den
-12536,Chase Coffman,[u'TE'],Ind
-12548,Bear Pascoe,[u'TE'],NE
-12549,Brandon Pettigrew,[u'TE'],Det
-12567,Brandon Gibson,[u'WR'],NE
-12568,Brian Hartline,[u'WR'],Cle
-12585,Louis Murphy,[u'WR'],SF
-12586,Hakeem Nicks,[u'WR'],NO
-12588,Kevin Ogletree,[u'WR'],NYG
-12633,E.J. Biggers,[u'CB'],NE
-12645,Chris Clemons,[u'S'],Ari
-12652,Bradley Fletcher,[u'CB'],NE
-12667,Sammie Hill,[u'DT'],Ten
-12675,Brad Jones,[u'LB'],Phi
-12677,Terrance Knighton,[u'DT'],NE
-12683,Keenan Lewis,[u'CB'],NO
-12695,Henry Melton,[u'DT'],Den
-12713,Chris Owens,[u'CB'],NO
-12721,Jamarca Sanford,[u'S'],NO
-12752,Jarius Wynn,[u'DE'],Buf
-12771,Tony Carter,[u'CB'],NO
-12949,Desmond Bryant,[u'DT'],Cle
-12989,Phillip Hunt,[u'DE'],NO
-13097,Darrel Young,[u'RB'],Car
-13165,Josh Mauga,[u'LB'],KC
-13198,Jimmy Clausen,[u'QB'],Bal
-13199,Colt McCoy,[u'QB'],Wsh
-13202,Dan LeFevour,[u'QB'],TB
-13210,Ben Tate,[u'RB'],Pit
-13211,Toby Gerhart,[u'RB'],Jax
-13212,Boobie Dixon,[u'RB'],Buf
-13224,Marcus Easley,[u'WR'],Buf
-13225,Riley Cooper,[u'WR'],Phi
-13237,Kyle Wilson,[u'CB'],NO
-13255,Rolando McClain,[u'LB'],Dal
-13266,Alex Carrington,[u'DE'],Hou
-13286,Taylor Mays,[u'S'],Cin
-13289,Tony Moeaki,[u'TE'],Chi
-13291,Mike Neal,[u'DE'],GB
-13305,Daryl Washington,[u'LB'],Ari
-13307,Major Wright,[u'S'],TB
-13308,Phillip Adams,[u'CB'],Atl
-13310,Larry Asante,[u'S'],Oak
-13342,Kavell Conner,[u'LB'],Bal
-13357,Jim Dray,[u'TE'],SF
-13371,Garrett Graham,[u'TE'],Den
-13377,Greg Hardy,[u'DE'],Dal
-13387,Michael Hoomanawanui,[u'TE'],NO
-13406,Sean Lissemore,[u'DT'],LAC
-13414,Anthony McCoy,[u'TE'],Sea
-13440,Andrew Quarless,[u'TE'],Det
-13449,O'Brien Schofield,[u'LB'],Atl
-13452,George Selvie,[u'DE'],NYG
-13473,Walter Thurmond III,[u'CB'],Phi
-13488,Kyle Williams,[u'WR'],NYJ
-13489,Mike Williams,[u'WR'],KC
-13524,Seyi Ajirotutu,[u'WR'],Phi
-13538,Richie Brockel,[u'TE'],Car
-13554,Jermelle Cudjo,[u'DT'],NYG
-13555,Jeff Cumberland,[u'TE'],LAC
-13566,Junior Galette,"[u'DE', u'EDR']",Wsh
-13606,Thaddeus Lewis,[u'QB'],Bal
-13611,Danny McCray,[u'S'],Dal
-13616,Marlon Moore,[u'WR'],Cle
-13797,Cassius Vaughn,[u'CB'],LAC
-13812,George Johnson,"[u'DE', u'EDR']",TB
-13935,Danario Alexander,[u'WR'],LAC
-13945,Tyler Clutts,[u'RB'],Dal
-13966,Christian Ponder,[u'QB'],SF
-13968,Phillip Taylor,[u'DT'],Wsh
-13988,Aldon Smith,"[u'LB', u'EDR']",Oak
-14004,Nate Irving,[u'LB'],Ind
-14009,Rob Housler,[u'TE'],NE
-14021,Leonard Hankerson,[u'WR'],Buf
-14024,Greg Little,[u'WR'],Buf
-14027,Vincent Brown,[u'WR'],NO
-14038,Ras-I Dowling,[u'CB'],Car
-14043,Jaiquawn Jarrett,[u'S'],NYJ
-14044,Chris Culliver,[u'CB'],Mia
-14046,Da'Quan Bowers,[u'DE'],TB
-14050,Rahim Moore,[u'S'],NYG
-14051,Ryan Williams,[u'RB'],Dal
-14056,Daniel Thomas,[u'RB'],Mia
-14057,Kenrick Ellis,[u'DT'],Min
-14059,Jimmy Wilson,[u'S'],Cin
-14066,Jalil Brown,[u'CB'],Ind
-14083,Bruce Miller,[u'TE'],SF
-14097,Mike Mohamed,[u'LB'],NO
-14102,David Ausberry,[u'TE'],Det
-14103,Allen Bradford,[u'LB'],Atl
-14109,Cortez Allen,[u'CB'],Pit
-14114,T.J. Yates,[u'QB'],Buf
-14153,Denarius Moore,[u'WR'],Buf
-14158,D.J. Williams,[u'TE'],Wsh
-14159,Kendall Hunter,[u'RB'],NO
-14162,Josh Thomas,[u'CB'],Dal
-14176,Frank Kearse,[u'DT'],NE
-14181,Casey Matthews,[u'LB'],Min
-14192,Roy Helu Jr.,[u'RB'],Oak
-14205,J.T. Thomas,[u'LB'],NYG
-14275,Jerrod Johnson,[u'QB'],Dal
-14280,Ricardo Lockette,[u'WR'],Sea
-14361,Brandon Bair,[u'DE'],Phi
-14377,Demarcus Dobbs,[u'DE'],Sea
-14424,Joe Morgan,[u'WR'],Bal
-14461,Ian Williams,[u'DT'],SF
-14510,Darrin Walls,[u'CB'],Det
-14597,Jamari Lattimore,[u'LB'],Buf
-14671,Mario Butler,[u'CB'],Buf
-14697,Brandian Ross,[u'CB'],Den
-14739,Ben Jacobs,[u'LB'],Car
-14870,Will Johnson,[u'RB'],NYG
-14878,Brandon Weeden,[u'QB'],Hou
-14882,Kellen Moore,[u'QB'],Dal
-14883,Ryan Lindley,[u'QB'],Ind
-14884,Trent Richardson,[u'RB'],Bal
-14889,Chris Polk,[u'RB'],Hou
-14890,LaMike James,[u'RB'],Mia
-14891,Bernard Pierce,[u'RB'],Den
-14897,Cyrus Gray,[u'RB'],Atl
-14898,Vick Ballard,[u'RB'],NO
-14902,Orson Charles,[u'TE'],KC
-14906,James Hanna,[u'TE'],Dal
-14907,Justin Blackmon,[u'WR'],Jax
-14910,Stephen Hill,[u'WR'],Car
-14911,Rueben Randle,[u'WR'],Chi
-14920,Trevor Graham,[u'WR'],Car
-14921,Nick Toon,[u'WR'],LAR
-14934,Quinton Coples,[u'LB'],LAR
-14955,Jamell Fleming,[u'CB'],KC
-14965,Brandon Thompson,[u'DT'],Cin
-14969,DeVier Posey,[u'WR'],Den
-14980,Bill Bentley,[u'CB'],Det
-14983,Jayron Hosley,[u'CB'],NYG
-14988,Mike Martin,[u'DT'],Phi
-14997,Omar Bolden,[u'S'],Chi
-15011,Travis Lewis,[u'LB'],Min
-15024,Markus Kuhn,[u'DT'],NE
-15028,Scott Solomon,[u'DE'],Cle
-15032,James-Michael Johnson,[u'LB'],Mia
-15033,LaVon Brazill,[u'WR'],Ind
-15041,Daniel Herron,[u'RB'],Buf
-15045,Emmanuel Acho,[u'LB'],Phi
-15049,Trenton Robinson,[u'S'],Car
-15057,Brandon Boykin,[u'CB'],Bal
-15078,Chris Givens,[u'WR'],Phi
-15092,Bryce Brown,[u'RB'],Sea
-15099,Jonathan Massaquoi,[u'DE'],KC
-15101,Alameda Ta'amu,[u'DT'],Buf
-15113,Josh Bush,[u'S'],Den
-15120,Greg Scruggs,[u'TE'],NE
-15180,Kashif Moore,[u'WR'],KC
-15187,Austin Davis,[u'QB'],Sea
-15189,Nathan Palmer,[u'WR'],Oak
-15194,Jerry Franklin,[u'LB'],Det
-15226,Cory Harkey,[u'RB'],LAR
-15230,Chris Owusu,[u'WR'],NYJ
-15252,Brian Tyms,[u'WR'],Ind
-15348,Jeff Fuller,[u'WR'],Sea
-15351,Derrick Coleman,[u'RB'],Atl
-15358,Jarrett Boykin,[u'WR'],Buf
-15364,Jonas Gray,[u'RB'],Jax
-15407,Matt Simms,[u'QB'],Atl
-15454,Sean Richardson,[u'S'],GB
-15508,Ishmaa'ily Kitchen,[u'DT'],TB
-15536,LaRon Byrd,[u'WR'],Car
-15621,Will Hill,[u'S'],Bal
-15624,Damaris Johnson,[u'WR'],Ten
-15647,Chase Ford,[u'TE'],Bal
-15670,Cooper Helfet,[u'TE'],Oak
-15693,Alex Tanney,[u'QB'],Ten
+17764,Ricardo Allen,[u'S'],Atl
+13272,Ed Dickson,[u'TE'],Sea
+16946,Bruce Ellington,[u'WR'],Hou
+9720,Kyle Williams,[u'DT'],Buf
+17162,Devon Kennard,[u'LB'],Det
+17385,Aaron Colvin,[u'CB'],Hou
+17847,Adam Gotsis,[u'DT'],Den
+17885,B.J. Goodson,[u'LB'],NYG
+14152,Sam Acho,"[u'LB', u'EDR']",Chi
+15877,Shawn Williams,[u'S'],Cin
+18280,Solomon Thomas,"[u'DE', u'EDR']",SF
+17904,Willie Henry,[u'DT'],Bal
+17998,Clayton Fejedelem,[u'S'],Cin
+16795,Austin Seferian-Jenkins,[u'TE'],Jax
+17177,Taylor Gabriel,[u'WR'],Chi
+18196,D'Onta Foreman,[u'RB'],Hou
+14519,Josh Bynes,[u'LB'],Ari
+17468,Vic Beasley Jr.,"[u'DE', u'EDR']",Atl
+17145,Brandon Coleman,[u'WR'],NO
+14959,Vinny Curry,"[u'DE', u'EDR']",TB
+8461,Mike Nugent,[u'K'],Oak
+13336,Kam Chancellor,[u'S'],Sea
+15921,Kenjon Barner,[u'RB'],Car
+15896,Brice Butler,[u'WR'],Ari
+5362,Antonio Gates,[u'TE'],FA
+14017,Shane Vereen,[u'RB'],NO
+15089,Justin Bethel,[u'CB'],Atl
+18251,Adrian Colbert,[u'S'],SF
+11439,Pierre Garcon,[u'WR'],SF
+16733,Odell Beckham Jr.,[u'WR'],NYG
+17280,Cassius Marsh,"[u'DE', u'EDR']",SF
+17438,Jason Myers,[u'K'],NYJ
+18412,Nate Hairston,[u'CB'],Ind
+12449,Connor Barwin,[u'LB'],NYG
+15811,Sheldon Richardson,[u'DT'],Min
+18191,Ahkello Witherspoon,[u'CB'],SF
+11254,Aqib Talib,[u'CB'],LAR
+15872,Kayvon Webster,[u'CB'],LAR
+15893,Andre Ellington,[u'RB'],Hou
+12430,Sean Smith,[u'CB'],Oak
+18222,Takkarist McKinley,"[u'DE', u'EDR']",Atl
+13233,Tyson Alualu,[u'DT'],Pit
+17671,Malcom Brown,[u'DT'],NE
+18142,Cory Littleton,[u'LB'],LAR
+16804,John Brown,[u'WR'],Bal
+12477,Brian Hoyer,[u'QB'],NE
+17849,Carl Nassib,"[u'DE', u'EDR']",Cle
+10611,Corey Graham,[u'S'],Phi
+12619,Mike Mitchell,[u'S'],Pit
+17761,Seth Roberts,[u'WR'],Oak
+17384,Charcandrick West,[u'RB'],NYJ
+15841,Johnathan Hankins,[u'DT'],Ind
+17802,Vernon Hargreaves III,[u'CB'],TB
+17934,Rashard Higgins,[u'WR'],Cle
+18020,Quinton Dunbar,[u'CB'],Wsh
+13997,Brooks Reed,"[u'DE', u'EDR']",Atl
+14086,Richard Sherman,[u'CB'],SF
+15852,T.J. McDonald,[u'S'],Mia
+17669,Leonard Williams,[u'DT'],NYJ
+17710,Steven Nelson,[u'CB'],KC
+17882,Eric Murray,[u'S'],KC
+17910,Seth DeValve,[u'TE'],Cle
+18471,Trevon Coley,[u'DT'],Cle
+18518,Kenny Moore II,[u'CB'],Ind
+11401,Erik Walden,[u'LB'],Sea
+17807,Shaq Lawson,"[u'DE', u'EDR']",Buf
+18118,Michael Pierce,[u'DT'],Bal
+12895,Steve McLendon,[u'DT'],NYJ
+14987,Tyrone Crawford,"[u'DE', u'EDR']",Dal
+16268,Josh Martin,"[u'LB', u'EDR']",NYJ
+18297,Xavier Woods,[u'S'],Dal
+18329,Rasul Douglas,[u'CB'],Phi
+16945,De'Anthony Thomas,[u'WR'],KC
+15612,Eddie Pleasant,[u'S'],NE
+17255,Marquis Flowers,[u'LB'],NE
+15555,Joshua Bellamy,[u'WR'],Chi
+13277,Lamarr Houston,[u'LB'],Chi
+17835,Jarran Reed,[u'DT'],Sea
+18363,Haason Reddick,[u'LB'],Ari
+18495,Dylan Cole,[u'LB'],Hou
+11307,Jamaal Charles,[u'RB'],FA
+18131,Anthony Lanier II,[u'DT'],Wsh
+18255,Dalvin Tomlinson,[u'DT'],NYG
+17693,Darius Philon,[u'DT'],LAC
+18519,Josh Hawkins,[u'CB'],GB
+13228,Jermaine Gresham,[u'TE'],Ari
+17134,Alfred Blue,[u'RB'],Hou
+13845,Anthony Levine Sr.,[u'S'],Bal
+18100,Tommylee Lewis,[u'WR'],NO
+11250,Dominique Rodgers-Cromartie,[u'CB'],Oak
+15958,Akeem Spence,[u'DT'],Mia
+16376,Abry Jones,[u'DT'],Jax
+17924,LeShaun Sims,[u'CB'],Ten
+10487,Drew Stanton,[u'QB'],Cle
+16121,Luke Willson,[u'TE'],Det
+17909,Dean Lowry,[u'DT'],GB
+17604,Nick O'Leary,[u'TE'],Buf
+18050,Damiere Byrd,[u'WR'],Car
+9329,Nick Novak,[u'K'],LAC
+14164,Aldrick Robinson,[u'WR'],SF
+14939,Dontari Poe,[u'DT'],Car
+17457,Kevin Johnson,[u'CB'],Hou
+17905,Rashard Robinson,[u'CB'],NYJ
+18223,Zay Jones,[u'WR'],Buf
+17253,Chris McCain,"[u'DE', u'EDR']",Ind
+17805,Corey Coleman,[u'WR'],Buf
+18089,Chester Rogers,[u'WR'],Ind
+17921,Wendell Smallwood,[u'RB'],Phi
+18115,Briean Boddy-Calhoun,[u'CB'],Cle
+18151,Matt Longacre,"[u'LB', u'EDR']",LAR
+8421,Adam Jones,[u'CB'],Cin
+12692,Clinton McDonald,[u'DT'],Den
+13304,T.J. Ward,[u'S'],TB
+16431,Wes Horton,"[u'DE', u'EDR']",Car
+18302,Dede Westbrook,[u'WR'],Jax
+17656,Eddie Goldman,[u'DT'],Chi
+13779,Frank Zombo,"[u'LB', u'EDR']",KC
+15830,Jamie Collins Sr.,[u'LB'],Cle
+15911,Tavarres King,[u'WR'],Min
+17310,Justin Ellis,[u'DT'],Oak
+18027,Stephen Anderson,[u'TE'],Hou
+15842,Duron Harmon,[u'S'],NE
+17742,Malcolm Brown,[u'RB'],LAR
+18091,Johnny Holton,[u'WR'],Oak
+16798,Stephon Tuitt,[u'DE'],Pit
+17376,Adarius Taylor,[u'LB'],TB
+17542,Justin Hardy,[u'WR'],Atl
+4463,Terence Newman,[u'CB'],Min
+14900,Coby Fleener,[u'TE'],FA
+18386,Carl Lawson,"[u'DE', u'EDR']",Cin
+17138,Damien Williams,[u'RB'],KC
+16749,Charles Sims,[u'RB'],TB
+14202,Pernell McPhee,"[u'LB', u'EDR']",Wsh
+17443,Kyle Emanuel,[u'LB'],LAC
+17841,T.J. Green,[u'S'],Ind
+18111,Andrew Adams,[u'S'],NYG
+17789,Akeem Hunt,[u'RB'],KC
+18224,Taywan Taylor,[u'WR'],Ten
+16227,Russell Shepard,[u'WR'],NYG
+17890,Ricardo Louis,[u'WR'],Cle
+18431,Ricky Seals-Jones,[u'TE'],Ari
+11366,Orlando Scandrick,[u'CB'],KC
+18258,Deatrich Wise Jr.,"[u'DE', u'EDR']",NE
+17136,Dontrelle Inman,[u'WR'],FA
+12703,Captain Munnerlyn,[u'CB'],Car
+11658,Mike Tolbert,[u'RB'],Buf
+12432,Robert Ayers,[u'DE'],TB
+14020,Allen Bailey,[u'DT'],KC
+15003,Rhett Ellison,[u'TE'],NYG
+17235,Pierre Desir,[u'CB'],Ind
+17276,Kevin Pierre-Louis,[u'LB'],NYJ
+18078,Rob Kelley,[u'RB'],Wsh
 15705,Josh Gordon,[u'WR'],Cle
-15776,Brandon Bogotay,[u'K'],TB
-15791,Sharrif Floyd,[u'DT'],Min
+17287,Chris Smith,"[u'DE', u'EDR']",Cle
+17828,Reggie Ragland,[u'LB'],KC
+17930,D.J. Reader,[u'DT'],Hou
+12423,Darius Butler,[u'CB'],Ind
+17868,Javon Hargrave,[u'DT'],Pit
+17920,Matt Ioannidis,[u'DT'],Wsh
+18221,Davon Godchaux,[u'DT'],Mia
+18462,Elijhaa Penny,[u'RB'],Ari
+13987,Blaine Gabbert,[u'QB'],Ten
+12556,Kenny Britt,[u'WR'],NE
+16002,Kyle Juszczyk,[u'RB'],SF
+17667,Josh Shaw,[u'S'],Cin
+17691,Eli Harold,[u'LB'],Det
+17896,David Onyemata,[u'DT'],NO
+18234,Cordrea Tankersley,[u'CB'],Mia
+18335,Samson Ebukam,"[u'LB', u'EDR']",LAR
+17867,Kyler Fackrell,"[u'LB', u'EDR']",GB
+9709,Domata Peko Sr.,[u'DT'],Den
+13288,Earl Mitchell,[u'DT'],SF
+13493,Al Woods,[u'DT'],Ind
+14403,Andre Holmes,[u'WR'],Buf
+17305,DaQuan Jones,[u'DT'],Ten
+17711,A.J. Derby,[u'TE'],Mia
+18374,Gerald Everett,[u'TE'],LAR
+12699,Zach Miller,[u'TE'],Chi
+17886,Tyler Higbee,[u'TE'],LAR
+17803,Sheldon Rankins,[u'DT'],NO
+18402,Jordan Evans,[u'LB'],Cin
+17187,Darren Fells,[u'TE'],Cle
+17700,Mike Davis,[u'RB'],Sea
+15460,Tyrunn Walker,[u'DT'],Buf
+14952,Andre Branch,"[u'DE', u'EDR']",Mia
+17706,Za'Darius Smith,"[u'LB', u'EDR']",Bal
+18231,Jalen Reeves-Maybin,[u'LB'],Det
+15786,Tavon Austin,[u'RB'],Dal
+15875,Brandon Williams,[u'DT'],Bal
+18037,Eli Rogers,[u'WR'],Pit
+18320,Corey Davis,[u'WR'],Ten
+18475,Eddie Yarbrough,"[u'DE', u'EDR']",Buf
+15906,Stacy McGee,[u'DT'],Wsh
+16764,Kareem Martin,"[u'LB', u'EDR']",NYG
+17655,Mario Edwards Jr.,[u'DT'],Oak
+17860,Adolphus Washington,[u'DT'],Buf
+13249,Joe Haden,[u'CB'],Pit
+18390,Chidobe Awuzie,[u'CB'],Dal
+17536,Tyeler Davison,[u'DT'],NO
+18135,Brennan Scarlett,"[u'LB', u'EDR']",Hou
+9677,Frostee Rucker,[u'DT'],Oak
+15319,Ryan Davis,[u'DE'],LAR
+16785,Tim Jernigan,[u'DT'],Phi
+17295,Ethan Westbrooks,[u'DT'],LAR
+17840,Tyler Boyd,[u'WR'],Cin
+15844,Margus Hunt,"[u'DE', u'EDR']",Ind
+16019,William Gholston,"[u'DE', u'EDR']",TB
+18526,Chris Thompson,[u'WR'],Hou
+9712,Elvis Dumervil,[u'LB'],SF
+10546,Brian Robison,"[u'DE', u'EDR']",Min
+17561,Quan Bray,[u'WR'],Hou
+13860,Mitch Unrein,[u'DT'],TB
+14023,Mason Foster,[u'LB'],Wsh
+16025,David Bass,"[u'LB', u'EDR']",NYJ
+17642,Anthony Chickillo,"[u'LB', u'EDR']",Pit
+16763,Jordan Matthews,[u'WR'],FA
+17530,Kaelin Clay,[u'WR'],Buf
+18350,Mack Hollins,[u'WR'],Phi
+18376,Matthew Dayes,[u'RB'],Cle
+13566,Junior Galette,[u'DE'],FA
+18281,Malik Hooker,[u'S'],Ind
+12760,Chris Baker,[u'DT'],Cin
+14964,Derek Wolfe,[u'DT'],Den
+17701,Damien Wilson,[u'LB'],Dal
+18311,Quincy Wilson,[u'CB'],Ind
+18517,Chase Allen,[u'LB'],Mia
+15914,Cornelius Washington,"[u'DE', u'EDR']",Det
+18393,Kevin King,[u'CB'],GB
+15860,Jordan Reed,[u'TE'],Wsh
+10001,Tom Johnson,[u'DT'],Sea
+13045,Jonathan Casillas,[u'LB'],NYG
+16773,Kony Ealy,"[u'DE', u'EDR']",Dal
+17955,Blake Countess,[u'S'],LAR
+17644,Denzel Perryman,[u'LB'],LAC
+18063,Mike Hull,[u'LB'],Mia
+18341,Chris Carson,[u'RB'],Sea
+13989,Corey Liuget,[u'DT'],LAC
+16717,Jimmie Ward,[u'S'],SF
+16750,Phillip Gaines,[u'CB'],Buf
+17855,Jonathan Bullard,[u'DT'],Chi
+18239,Taco Charlton,"[u'DE', u'EDR']",Dal
+13992,Marcell Dareus,[u'DT'],Jax
+14151,Jeremy Kerley,[u'WR'],Buf
+17969,Kavon Frazier,[u'S'],Dal
+18547,Jaydon Mickens,[u'WR'],Jax
+14918,Jarius Wright,[u'WR'],Car
+18276,Adam Shaheen,[u'TE'],Chi
+16943,Tom Savage,[u'QB'],NO
+17716,Nate Orchard,"[u'DE', u'EDR']",Cle
 15800,Dion Jordan,"[u'DE', u'EDR']",Sea
-15804,Dee Milliner,[u'CB'],NYJ
-15815,Bjoern Werner,[u'LB'],Jax
-15822,Stedman Bailey,[u'WR'],LAR
-15827,Jonathan Bostic,[u'LB'],Ind
-15834,Aaron Dobson,[u'WR'],Ari
-15843,Jordan Hill,[u'DT'],Det
+17540,Henry Anderson,[u'DT'],NYJ
+14007,Lance Kendricks,[u'TE'],GB
+14310,Cedric Thornton,[u'DT'],SF
+14859,Michael Wilhoite,[u'LB'],Sea
+18240,Ben Gedeon,[u'LB'],Min
+18483,Morgan Fox,[u'DE'],LAR
+10613,William Gay,[u'CB'],NYG
+18285,Nazair Jones,[u'DT'],Sea
+17635,Danny Shelton,[u'DT'],NE
+17390,Marcus Williams,[u'CB'],NO
+17894,Juston Burris,[u'CB'],NYJ
+18177,Larry Ogunjobi,[u'DT'],Cle
+18284,Curtis Samuel,[u'WR'],Car
+14851,Terrelle Pryor,[u'WR'],NYJ
+17189,Demetrius Harris,[u'TE'],KC
+18542,Tion Green,[u'RB'],Ind
+18381,Charles Harris,"[u'DE', u'EDR']",Mia
+18467,Kendrick Bourne,[u'WR'],SF
+13544,Rafael Bush,[u'S'],Buf
+11128,Matt Moore,[u'QB'],FA
+15017,Keenan Robinson,[u'LB'],Buf
+17612,Jordan Richards,[u'S'],NE
+15853,Vance McDonald,[u'TE'],Pit
+14877,Nick Foles,[u'QB'],Phi
+16457,Terence Garvin,[u'LB'],Mia
+18183,Jonnu Smith,[u'TE'],Ten
+11295,Martellus Bennett,[u'TE'],FA
+17141,Kapri Bibbs,[u'RB'],Wsh
+18053,Bernard Reedy,[u'WR'],TB
+18156,Kentrell Brice,[u'S'],GB
+16008,Kemal Ishmael,[u'LB'],Atl
+16243,Paul Worrilow,[u'LB'],Phi
+16712,Marcus Smith II,"[u'DE', u'EDR']",Sea
+18397,Jordan Willis,"[u'DE', u'EDR']",Cin
+18052,Jordan Taylor,[u'WR'],Den
+14998,Coty Sensabaugh,[u'CB'],Pit
+15087,Jeremy Lane,[u'CB'],Sea
+15359,Johnson Bademosi,[u'CB'],Hou
+15974,Dion Sims,[u'TE'],Chi
+17290,Tenny Palepoi,[u'DT'],Buf
+18127,Zaire Anderson,[u'LB'],Den
+18289,Tyus Bowser,"[u'LB', u'EDR']",Bal
+17927,Kevin Hogan,[u'QB'],Wsh
+15278,Derrick Shelby,"[u'DE', u'EDR']",Atl
+17296,Mike Pennel,[u'DT'],NYJ
+11788,Danny Woodhead,[u'RB'],FA
+16286,Cody Davis,[u'S'],Jax
+17839,Mackensie Alexander,[u'CB'],Min
+17880,Sheldon Day,[u'DT'],SF
+18545,Eric Lee,"[u'LB', u'EDR']",NE
+17343,Brandon Dixon,[u'CB'],NYG
+15980,Levine Toilolo,[u'TE'],Det
+17583,Jeff Heuerman,[u'TE'],Den
+15501,Bobby Rainey Jr.,[u'RB'],Bal
+16783,Terrance West,[u'RB'],NO
+14014,Terrell McClain,[u'DT'],Atl
+17157,Travis Coons,[u'K'],LAC
+17967,Maurice Canady,[u'CB'],Bal
+18353,Montae Nicholson,[u'S'],Wsh
+13292,Corey Peters,[u'DT'],Ari
+14143,Da'Norris Searcy,[u'S'],Car
+17232,Kenneth Acker,[u'CB'],Jax
+18114,Cre'von LeBlanc,[u'CB'],Chi
+17567,Nick Boyle,[u'TE'],Bal
+17850,Maliek Collins,[u'DT'],Dal
+14085,Virgil Green,[u'TE'],LAC
+18470,Victor Bolden Jr.,[u'WR'],SF
+10138,Ahmad Brooks,[u'DE'],GB
+10621,Nick Folk,[u'K'],TB
+17172,Cairo Santos,[u'K'],NYJ
+17966,Kamu Grugier-Hill,[u'LB'],Phi
+17974,Kevon Seymour,[u'CB'],Car
+17625,Jordan Phillips,[u'DT'],Mia
+15837,Mike Glennon,[u'QB'],Ari
+17564,C.J. Uzomah,[u'TE'],Cin
+18486,C.J. Ham,[u'RB'],Min
+11920,Leger Douzable,[u'DT'],SF
+15802,Star Lotulelei,[u'DT'],Buf
+15973,Tommy Bohanon,[u'RB'],Jax
+18116,Corey Moore,[u'S'],Hou
+18110,Geronimo Allison,[u'WR'],GB
+10491,David Harris,[u'LB'],NE
+17830,Austin Johnson,[u'DT'],Ten
+10475,Greg Olsen,[u'TE'],Car
+18489,Kalif Raymond,[u'WR'],NYG
+16776,Jay Bromley,[u'DT'],NO
+17811,Laquon Treadwell,[u'WR'],Min
+17441,James O'Shaughnessy,[u'TE'],Jax
+13608,Kyle Love,[u'DT'],Car
+14117,Colin Jones,[u'S'],Car
+16758,Will Clarke,"[u'DE', u'EDR']",TB
+17494,Jordan Hicks,[u'LB'],Phi
+16707,Dee Ford,"[u'LB', u'EDR']",KC
+17864,Braxton Miller,[u'WR'],Hou
+18162,James Cowser,"[u'DE', u'EDR']",Oak
+18347,Damontae Kazee,[u'S'],Atl
+18447,Marwin Evans,[u'S'],GB
+18043,D.J. Foster,[u'RB'],Ari
+10529,Brandon Mebane,[u'DT'],LAC
+15856,Kevin Minter,[u'LB'],NYJ
+17357,Jeremiah George,[u'LB'],Ind
+18163,Joel Heath,[u'DT'],Hou
+17739,Thomas Rawls,[u'RB'],NYJ
+15213,Robert Golden,[u'S'],KC
+17999,Tyler Matakevich,[u'LB'],Pit
+18014,Brandon Dunn,[u'DT'],Hou
+18130,Troy Hill,[u'CB'],LAR
+18417,Caleb Brantley,[u'DT'],Cle
+15564,Brittan Golden,[u'WR'],Ari
+15887,Ryan Griffin,[u'TE'],Hou
+17395,Josh Mauro,[u'DE'],NYG
+17264,Will Compton,[u'LB'],Ten
+17446,Hau'oli Kikaha,"[u'DE', u'EDR']",NO
+18019,Anthony Harris,[u'S'],Min
+18403,Trey Hendrickson,"[u'DE', u'EDR']",NO
+18016,Xavier Williams,[u'DT'],KC
+15820,David Amerson,[u'CB'],KC
+16786,Richard Rodgers,[u'TE'],Phi
+17641,Ramik Wilson,[u'LB'],LAR
+17914,Ronald Blair III,"[u'DE', u'EDR']",SF
+17209,Senorise Perry,[u'RB'],Mia
+17293,Kerry Wynn,[u'DE'],NYG
+15848,Eddie Lacy,[u'RB'],FA
+13478,Alterraun Verner,[u'CB'],Mia
+15001,Keith Tandy,[u'S'],TB
+15457,Travaris Cadet,[u'RB'],Buf
+17788,Rontez Miles,[u'S'],NYJ
+18148,Mike Jordan,[u'CB'],Cle
+18288,Marquel Lee,[u'LB'],Oak
+18316,Duke Riley,[u'LB'],Atl
+17892,Hassan Ridgeway,[u'DT'],Ind
+18497,Adam Butler,[u'DT'],NE
+17643,Phillip Dorsett,[u'WR'],NE
+18304,Isaiah McKenzie,[u'WR'],Den
+14114,T.J. Yates,[u'QB'],FA
+15231,Michael Thomas,[u'S'],NYG
+15888,Marcus Cooper Sr.,[u'CB'],Chi
+16768,Terrence Brooks,[u'S'],NYJ
+17294,Beau Allen,[u'DT'],TB
+17309,Shamar Stephen,[u'DT'],Sea
+17459,Ryan Russell,"[u'DE', u'EDR']",Buf
+13197,Sam Bradford,[u'QB'],Ari
+17900,Demarcus Robinson,[u'WR'],KC
+11337,William Hayes,"[u'DE', u'EDR']",Mia
+14079,Karl Klug,[u'DT'],Ten
+15829,Tank Carradine,"[u'DE', u'EDR']",Oak
+16231,Damion Square,[u'DT'],LAC
+16528,Benson Mayowa,"[u'DE', u'EDR']",Ari
+17418,Roosevelt Nix,[u'RB'],Pit
+12424,Vontae Davis,[u'CB'],Buf
+15068,Najee Goode,[u'LB'],Ind
+18507,Kurtis Drummond,[u'S'],Hou
+18153,Eric Tomlinson,[u'TE'],NYJ
+17570,Rakeem Nunez-Roches,[u'DT'],Ind
+17651,Tye Smith,[u'CB'],Ten
+4433,James Harrison,[u'LB'],NE
+11311,Pat Sims,[u'DT'],Cin
+14933,Dont'a Hightower,[u'LB'],NE
+17460,Carl Davis,[u'DT'],Bal
+18487,Trey Edmunds,[u'RB'],NO
+15755,Fozzy Whittaker,[u'RB'],Car
+17724,Quinten Rollins,[u'CB'],GB
+10605,Brent Celek,[u'TE'],Phi
+17873,Nick Vannett,[u'TE'],Sea
+17663,Arik Armstead,"[u'DE', u'EDR']",SF
+18103,De'Vante Harris,[u'CB'],TB
+18188,ArDarius Stewart,[u'WR'],NYJ
+15264,L.J. Fort,[u'LB'],Pit
+15782,Chris Banjo,[u'S'],NO
+17636,Xavier Cooper,[u'DT'],NYJ
+17646,Christian Covington,[u'DT'],Hou
+18273,Shalom Luani,[u'S'],Oak
+18214,Josh Reynolds,[u'WR'],LAR
+18500,Roy Robertson-Harris,[u'DT'],Chi
+18441,Michael Davis,[u'CB'],LAC
+16797,Troy Niklas,[u'TE'],NE
+12455,Rey Maualuga,[u'LB'],Mia
+18203,Ryan Glasgow,[u'DT'],Cin
+12585,Louis Murphy,[u'WR'],SF
+17454,Ibraheim Campbell,[u'S'],Hou
+17528,L.T. Walton,[u'DT'],Pit
+18243,Anthony Walker,[u'LB'],Ind
+18452,Younghoe Koo,[u'K'],LAC
+18477,Trae Elston,[u'S'],Mia
+17638,Chris Conley,[u'WR'],KC
+15798,Datone Jones,[u'DT'],Dal
+17299,Zach Kerr,[u'DT'],Den
+17816,Robert Nkemdiche,[u'DT'],Ari
+18261,Tanoh Kpassagnon,"[u'LB', u'EDR']",KC
+17704,Cameron Artis-Payne,[u'RB'],Car
+12442,Ziggy Hood,[u'DT'],Wsh
+13257,Nate Allen,[u'S'],Mia
+14972,Sean Spence,[u'LB'],Pit
+18323,Alex Anzalone,[u'LB'],NO
+18338,Vincent Taylor,[u'DT'],Mia
+12570,Darrius Heyward-Bey,[u'WR'],Pit
+16821,David Fales,[u'QB'],Mia
+18375,Grover Stewart,[u'DT'],Ind
+18485,Patrick Ricard,"[u'DT', u'RB']",Bal
+17574,Eric Rowe,[u'CB'],NE
+18206,Carlos Watkins,[u'DT'],Hou
+18312,Dawuane Smoot,"[u'DE', u'EDR']",Jax
+18343,Avery Moss,"[u'LB', u'EDR']",NYG
+14894,Robert Turbin,[u'RB'],Ind
+14906,James Hanna,[u'TE'],Dal
+12453,Brian Cushing,[u'LB'],Hou
+17620,Shane Ray,"[u'LB', u'EDR']",Den
+9639,Anthony Fasano,[u'TE'],Mia
+10462,Leon Hall,[u'CB'],Oak
+15816,Sylvester Williams,[u'DT'],Det
+17234,Jaylen Watkins,[u'CB'],LAC
+17440,Rodney Gunter,[u'DT'],Ari
+18358,Treyvon Hester,[u'DT'],Oak
+18442,Nick Dzubnar,[u'LB'],LAC
+17434,Bryce Petty,[u'QB'],Mia
+16028,Quinton Dial,[u'DT'],GB
+17937,Andy Janovich,[u'RB'],Den
+14135,Anthony Sherman,[u'RB'],KC
+13979,J.J. Watt,"[u'DE', u'EDR']",Hou
+15373,Julian Stanford,[u'LB'],Buf
+18501,Eli Ankou,[u'DT'],Jax
+14028,Stevan Ridley,[u'RB'],Pit
+15351,Derrick Coleman,[u'RB'],Ari
+13812,George Johnson,"[u'DE', u'EDR']",NO
+17895,Tyler Ervin,[u'WR'],Hou
+14471,Nick Bellore,[u'LB'],Det
+17374,Keith Smith,[u'RB'],Oak
+14936,Whitney Mercilus,"[u'LB', u'EDR']",Hou
+17258,Maurice Alexander,[u'S'],Sea
+17792,John Timu,[u'LB'],Chi
+17949,David Morgan,[u'TE'],Min
+18174,Eddie Vanderdoes,[u'DT'],Oak
+9705,Brandon Marshall,[u'WR'],Sea
+17715,Vince Mayle,[u'TE'],Bal
+16090,Lerentee McCray,"[u'DE', u'EDR']",Jax
+18204,Josh Harvey-Clemons,[u'LB'],Wsh
+5533,DeAngelo Hall,[u'S'],Wsh
+15653,Jamize Olawale,[u'RB'],Dal
+17282,Terrence Fede,"[u'DE', u'EDR']",Buf
+17477,Bryce Hager,[u'LB'],LAR
+17946,DeAndre Houston-Carson,[u'S'],Chi
+18405,Tarell Basham,"[u'DE', u'EDR']",Ind
+18499,Hardy Nickerson,[u'LB'],Cin
+17790,Daniel Brown,[u'TE'],Chi
+18181,De'Angelo Henderson,[u'RB'],Den
+17673,David Mayo,[u'LB'],Car
+18451,Maurice Harris,[u'WR'],Wsh
+14100,Dwayne Harris,[u'WR'],Oak
+11258,Chris Johnson,[u'RB'],FA
+17741,Zach Zenner,[u'RB'],Det
+17370,Freddie Martino,[u'WR'],TB
+9598,Haloti Ngata,[u'DT'],Phi
+15640,Emmanuel Lamur,[u'LB'],Oak
+18418,Chuck Clark,[u'S'],Bal
+17550,Tre McBride,[u'WR'],NYJ
+14156,Niles Paul,[u'TE'],Jax
+3539,Dwight Freeney,[u'LB'],Det
+12690,Brice McCain,[u'CB'],Ten
+15535,Neiko Thorpe,[u'CB'],Sea
+15874,J.J. Wilcox,[u'S'],NYJ
+15257,Phillip Supernaw,[u'TE'],Ten
+15478,Brandon Bolden,[u'RB'],NE
+18364,Blair Brown,[u'LB'],Jax
+18437,Tyrell Adams,[u'LB'],Ind
+16366,Zach Line,[u'RB'],NO
+17918,Paul Perkins,[u'RB'],NYG
+14901,Dwayne Allen,[u'TE'],NE
+17829,Kamalei Correa,[u'LB'],Bal
+18448,Brian Peters,[u'LB'],Hou
+18236,James Conner,[u'RB'],Pit
+18082,Tanner McEvoy,[u'WR'],Sea
+18557,JoJo Natson,[u'WR'],LAR
+18207,Vince Biegel,"[u'LB', u'EDR']",GB
+17588,Stephone Anthony,[u'LB'],Mia
+17826,Noah Spence,"[u'DE', u'EDR']",TB
+18414,Ryan Anderson,"[u'LB', u'EDR']",Wsh
+18529,Marvin Hall,[u'WR'],Atl
+17957,Derek Watt,[u'RB'],LAC
+17154,Brenton Bersin,[u'WR'],Car
+17778,Joe Thomas,[u'LB'],Dal
+18301,Jeremiah Ledbetter,[u'DT'],Det
+16766,C.J. Fiedorowicz,[u'TE'],Hou
+16143,Josh Hill,[u'TE'],NO
+17213,Nat Berhe,[u'S'],Pit
+10458,Darrelle Revis,[u'CB'],KC
+13419,Sherrick McManis,[u'CB'],Chi
+14970,Courtney Upshaw,"[u'DE', u'LB', u'EDR']",Atl
+14583,Kamar Aiken,[u'WR'],Phi
+17744,Terron Ward,[u'RB'],Atl
+16803,Jeremy Hill,[u'RB'],NE
+17660,Maxx Williams,[u'TE'],Bal
+17767,Raheem Mostert,[u'RB'],SF
+17964,Mike Thomas,[u'WR'],LAR
+10477,Alan Branch,[u'DT'],NE
+15903,Michael Mauti,[u'LB'],NO
+17944,Devante Bond,[u'LB'],TB
+18128,Ufomba Kamalu,"[u'LB', u'EDR']",Hou
+18212,Teez Tabor,[u'CB'],Det
+18216,Josh Malone,[u'WR'],Cin
+18249,Rayshawn Jenkins,[u'S'],LAC
+18298,Tanzel Smart,[u'DT'],LAR
+18511,Charles Washington,[u'S'],Det
+8544,Darren Sproles,[u'RB'],Phi
+10527,Charles L. Johnson,[u'DE'],Car
+17817,Vernon Butler,[u'DT'],Car
+17897,Andrew Billings,[u'DT'],Cin
+18325,Brendan Langley,[u'CB'],Den
+17945,Jerell Adams,[u'TE'],NYG
+16813,Logan Thomas,[u'TE'],Buf
+10031,Tony Dewayne McDaniel,[u'DT'],NO
+10492,Justin Durant,[u'LB'],Dal
+13497,Willie Young,[u'LB'],Chi
+18473,Steve Longa,[u'LB'],Det
+17259,Aaron Lynch,"[u'LB', u'EDR']",Chi
+16313,Brandon Williams,[u'TE'],Ind
+12644,Don Juan Carey,[u'S'],Jax
+14019,Jarvis Jenkins,[u'DT'],KC
+15038,Kyle Wilber,[u'LB'],Oak
+15918,Caleb Sturgis,[u'K'],LAC
+17562,Sammie Coates Jr.,[u'WR'],Hou
+18141,Robert Thomas,[u'DT'],NYG
+18370,Fabian Moreau,[u'CB'],Wsh
+18534,Richard Ash,[u'DT'],Dal
+18550,Kai Nacua,[u'S'],Bal
+16398,A.J. Francis,[u'DT'],NYG
+17563,Jermaine Whitehead,[u'S'],GB
+11351,Quintin Demps,[u'S'],Chi
+17664,Markus Golden,"[u'DE', u'EDR']",Ari
+17997,Jayron Kearse,[u'S'],Min
+18450,Jarrod Wilson,[u'S'],Jax
+18474,Jamal Carter,[u'S'],Den
+18170,Chad Hansen,[u'WR'],NYJ
+18009,Jamie Meder,[u'DT'],Cle
+18035,Byron Marshall,[u'RB'],Wsh
+18274,D.J. Jones,[u'DT'],SF
+15369,Lance Dunbar,[u'RB'],LAR
+13387,Michael Hoomanawanui,[u'TE'],NO
+14186,Jordan Todman,[u'RB'],Hou
+15403,Derek Carrier,[u'TE'],Oak
+17342,Fitzgerald Toussaint,[u'RB'],Pit
+18525,Travis Rudolph,[u'WR'],NYG
+17869,C.J. Prosise,[u'RB'],Sea
+11424,Ahtyba Rubin,[u'DT'],Oak
+14802,Sterling Moore,[u'CB'],Det
+17379,Steven Terrell,[u'S'],Ten
+17857,KeiVarae Russell,[u'CB'],Cin
+17926,Kentrell Brothers,[u'LB'],Min
+18490,Tre Madden,[u'RB'],Sea
+10770,Eric Weems,[u'WR'],Ten
+17143,Branden Oliver,[u'RB'],Ind
+17989,Dwayne Washington,[u'RB'],Det
+13484,Joe Webb,[u'QB'],Hou
+14215,Lee Smith,[u'TE'],Oak
+17184,Willie Snead,[u'WR'],Bal
+16419,Brynden Trawick,[u'S'],Ten
+17224,Walt Aikens,[u'CB'],Mia
+18017,Peyton Thompson,[u'S'],Jax
+18102,Keith Reaser,[u'CB'],KC
+18235,Mike Williams,[u'WR'],LAC
+18331,DeMarcus Walker,[u'DE'],Den
+18508,Nigel Harris,[u'LB'],TB
+18516,Curtis Riley,[u'S'],NYG
+17709,Jaelen Strong,[u'WR'],Jax
+17956,Danny Vitale,[u'RB'],Cle
+18416,Brian Hill,[u'RB'],Cin
+18533,Branden Jackson,"[u'DE', u'EDR']",Sea
+15803,EJ Manuel,[u'QB'],Oak
+18202,Jehu Chesson,[u'WR'],KC
+12443,Ricky Jean Francois,[u'DT'],Det
+12613,Jairus Byrd,[u'S'],Car
+15985,Jelani Jenkins,[u'LB'],Hou
+16367,Darryl Morris,[u'CB'],NYG
+17566,Angelo Blackson,[u'DT'],Hou
+17699,D.J. Alexander,[u'LB'],Sea
+17917,Quinton Jefferson,[u'DT'],Sea
+18121,Destiny Vaeao,[u'DT'],Phi
+18184,Jonathan Allen,[u'DT'],Wsh
+18523,Antonio Hamilton,[u'CB'],Oak
+18532,Curtis Grant,[u'LB'],NYG
+14037,Ryan Mallett,[u'QB'],FA
+16836,Jared Abbrederis,[u'WR'],Det
+18003,Joe Walker,[u'LB'],Phi
+18101,Xavier Grimble,[u'TE'],Pit
+14914,Brian Quick,[u'WR'],Wsh
+14099,Luke Stocker,[u'TE'],Ten
+17786,Jonathan Anderson,[u'LB'],Chi
+18038,Kasen Williams,[u'WR'],Ind
+18252,Nathan Peterman,[u'QB'],Buf
+17483,Neal Sterling,[u'TE'],NYJ
+18201,Amara Darboh,[u'WR'],Sea
+11533,Jerrell Freeman,[u'LB'],Chi
+15824,Johnthan Banks,[u'CB'],Hou
+17269,Trevor Reilly,[u'LB'],NE
+18140,Chris Milton,[u'CB'],Ind
+18481,Brandon King,[u'S'],NE
+18498,Jeremiah Valoaga,"[u'DE', u'EDR']",Det
+18536,Lenzy Pipkins,[u'CB'],GB
+18551,Cameron Malveaux,"[u'DE', u'EDR']",Mia
+18084,Bryce Treggs,[u'WR'],Phi
+15930,Nate Palmer,[u'LB'],Ten
+15864,Geno Smith,[u'QB'],LAC
+13681,Tramaine Brock,[u'CB'],Den
+15992,Shamarko Thomas,[u'S'],Den
+18061,Cameron Lynch,[u'LB'],TB
+18137,C.J. Goodwin,[u'CB'],Cin
+18155,Freddie Bishop,"[u'LB', u'EDR']",Det
+18247,Ukeme Eligwe,"[u'LB', u'EDR']",KC
+18520,Lafayette Pitts,[u'CB'],Buf
+18556,Sam Ficken,[u'K'],LAR
+18540,Austin Traylor,[u'TE'],Den
+18210,Patrick Mahomes,[u'QB'],KC
+15845,Justin Hunter,[u'WR'],Pit
+18464,Jacob Hollister,[u'TE'],NE
+13103,Dannell Ellerbe,[u'LB'],Phi
+13697,Chris Maragos,[u'S'],Phi
+17442,David Johnson,[u'RB'],Ari
+17475,Clive Walford,[u'TE'],NYJ
+17981,Stephen Weatherly,"[u'DE', u'EDR']",Min
+18159,Garrison Smith,[u'DT'],Atl
+18404,Isaac Rochell,"[u'DE', u'EDR']",LAC
+18419,Treston Decoud,[u'CB'],Hou
+18479,Brian Price,[u'DT'],Dal
+18491,Cethan Carter,[u'RB'],Cin
+15125,Nate Ebner,[u'S'],NE
+14908,Michael Floyd,[u'WR'],NO
+18029,Terrell Watson,[u'RB'],LAC
+17674,Breshad Perriman,[u'WR'],Bal
+15775,Ifeanyi Momah,[u'TE'],Ari
+18098,Ross Travis,[u'TE'],Ind
+14948,Josh Robinson,[u'S'],TB
+16299,Daren Bates,[u'LB'],Ten
+17734,Chris Matthews,[u'WR'],Bal
+18180,Gareon Conley,[u'CB'],Oak
+18169,Chad Williams,[u'WR'],Ari
+17137,Jeff Janis,[u'WR'],Cle
+18257,Jeremy Sprinkle,[u'TE'],Wsh
+17626,Aaron Ripkowski,[u'RB'],GB
+13422,Arthur Moats,[u'LB'],Ari
+13482,Dekoda Watson,"[u'DE', u'EDR']",SF
+14954,John Hughes III,[u'DT'],Buf
+15936,Steven Means,"[u'DE', u'EDR']",Phi
+16761,Jeremiah Attaochu,"[u'DE', u'EDR']",SF
+17594,Deiontrez Mount,"[u'LB', u'EDR']",Den
+17931,Marqui Christian,[u'S'],LAR
+17865,Leonte Carroo,[u'WR'],Mia
+15515,Sean McGrath,[u'TE'],Det
+14167,Taiwan Jones,[u'RB'],Buf
+11387,Matthew Slater,[u'WR'],NE
+14072,Chris Prosinski,[u'S'],Chi
+15846,John Jenkins,[u'DT'],Chi
+17231,Keith McGill II,[u'S'],Oak
+17543,Clayton Geathers,[u'S'],Ind
+18250,Elijah Lee,[u'LB'],SF
+18342,Obi Melifonwu,[u'S'],Oak
+17516,Jalston Fowler,[u'RB'],Atl
+18006,Josh Ferguson,[u'RB'],Ind
+14902,Orson Charles,[u'TE'],Cle
+18080,Alan Cross,[u'TE'],TB
+17858,Shilique Calhoun,"[u'DE', u'EDR']",Oak
+12698,Roy Miller,[u'DT'],KC
+13252,Eric Berry,[u'S'],KC
+14441,Sealver Siliga,[u'DT'],Jax
+15905,David King,[u'DT'],Ten
+16449,LaRoy Reynolds,[u'LB'],Phi
+17785,Howard Jones,"[u'LB', u'EDR']",Chi
+17820,Kevin Dodd,"[u'LB', u'EDR']",Ten
+17878,Charles Tapper,"[u'DE', u'EDR']",Dal
+17963,Harlan Miller,[u'S'],Ari
+18230,Cameron Sutton,[u'CB'],Pit
+18444,Lawrence Thomas,"[u'DT', u'RB']",NYJ
+17645,Ben Koyack,[u'TE'],Jax
+17814,Paxton Lynch,[u'QB'],Den
+18294,Nathan Gerry,[u'LB'],Phi
+17486,Marcus Murphy,[u'RB'],Buf
+18461,David Fluellen,[u'RB'],Ten
+15904,Landry Jones,[u'QB'],Pit
+9649,Darryl Tapp,[u'DE'],TB
+11326,Cliff Avril,"[u'DE', u'EDR']",Sea
+14174,Chris Carter,[u'LB'],Wsh
+14387,Jonathan Freeny,[u'LB'],Det
+17286,Brent Urban,[u'DT'],Bal
+18189,Tim Williams,"[u'LB', u'EDR']",Bal
+18521,Chris Odom,"[u'LB', u'EDR']",GB
+18546,Bryan Cox Jr.,"[u'DE', u'EDR']",Car
+15873,Markus Wheaton,[u'WR'],Phi
+18227,Michael Roberts,[u'TE'],Det
+10560,Zak DeOssie,[u'LB'],NYG
+13333,Nolan Carroll II,[u'CB'],Dal
+14739,Ben Jacobs,[u'LB'],Car
 15881,Blidi Wreh-Wilson,[u'CB'],Atl
+16805,Dexter McDougle,[u'CB'],Det
+17359,Deandre Coleman,[u'DT'],Buf
+17537,Derron Smith,[u'S'],Cle
+17831,Jihad Ward,[u'DT'],Dal
+17898,Deon Bush,[u'S'],Chi
+17962,Jordan Lucas,[u'S'],Mia
+18002,Scooby Wright III,[u'LB'],Ari
+18119,Dexter McCoil,[u'S'],SF
+18120,Darius Latham,[u'DT'],Oak
+18154,Kyle Peko,[u'DT'],Den
+18164,Javien Elliott,[u'CB'],TB
+18200,Chris Wormley,[u'DE'],Bal
+18326,Leon McQuay,[u'S'],KC
+18351,Dylan Donahue,"[u'LB', u'EDR']",NYJ
+18385,Rudy Ford,[u'S'],Ari
+18391,Tedric Thompson,[u'S'],Sea
+18494,Shane Smith,[u'RB'],NYG
+17490,Blake Bell,[u'TE'],Min
+18124,Mack Brown,[u'RB'],Min
+13940,James Develin,[u'RB'],NE
+17170,Ryan Hewitt,[u'RB'],Cin
+15788,Tyler Eifert,[u'TE'],Cin
+18492,Darrell Daniels,[u'TE'],Ind
+17948,Nate Sudfeld,[u'QB'],Phi
+14049,Stephen Paea,[u'DT'],Dal
+17228,Bene Benwikere,[u'CB'],Ari
+18263,Brandon Wilson,[u'S'],Cin
+18430,Antony Auclair,[u'TE'],TB
+18505,Dominique Hatfield,[u'CB'],LAR
+18293,Jalen Myrick,[u'CB'],Jax
+14332,Patrick DiMarco,[u'RB'],Buf
+13218,Arrelious Benn,[u'WR'],Jax
+18543,Michael Clark,[u'WR'],GB
+14026,Bruce Carter,[u'LB'],NYJ
+14141,Andrew Gachkar,[u'LB'],Car
+15090,Jack Crawford,[u'DT'],Atl
+15858,Damontre Moore,[u'DE'],Dal
+17317,Robert Chevis Nelson Jr.,[u'S'],NO
+17958,Cody Core,[u'WR'],Cin
+18241,Delano Hill,[u'S'],Sea
+18469,Taysom Hill,[u'QB'],NO
+18478,Jaylen Hill,[u'CB'],Bal
+18535,Donte Deayon,[u'CB'],NYG
+17777,Will Tye,[u'TE'],NE
+17191,Jay Prosch,[u'RB'],Hou
+17450,Randall Telfer,[u'TE'],Cle
+16756,Khyri Thornton,[u'DT'],NYG
+17853,Bronson Kaufusi,[u'DE'],Bal
+18024,Ben Braunecker,[u'TE'],Chi
+18394,Elijah Qualls,[u'DT'],Phi
+18453,Tanner Gentry,[u'WR'],Chi
+16323,MarQueis Gray,[u'TE'],Mia
+18349,Noah Brown,[u'WR'],Dal
+14967,Jerel Worthy,[u'DT'],TB
+17321,Tyler Patmon,[u'CB'],Jax
+12757,Colt Anderson,[u'S'],Buf
+15977,Gerald Hodges,[u'LB'],Ari
+16345,Nick Williams,[u'WR'],Ten
+16889,Andre Williams,[u'RB'],LAC
+17277,Corey Nelson,[u'LB'],Phi
+17939,D.J. White,[u'CB'],Ind
+18321,Tanner Vallejo,[u'LB'],Buf
+18476,Greg Mabin,[u'CB'],SF
+17519,DeAndrew White,[u'WR'],Den
+18515,Jordan Leslie,[u'WR'],Den
+15360,Griff Whalen,[u'WR'],Oak
+13470,Cam Thomas,[u'DT'],KC
+14015,Akeem Ayers,[u'LB'],NYG
+16421,Joe Vellano,[u'DT'],Dal
+17225,Antone Exum Jr.,[u'CB'],SF
+17565,Gabe Wright,[u'DT'],Oak
+17575,Mark Nzeocha,[u'LB'],SF
+17581,Michael Bennett,[u'DT'],Jax
+17713,Geoff Swaim,[u'TE'],Dal
+18073,Justin March-Lillard,[u'LB'],Dal
+18429,Marcus Johnson,[u'WR'],Sea
+18480,Christian Ringo,[u'DT'],Det
+18503,Lorenzo Jerome,[u'S'],Sea
+18537,Xavier Woodson-Luster,[u'LB'],Buf
+18549,Joey Mbu,[u'DT'],GB
+17942,Tyrone Holmes,"[u'LB', u'EDR']",KC
+13555,Jeff Cumberland,[u'TE'],LAC
+17502,Michael Burton,[u'RB'],Chi
+17533,Sean Mannion,[u'QB'],LAR
+18300,Shelton Gibson,[u'WR'],Phi
+15419,DeShawn Shead,[u'CB'],Det
+17352,Deontae Skinner,[u'LB'],Ten
+17491,Geneo Grissom,"[u'DE', u'EDR']",NE
+18138,Romeo Okwara,"[u'LB', u'EDR']",NYG
+18157,Gabe Martin,[u'LB'],Ari
+18208,Joshua Holsey,[u'CB'],Wsh
+18309,Sidney Jones,[u'CB'],Phi
+18421,Jace Billingsley,[u'WR'],Det
+18445,Sharrod Neasman,[u'S'],NO
+18531,Ed Eagan,[u'WR'],NYG
+18544,Lewis Neal,[u'DT'],Dal
+18548,Gimel President,"[u'LB', u'EDR']",Ten
+11318,Harry Douglas,[u'WR'],Ten
+16799,Allen Robinson,[u'WR'],Chi
+17549,Chris Manhertz,[u'TE'],Car
+16810,AJ McCarron,[u'QB'],Buf
+13802,Ben Garland,[u'DT'],Den
+15079,Robert Blanton,[u'S'],Buf
+18005,Kalan Reed,[u'CB'],Ten
+18384,Montravius Adams,[u'DT'],GB
+18433,Cole Hikutini,[u'TE'],SF
+18482,Claude Pelon,[u'DT'],NYJ
+17695,Matt Jones,[u'RB'],Phi
+18555,LeShun Daniels Jr.,[u'RB'],GB
+18459,Cooper Rush,[u'QB'],Dal
+17994,Charone Peake,[u'WR'],NYJ
+18428,Darius Powe,[u'WR'],NYG
+15909,Lavar Edwards,[u'DE'],Cle
+17760,Matt Hazel,[u'WR'],Ind
+9606,Tamba Hali,[u'LB'],KC
+12550,John Phillips,[u'TE'],NO
+13243,Sean Weatherspoon,[u'LB'],Atl
+15040,Nate Stupar,[u'LB'],NO
+15081,Asa Jackson,[u'CB'],SF
+16726,Jason Verrett,[u'CB'],LAC
+16729,Calvin Pryor III,[u'S'],Jax
+17176,Kasey Redfern,[u'K'],Det
+17263,Jacquies Smith,[u'DE'],Ari
+17301,Anthony Johnson,[u'DT'],Ind
+17303,Dan McCullers,[u'DT'],Pit
+17344,Marcus Burley,[u'CB'],Hou
+17365,Dewey McDonald,[u'S'],Sea
+17436,Obum Gwacham,"[u'LB', u'EDR']",NYJ
+17534,Ryan Murphy,[u'S'],NYG
+17614,Ben Heeney,[u'LB'],Hou
+17725,Edmond Robinson,[u'LB'],Ari
+17871,Brandon Williams,[u'CB'],Ari
+17977,Aaron Wallace,"[u'LB', u'EDR']",Ten
+17990,Daniel Lasco,[u'RB'],NO
+18021,Neville Hewitt,[u'LB'],NYJ
+18046,Andy Jones,[u'WR'],Det
+18066,T.Y. McGill,[u'DT'],KC
+18069,Deji Olatoye,[u'CB'],Atl
+18277,Alex Armah,[u'RB'],Car
+18346,Eric Saubert,[u'TE'],Atl
+18372,Brian Allen,[u'CB'],Pit
+18396,Jeremy McNichols,[u'RB'],SF
+18440,Dominique Alexander,[u'LB'],Cle
+18527,Henry Krieger-Coble,[u'TE'],LAR
+18552,B.J. Bello,[u'LB'],Cle
+18387,Stacy Coley,[u'WR'],Min
+15983,Cobi Hamilton,[u'WR'],Ind
+9530,John Kuhn,[u'RB'],NO
+17703,Kevin White,[u'WR'],Chi
+17587,Brian Jeffrey Mihalik,[u'DE'],Phi
+15916,Devin Taylor,[u'DE'],NYG
+17246,Kasim Edebali,[u'LB'],Chi
+17285,Ed Stinson,[u'DT'],NYJ
+17541,David Parry,[u'DT'],Min
+18269,Jaleel Johnson,[u'DT'],Min
+18389,Al-Quadin Muhammad,"[u'DE', u'EDR']",NO
+18502,Alex Barrett,"[u'DE', u'EDR']",Det
+18510,Tyrique Jarrett,[u'DT'],Den
+8627,Derek Anderson,[u'QB'],FA
+18090,Joe Callahan,[u'QB'],Phi
+18036,Max McCaffrey,[u'WR'],SF
+18524,Krishawn Hogan,[u'WR'],Ind
+18465,Justin Davis,[u'RB'],LAR
+2148,Sebastian Janikowski,[u'K'],Sea
+4260,Shaun Hill,[u'QB'],Min
+4512,Anquan Boldin,[u'WR'],FA
+5615,Matt Schaub,[u'QB'],Atl
+5660,Antonio Smith,[u'DE'],Hou
+8426,DeMarcus Ware,[u'LB'],Den
+8473,Jonathan Babineaux,[u'DT'],Atl
+9594,Donte Whitner,[u'S'],Wsh
+9603,Chad Greenway,[u'LB'],Min
+9605,Antonio Cromartie,[u'CB'],Ind
+9613,DeAngelo Williams,[u'RB'],FA
+9620,D'Qwell Jackson,[u'LB'],Ind
+9629,Roman Harper,[u'S'],NO
+9643,Devin Hester,[u'WR'],Sea
+9667,Charlie Whitehurst,[u'QB'],Cle
+9701,Will Blackmon,[u'S'],Wsh
+9702,Stephen Tulloch,[u'LB'],Phi
+9782,Kedric Golston,[u'DT'],Wsh
+10447,Calvin Johnson,[u'WR'],FA
+10463,Michael Griffin,[u'S'],Car
+10552,Paul Soliai,[u'DT'],Car
+10569,Dashon Goldson,[u'S'],Atl
+10749,James Ihedigbo,[u'S'],Buf
+11239,Glenn Dorsey,[u'DE'],SF
+11245,Leodis McKelvin,[u'CB'],Phi
+11269,Brandon Flowers,[u'CB'],LAC
+11274,Tracy Porter,[u'CB'],Chi
+11276,Eddie Royal,[u'WR'],Chi
+11288,Jason Jones,[u'DE'],NO
+11300,Kendall Langford,[u'DE'],Mia
+11327,Philip Wheeler,[u'LB'],Ari
+11347,Dwight Lowery,[u'S'],LAC
+11364,Gary Barnidge,[u'TE'],FA
+11369,Jerome Felton,[u'RB'],Buf
+11383,Tim Hightower,[u'RB'],SF
+11386,Letroy Guion,[u'DT'],GB
+11392,Kellen Davis,[u'TE'],NYJ
+11394,Josh Johnson,[u'QB'],Oak
+11467,Justin Forsett,[u'RB'],Den
+11636,Erin Henderson,[u'LB'],NYJ
+11688,Dan Carpenter,[u'K'],Buf
+11708,Matthew Mulligan,[u'TE'],Det
+11717,Marcel Reece,[u'RB'],Sea
+11809,Wallace Gilberry,[u'DE'],Cin
+12435,Tyson Jackson,[u'DE'],Atl
+12437,Paul Kruger,[u'LB'],NO
+12445,Sen'Derrick Marks,[u'DT'],SF
+12454,James Laurinaitis,[u'LB'],NO
+12473,Josh Freeman,[u'QB'],Ind
+12482,Mark Sanchez,[u'QB'],FA
+12503,Rashad Jennings,[u'RB'],NYG
+12506,David Johnson,[u'TE'],Pit
+12519,Cedric Peerman,[u'RB'],Cin
+12536,Chase Coffman,[u'TE'],Ind
+12569,Percy Harvin,[u'WR'],FA
+12587,Jordan Norwood,[u'WR'],Den
+12638,David Bruton Jr.,[u'S'],Wsh
+12649,Julian Edelman,[u'WR'],NE
+12674,Rashad Johnson,[u'S'],Ten
+12682,DeAndre Levy,[u'LB'],Det
+12705,Brandon Myers,[u'TE'],TB
+12714,Jerraud Powers,[u'CB'],Bal
+12738,Greg Toler,[u'CB'],Wsh
+12932,Dan Skuta,[u'LB'],Chi
+13158,Antone Smith,[u'RB'],TB
+13199,Colt McCoy,[u'QB'],Wsh
+13203,C.J. Spiller,[u'RB'],KC
+13204,Ryan Mathews,[u'RB'],Phi
+13207,Dexter McCluster,[u'RB'],LAC
+13214,James Starks,[u'RB'],GB
+13231,Dennis Pitta,[u'TE'],Bal
+13235,Dan Williams,[u'DT'],Oak
+13244,Jared Odrick,[u'DE'],Jax
+13265,Donald Butler,[u'LB'],Mia
+13287,Koa Misi,[u'LB'],Mia
+13298,Brandon Spikes,[u'LB'],Buf
+13324,Crezdon Butler,[u'CB'],Det
+13344,Perrish Cox,[u'CB'],Ten
+13357,Jim Dray,[u'TE'],Ari
+13376,Clay Harbor,[u'TE'],NO
+13377,Greg Hardy,[u'DE'],Dal
+13394,Arthur Jones,[u'DE'],Wsh
+13404,Kendrick Lewis,[u'S'],Ten
+13409,Marc Mariani,[u'WR'],Ten
+13411,Ricardo Mathews,[u'DT'],Pit
+13440,Andrew Quarless,[u'TE'],Det
+13443,Perry Riley Jr.,[u'LB'],Oak
+13449,O'Brien Schofield,[u'LB'],Atl
+13457,Eugene Sims,[u'DE'],LAR
+13465,Darrell Stuckey,[u'S'],LAC
+13491,C.J. Wilson,[u'DT'],Chi
+13536,Joique Bell,[u'RB'],Det
+13541,Sergio Brown,[u'S'],Buf
+13553,Victor Cruz,[u'WR'],FA
+13616,Marlon Moore,[u'WR'],Cle
+13662,Bryan Walters,[u'WR'],Jax
+13726,Logan Paulsen,[u'TE'],Atl
+13769,Sam Shields,[u'CB'],LAR
+13851,Albert McClellan,"[u'LB', u'EDR']",Bal
+13913,Will Tukuafu,[u'DE'],Sea
+13922,Teddy Williams,[u'CB'],NYG
+13958,Andrew Hawkins,[u'WR'],Cle
+13968,Phil Taylor Sr.,[u'DT'],Wsh
+13988,Aldon Smith,[u'LB'],Oak
+13990,Nick Fairley,[u'DT'],NO
+14001,Colin Kaepernick,[u'QB'],FA
+14006,Akeem Dent,[u'LB'],Jax
+14009,Rob Housler,[u'TE'],NE
+14045,Aaron Williams,[u'S'],Buf
+14083,Bruce Miller,[u'TE'],SF
+14106,Greg Salas,[u'WR'],Buf
+14122,Shiloh Keo,[u'S'],NO
+14184,Cecil Shorts III,[u'WR'],TB
+14189,Jordan Cameron,[u'TE'],FA
+14214,Malcolm Smith,[u'LB'],SF
+14231,Corbin Bryant,[u'DE'],NYG
+14255,DuJuan Harris,[u'RB'],Jax
+14262,Mark Herzlich,[u'LB'],NYG
+14274,Jeron Johnson,[u'S'],Jax
+14292,Mike Morgan,[u'LB'],Sea
+14360,Matt Asiata,[u'RB'],Det
+14466,Isa Abdul-Quddus,[u'S'],Mia
+14500,Jeremy Ross,[u'WR'],Ari
+14518,Shaun Draughn,[u'RB'],NYG
+14524,Bryan Braman,[u'LB'],Phi
+14648,Spencer Paysinger,[u'LB'],Car
+14673,Justin Trattou,[u'DE'],TB
+14874,Andrew Luck,[u'QB'],Ind
+14875,Robert Griffin III,[u'QB'],Bal
+14876,Ryan Tannehill,[u'QB'],Mia
+14878,Brandon Weeden,[u'QB'],Hou
+14888,Isaiah Pead,[u'RB'],Mia
+14895,Ronnie Hillman,[u'RB'],Dal
+14904,Ladarius Green,[u'TE'],Pit
+14937,Shea McClellin,[u'LB'],NE
+14953,Kendall Reyes,[u'DE'],NYJ
+14963,Devon Still,[u'DT'],NYJ
+14969,DeVier Posey,[u'WR'],Bal
+15005,Jaye Howard,[u'DT'],Chi
+15008,Ron Brooks,[u'CB'],Phi
+15014,Tank Carder,[u'LB'],Cle
+15016,Trevin Wade,[u'CB'],Bal
+15019,Jared Crick,[u'DT'],Den
+15021,Billy Winn,[u'DT'],Den
+15023,Audie Cole,[u'LB'],NO
+15057,Brandon Boykin,[u'CB'],Bal
+15061,Antonio Allen,[u'S'],NYJ
+15064,Cam Johnson,"[u'DE', u'EDR']",Det
+15073,Winston Guy,[u'S'],Ind
+15086,Corey White,[u'S'],Cle
+15111,Daryl Richardson,[u'RB'],Ind
+15120,Greg Scruggs,[u'TE'],NE
+15189,Nathan Palmer,[u'WR'],Oak
+15190,Duke Ihenacho,[u'S'],NYG
+15226,Cory Harkey,[u'RB'],LAR
+15272,Dezman Moses,[u'LB'],KC
+15296,Joe Banyard,[u'RB'],Buf
+15305,Kelcie McCray,[u'S'],Buf
+15350,Valentino Blake,[u'CB'],NYG
+15383,Dominique Jones,[u'TE'],Mia
+15391,Rod Streater,[u'WR'],Buf
+15430,Tony Jerod-Eddie,[u'DT'],SF
+15632,Jonathan Grimes,[u'RB'],Jax
+15688,Brandon Bostick,[u'TE'],NYJ
+15693,Alex Tanney,[u'QB'],NYG
+15707,Larry Donnell,[u'TE'],Bal
+15778,Josh McNary,[u'LB'],Jax
+15789,Matt Elam,[u'S'],Bal
+15791,Sharrif Floyd,[u'DT'],Min
+15799,Jarvis Jones,[u'LB'],Ari
+15828,Arthur Brown,[u'LB'],NYJ
+15832,Knile Davis,[u'RB'],Chi
+15833,Will Davis,[u'CB'],SF
+15836,Gavin Escobar,[u'TE'],Mia
+15838,Zaviar Gooden,[u'LB'],Ari
+15840,Dwayne Gratz,[u'CB'],Phi
+15843,Jordan Hill,[u'DT'],Det
+15849,Corey Lemonier,[u'LB'],NYJ
+15854,Leon McFadden,[u'CB'],Atl
+15855,Christine Michael,[u'RB'],Ind
+15859,Sio Moore,[u'LB'],Hou
 15882,Nick Williams,[u'DT'],Pit
 15883,Steve Williams,[u'CB'],LAC
-15886,Phillip Thomas,[u'S'],Buf
-15891,Ryan Nassib,[u'QB'],NO
-15894,Sean Renfree,[u'QB'],Atl
-15895,Cooper Taylor,[u'S'],NYG
+15884,Duke Williams,[u'S'],Ind
+15885,Charles Johnson,[u'WR'],NYJ
+15891,Ryan Nassib,[u'QB'],Jax
 15899,B.J. Daniels,[u'WR'],Atl
-15905,David King,[u'DE'],KC
-15910,Michael Williams,[u'TE'],NE
+15912,Bacarri Rambo,[u'S'],Buf
+15923,Mychal Rivera,[u'TE'],Jax
 15935,Zac Dysert,[u'QB'],Ari
-15937,Kapron Lewis-Moore,[u'DE'],Chi
+15937,Kapron Lewis-Moore,[u'DT'],Jax
+15939,B.W. Webb,[u'CB'],NYG
 15940,Chris Gragg,[u'TE'],NYJ
-15973,Tommy Bohanon,[u'RB'],Jax
-15982,Nico Johnson,[u'LB'],NYG
-15986,Sean Porter,[u'LB'],SF
-15989,Josh Boyd,"[u'DT', u'DE']",Ind
-15991,Justice Cunningham,[u'TE'],LAR
-15995,Montori Hughes,[u'DT'],NYG
-15996,Zac Stacy,[u'RB'],NYJ
-15998,Josh Boyce,[u'WR'],Cle
-15999,Stansly Maponga,"[u'DE', u'EDR']",NYG
-16005,Demetrius McCray,[u'CB'],Sea
-16007,Chris Harper,[u'WR'],NYG
+15943,Don Jones,[u'S'],SF
+15944,Mike Catapano,[u'DE'],Hou
+15948,Matt Barkley,[u'QB'],Cin
+15951,Denard Robinson,[u'RB'],Jax
+15955,Chris Dwightstone Jones,[u'DT'],SF
+15956,Jonathan Meeks,[u'S'],Buf
+15957,Malliciah Goodman,[u'DE'],Jax
+15968,Mike James,[u'RB'],Det
+15981,Stepfan Taylor,[u'RB'],Ari
+15995,Montori Hughes,[u'DT'],Wsh
+15999,Stansly Maponga,"[u'DE', u'EDR']",Den
+16000,Tourek Williams,[u'DE'],LAC
 16014,Corey Fuller,[u'WR'],NO
-16036,Ty Powell,[u'LB'],Buf
-16066,Kendall Gaskins,[u'RB'],SF
-16087,John Lotulelei,[u'LB'],Dal
-16094,Steven Miller,[u'RB'],Det
-16114,Justin Tuggle,[u'LB'],Cle
+16020,Spencer Ware,[u'RB'],KC
+16021,Tharold Simon,[u'CB'],Ari
+16023,Marquess Wilson,[u'WR'],Phi
+16026,Quinton Patton,[u'WR'],NYJ
+16030,Daimion Stafford,[u'S'],Pit
+16037,Armonty Bryant,"[u'DE', u'EDR']",Oak
+16054,Marcus Cromartie,[u'CB'],Det
+16080,Josh Johnson,[u'CB'],Jax
 16140,Ryan Griffin,[u'QB'],TB
-16157,Kevin Reddick,[u'LB'],Buf
-16159,Da'Rick Rogers,[u'WR'],KC
-16171,Joplo Bartu,[u'LB'],Ari
-16181,Kenny Demens,[u'LB'],Ari
-16210,Chris Pantale,[u'TE'],Mia
-16230,Ryan Spadola,[u'WR'],Det
-16252,Tyler Bray,[u'QB'],KC
-16256,Jayson DiManche,[u'LB'],SF
-16285,Timothy Wright,[u'TE'],Det
-16373,Rodney Smith,[u'WR'],Sea
+16285,Tim Wright,[u'TE'],KC
 16381,Kenbrell Thompkins,[u'WR'],NYJ
-16398,A.J. Francis,[u'DT'],Wsh
-16418,Zach Sudfeld,[u'TE'],NYJ
-16443,Melvin White,[u'CB'],Min
 16488,George Winn,[u'RB'],Ind
-16493,Jake Stoneburner,[u'TE'],LAR
-16556,Willie Jefferson,[u'LB'],Wsh
-16560,Andy Mulumba,"[u'LB', u'EDR']",LAR
-16569,Myles White,[u'WR'],NYJ
-16581,Marlon Brown,[u'WR'],Den
-16632,Daniel Adongo,[u'LB'],Ind
-16715,Kyle Fuller,[u'CB'],Chi
-16728,Teddy Bridgewater,[u'QB'],Min
-16736,Johnny Manziel,[u'QB'],Cle
+16530,Khiry Robinson,[u'RB'],NYJ
+16561,Charles James II,[u'CB'],Jax
+16568,Stefan Charles,[u'DT'],KC
+16581,Marlon Brown,[u'WR'],Chi
+16593,Matt McGloin,[u'QB'],KC
+16714,Justin Gilbert,[u'CB'],Pit
+16721,Dominique Easley,[u'DE'],LAR
+16736,Johnny Manziel,[u'QB'],FA
+16738,Will Sutton,[u'DT'],SF
+16744,Ra'Shede Hageman,[u'DT'],Atl
 16747,Dezmen Southward,[u'S'],Car
-16755,Dri Archer,[u'RB'],Buf
-16778,Ego Ferguson,[u'DT'],Det
-16780,Scott Crichton,[u'DE'],Buf
+16751,Trent Murphy,"[u'DE', u'EDR']",Buf
+16775,Crockett Gillmore,[u'TE'],Bal
+16779,Josh Huff,[u'WR'],NO
 16784,Tre Mason,[u'RB'],LAR
+16792,Jace Amaro,[u'TE'],KC
 16794,Bishop Sankey,[u'RB'],Min
 16806,Louis Nix III,[u'DT'],NYG
-16810,AJ McCarron,[u'QB'],Cin
 16811,Shaq Evans,[u'WR'],Dal
-16812,Tajh Boyd,[u'QB'],Pit
-16813,Logan Thomas,[u'TE'],Buf
 16814,Zach Mettenberger,[u'QB'],Pit
-16828,Jeremy Gallon,[u'WR'],NE
 16838,Tyler Gaffney,[u'RB'],Jax
 16841,Kevin Norwood,[u'WR'],NYG
-16884,Storm Johnson,[u'RB'],Mia
-16885,Lache Seastrunk,[u'RB'],NYJ
-16886,Martavis Bryant,[u'WR'],Pit
-16915,Keith Wenning,[u'QB'],NYG
-16916,Zach Hocker,[u'K'],TB
-16928,Jalen Saunders,[u'WR'],NE
-16946,Bruce Ellington,[u'WR'],Hou
-16956,Marion Grice,[u'RB'],Ari
-17021,Aaron Murray,[u'QB'],KC
-17139,Corey Washington,[u'WR'],Dal
-17143,Branden Oliver,[u'RB'],LAC
-17144,Robert Herron,[u'WR'],Oak
-17153,Darrin Reaves,[u'RB'],KC
-17157,Travis Coons,[u'K'],LAR
-17164,Silas Redd,[u'RB'],Wsh
-17165,Brandon Watts,[u'LB'],Mia
-17166,Jackson Jeffcoat,[u'DE'],Cle
+16942,Ka'Deem Carey,[u'RB'],Chi
+16950,Lorenzo Taliaferro,[u'RB'],Bal
+17135,Devin Street,[u'WR'],Hou
+17140,Juwan Thompson,[u'RB'],Den
+17149,Antonio Andrews,[u'RB'],Ten
+17161,Vinnie Sunseri,[u'S'],SF
+17167,Corey Brown,[u'WR'],Den
 17181,Frankie Hammond,[u'WR'],NYJ
-17183,Trey Watts,[u'RB'],LAR
 17186,Austin Johnson,[u'RB'],TB
-17188,Brian Leonhardt,[u'TE'],Min
-17198,Damian Copeland,[u'WR'],Det
-17200,Jonathan Krause,[u'WR'],Ten
-17206,Matt Blanchard,[u'QB'],Chi
-17207,Dustin Vaughan,[u'QB'],Bal
-17209,Senorise Perry,[u'RB'],Mia
-17210,Glenn Winston,[u'RB'],Cle
-17215,Brock Vereen,[u'S'],KC
-17219,Jordan Gay,[u'K'],Ten
-17225,Antone Exum Jr.,[u'CB'],Min
-17241,Marcus Roberson,[u'CB'],LAR
-17263,Jacquies Smith,"[u'DE', u'EDR']",TB
-17268,Randell Johnson,[u'LB'],NYJ
+17193,James Wright,[u'WR'],Ind
+17194,Isaiah Burse,[u'WR'],LAC
+17197,Jeremy Butler,[u'WR'],Buf
+17223,Demontre Hurst,[u'CB'],Ten
+17236,Demetri Goodson,[u'CB'],GB
+17237,Chris Davis,[u'CB'],SF
+17242,Zachary Orr,[u'LB'],Bal
+17249,Jayrone Elliott,[u'LB'],NO
+17256,Carl Bradford,[u'LB'],Cin
 17270,Lamin Barrow,[u'LB'],Mia
-17272,IK Enemkpali,[u'LB'],Oak
-17274,Jordan Zumwalt,[u'LB'],Pit
-17278,Jonathan Newsome,[u'DE'],Ind
-17283,Shelby Harris,[u'DE'],Den
-17288,Jeoffrey Pagan,[u'DE'],Hou
-17292,Kenny Anunike,"[u'DE', u'EDR']",NYJ
-17297,Kelcy Quarles,[u'DT'],Ind
-17298,Davon Coleman,[u'DT'],NYG
-17300,Bruce Gaston,[u'DT'],Det
-17304,Ken Bishop,[u'DT'],Dal
-17320,K'Waun Williams,[u'CB'],SF
-17321,Tyler Patmon,[u'CB'],Jax
-17324,Jerome Couplin III,[u'S'],LAR
+17273,Jordan Tripp,[u'LB'],Atl
+17279,Larry Webster,[u'DE'],Car
+17281,Taylor Hart,[u'DE'],Phi
+17306,T.J. Barnes,[u'DT'],KC
+17308,Ryan Carrethers,[u'DT'],LAC
+17311,Caraun Reid,[u'DT'],Dal
+17315,L.J. McCray,[u'S'],Buf
+17316,Brian Dixon,[u'CB'],Jax
+17328,Marqueston Huff,[u'S'],Dal
 17329,Lonnie Ballentine,[u'S'],Hou
-17336,Dion Bailey,[u'S'],NYJ
-17348,Akeem Davis,[u'S'],Jax
-17353,Marcel Jensen,[u'TE'],Wsh
+17340,Walter Powell,[u'WR'],Buf
 17354,Asante Cleveland,[u'TE'],LAC
-17356,Nic Jacobs,[u'TE'],Jax
-17357,Jeremiah George,[u'LB'],Ind
-17358,Cordarro Law,[u'DE'],LAC
-17369,Jumal Rolle,[u'CB'],Buf
-17382,Blake Annen,[u'TE'],Buf
-17383,RaShaun Allen,[u'TE'],Hou
+17355,Rashad Ross,[u'WR'],Ari
+17386,Max Bullough,[u'LB'],Cle
 17391,Tramain Jacobs,[u'CB'],Det
-17398,Connor Shaw,[u'QB'],Chi
-17405,Earl Okine,"[u'LB', u'EDR']",KC
-17419,Kevin Smith,[u'WR'],Sea
-17433,Andre Debose,[u'WR'],Ind
-17436,Obum Gwacham,"[u'DE', u'EDR']",NO
-17445,DiAndre Campbell,[u'WR'],SF
-17446,Hau'oli Kikaha,"[u'DE', u'EDR']",NO
-17447,Akeem King,[u'CB'],Atl
-17460,Carl Davis,[u'DT'],Bal
-17469,Issac Blakeney,[u'WR'],Pit
-17482,Da'Ron Brown,[u'WR'],LAC
-17488,Kenny Bell,[u'WR'],Bal
-17498,Dres Anderson,[u'WR'],Hou
-17499,Reshard Cliett,"[u'LB', u'EDR']",Ten
-17519,DeAndrew White,[u'WR'],Hou
-17520,Neiron Ball,[u'LB'],Oak
-17523,Matt Wells,[u'LB'],Atl
-17527,Dylan Thompson,[u'QB'],LAR
-17530,Kaelin Clay,[u'WR'],Car
-17539,Joey Iosefa,[u'RB'],NE
-17544,Davis Tull,[u'DE'],NO
-17550,Tre McBride,[u'WR'],Ten
+17392,Justin Perillo,[u'TE'],Chi
+17444,MyCole Pruitt,[u'TE'],Hou
+17447,Akeem King,[u'CB'],Sea
+17451,Craig Mager,[u'CB'],LAC
+17453,Owa Odighizuwa,"[u'DE', u'EDR']",Buf
+17466,Gerald Christian,[u'TE'],Ari
+17473,Darius Kilgo,[u'DT'],Hou
+17478,Geremy Davis,[u'WR'],LAC
+17488,Kenny Bell,[u'WR'],Den
+17498,Dres Anderson,[u'WR'],Dal
+17499,Reshard Cliett,[u'LB'],Min
+17505,Jeremy Langford,[u'RB'],Mia
+17506,Tony Lippett,[u'CB'],Mia
+17507,Keith Mumphery,[u'WR'],Hou
+17524,Malcolm Johnson,[u'RB'],SF
+17544,Davis Tull,[u'DE'],LAR
 17553,Dezmin Lewis,[u'WR'],Buf
-17554,Tray Walker,[u'CB'],Bal
-17560,Tevin Mitchel,[u'LB'],Ind
-17569,Junior Sylvestre,[u'LB'],Mia
-17572,Garrett Grayson,[u'QB'],NO
-17578,David Cobb,[u'RB'],Chi
+17555,Deon Simon,[u'DT'],NYJ
+17560,Tevin Mitchel,[u'CB'],Oak
+17572,Garrett Grayson,[u'QB'],Atl
 17579,Cedric Thompson,[u'S'],Cin
-17581,Michael Bennett,[u'DT'],Jax
-17582,Doran Grant,[u'CB'],Jax
-17585,Evan Spencer,[u'WR'],TB
-17591,Tony Steward,[u'LB'],NO
-17592,Charles Gaines,[u'CB'],Jax
-17594,Deiontrez Mount,"[u'LB', u'EDR']",Ind
+17582,Doran Grant,[u'CB'],Chi
+17584,Devin Smith,[u'WR'],NYJ
+17597,Lorenzo Mauldin,"[u'LB', u'EDR']",NYJ
+17601,Rashad Greene,[u'WR'],Jax
 17605,Karlos Williams,[u'RB'],Pit
+17607,Darren Waller,[u'TE'],Bal
 17608,Ifo Ekpre-Olomu,[u'CB'],Mia
+17615,JaCorey Shepherd,[u'CB'],Pit
 17617,Kenny Hilliard,[u'RB'],Wsh
-17621,Senquez Golson,[u'CB'],Pit
-17622,Josh Robinson,[u'RB'],Ind
-17631,Busta Anderson,[u'TE'],SF
-17632,Kyshoen Jarrett,[u'S'],Wsh
-17634,James Sample,[u'S'],Jax
-17639,Amarlo Herrera,[u'LB'],Ten
+17618,Jalen Collins,[u'CB'],Atl
+17621,Senquez Golson,[u'CB'],Oak
+17628,Mykkele Thompson,[u'CB'],NYG
+17634,James Sample,[u'S'],Wsh
 17640,Damian Swann,[u'CB'],NO
 17649,Kennard Backman,[u'TE'],Det
-17651,Tye Smith,[u'CB'],Ten
-17652,Shaq Riddick,[u'DE'],Ari
-17653,Tyler Varga,[u'RB'],Ind
-17686,Alex Carter,"[u'CB', u'S']",Det
-17697,D'Joun Smith,[u'CB'],Ten
+17665,Dorial Green-Beckham,[u'WR'],Phi
+17672,Lorenzo Doss,[u'CB'],Car
+17686,Alex Carter,[u'S'],Car
 17702,Randy Gregory,"[u'DE', u'EDR']",Dal
-17707,Marcus Hardison,[u'DT'],Cin
-17714,Max Valles,"[u'DE', u'EDR']",Buf
-17730,Duron Carter,[u'WR'],Ind
-17732,Antwan Goodley,[u'WR'],GB
-17734,Chris Matthews,[u'WR'],Bal
-17735,Michael Dyer,[u'RB'],Oak
-17736,John Crockett,[u'RB'],Oak
-17738,Seantavius Jones,[u'WR'],KC
-17740,Gus Johnson,[u'RB'],LAC
-17743,Kyle Brindza,[u'K'],NYJ
-17745,Jarryd Hayne,[u'RB'],SF
-17748,Brandon Wegher,[u'RB'],LAR
-17749,Alonzo Harris,[u'RB'],GB
+17707,Marcus Hardison,[u'DT'],Hou
+17714,Max Valles,[u'DE'],Buf
+17717,Mario Alford,[u'WR'],Cle
+17718,DeAndre Smelter,[u'WR'],Jax
+17736,John Crockett,[u'RB'],Bal
+17737,Terrence Magee,[u'RB'],Atl
+17738,Seantavius Jones,[u'WR'],Ind
+17747,Andrew Franks,[u'K'],Mia
+17750,Cameron Meredith,[u'WR'],NO
 17753,E.J. Bibbs,[u'TE'],Wsh
-17754,Khari Lee,[u'TE'],Det
-17757,Nikita Whitlock,[u'RB'],NYG
-17759,Jerome Cunningham,[u'TE'],Ten
-17760,Matt Hazel,[u'WR'],Wsh
-17766,Uani' Unga,[u'LB'],NYG
-17770,Tyler Murphy,[u'WR'],Mia
-17772,Wes Saxton,[u'TE'],Buf
-17775,Bobby Richardson,[u'DE'],NYG
+17754,Khari Lee,[u'TE'],Buf
+17755,Lucky Whitehead,[u'WR'],NYJ
+17758,Quincy Enunwa,[u'WR'],NYJ
+17763,Chris Harper,[u'WR'],NYJ
+17769,Delvin Breaux,[u'CB'],NO
+17771,Bradley Marquez,[u'WR'],Det
+17773,Thurston Armbrister,[u'LB'],NYG
+17774,Ryan Delaire,[u'DE'],Ind
+17779,Robenson Therezie,[u'S'],Ind
 17780,Donteea Dye,[u'WR'],TB
-17782,Trey Williams,[u'RB'],Pit
-17783,Javontee Herndon,[u'WR'],Dal
-17793,Eric Rogers,[u'WR'],SF
-17812,William Jackson III,[u'CB'],Cin
-17821,Jaylon Smith,[u'LB'],Dal
-17828,Reggie Ragland,[u'LB'],Buf
-17836,Christian Hackenberg,[u'QB'],NYJ
-17851,Will Redmond,[u'CB'],SF
-17853,Bronson Kaufusi,[u'DE'],Bal
-17878,Charles Tapper,"[u'DE', u'EDR']",Dal
-17897,Andrew Billings,[u'DT'],Cin
-17904,Willie Henry,[u'DE'],Bal
-17941,Moritz Bohringer,[u'WR'],Min
-17943,Keenan Reynolds,[u'WR'],Bal
-17944,Devante Bond,[u'LB'],TB
-17948,Nate Sudfeld,[u'QB'],Wsh
-17952,Jake Rudock,[u'QB'],Det
-17953,Kolby Listenbee,[u'WR'],Buf
-17959,Brandon Allen,[u'QB'],Jax
+17782,Trey Williams,[u'RB'],Dal
+17791,Jude Adjei-Barimah,[u'CB'],TB
+17836,Christian Hackenberg,[u'QB'],Phi
+17838,Su'a Cravens,[u'S'],Den
+17843,Roberto Aguayo,[u'K'],LAC
+17844,Cyrus Jones,[u'CB'],NE
+17851,Will Redmond,[u'CB'],KC
+17874,Vincent Valentine,[u'DT'],NE
+17877,Connor Cook,[u'QB'],Oak
+17879,Joshua Perry,"[u'DE', u'EDR']",Ind
+17881,Tavon Young,[u'CB'],Bal
+17888,Malcolm Mitchell,[u'WR'],NE
+17901,Deiondre' Hall,[u'S'],Chi
+17906,Kenneth Dixon,[u'RB'],Bal
+17911,Cardale Jones,[u'QB'],LAC
+17912,Tajae Sharpe,[u'WR'],Ten
+17913,Zack Sanchez,[u'CB'],Car
+17922,Jordan Payton,[u'WR'],Cle
+17923,Jonathan Williams,[u'RB'],NO
+17925,K.J. Dillon,[u'S'],Hou
+17932,Antwione Williams,[u'LB'],Min
+17938,Temarrick Hemingway,[u'TE'],LAR
+17941,Moritz Bohringer,[u'WR'],Cin
+17943,Keenan Reynolds,[u'WR'],Sea
+17951,Josh Forrest,[u'LB'],Sea
+17953,Kolby Listenbee,[u'WR'],Ind
+17959,Brandon Allen,[u'QB'],LAR
+17961,Dadi Nicolas,"[u'LB', u'EDR']",Wsh
 17965,Jeff Driskel,[u'QB'],Cin
-17968,Kelvin Taylor,[u'RB'],Atl
-17972,Darius Jackson,[u'RB'],Cle
+17968,Kelvin Taylor,[u'RB'],Cle
+17970,Aaron Burbridge,[u'WR'],SF
+17972,Darius Jackson,[u'RB'],Dal
 17973,Rico Gathers,[u'TE'],Dal
 17976,Travis Feeney,[u'LB'],NO
-17978,Brandon Doughty,[u'QB'],Mia
+17978,Brandon Doughty,[u'QB'],Ari
 17979,Devin Lucien,[u'WR'],NE
-17980,Jonathan Woodard,"[u'DE', u'EDR']",Jax
-17984,Daniel Braverman,[u'WR'],Chi
+17980,Jonathan Woodard,"[u'DE', u'EDR']",Mia
+17983,DeMarcus Ayers,[u'WR'],Chi
+17984,Daniel Braverman,[u'WR'],KC
 17985,Thomas Duarte,[u'TE'],Mia
 17986,Steven Daniels,[u'LB'],NYG
 17991,Devin Lewis Fuller,[u'WR'],Atl
-17992,Trevor Bates,[u'LB'],NE
-17993,Alex McCalister,"[u'DE', u'EDR']",Phi
+17992,Trevor Bates,[u'LB'],Det
+17993,Alex McCalister,"[u'DE', u'EDR']",Wsh
 17995,Keith Marshall,[u'RB'],Wsh
 17996,Kenny Lawler,[u'WR'],Sea
 18000,Zac Brooks,[u'RB'],Sea
-18003,Joe Walker,[u'LB'],Phi
+18001,Prince Charles Iworah,[u'CB'],Wsh
 18004,Beau Sandland,[u'TE'],GB
+18008,Trevone Boykin,[u'QB'],Sea
+18010,Mike Purcell,[u'DT'],KC
+18011,Harold Jones-Quartey,[u'S'],Chi
+18013,Christian Bryant,[u'S'],Cle
 18022,Myke Tavarres,[u'LB'],Phi
-18023,Kourtnei Brown,"[u'LB', u'EDR']",Ten
-18025,Bennett Jackson,[u'S'],NYG
-18028,Taylor Heinicke,[u'QB'],Min
-18030,Matt LaCosse,[u'TE'],NYG
-18033,Jhurell Pressley,[u'RB'],GB
-18034,Anthony Denham,[u'TE'],Phi
-18036,Max McCaffrey,[u'WR'],GB
-18038,Kasen Williams,[u'WR'],Sea
-18039,Reggie Bell,[u'WR'],NO
-18040,Jake Kumerow,[u'WR'],Cin
-18042,James Wilder Jr.,[u'RB'],Buf
-18044,Bryce Williams,[u'TE'],Car
+18023,Kourtnei Brown,[u'LB'],Ten
+18025,Bennett Jackson,[u'S'],Bal
+18026,Cole Wick,[u'TE'],SF
+18030,Matt LaCosse,[u'TE'],Den
+18031,Erik Swoope,[u'TE'],Ind
+18032,Brandon Wilds,[u'RB'],Jax
+18033,Jhurell Pressley,[u'RB'],NYG
+18040,Jake Kumerow,[u'WR'],GB
+18041,George Atkinson III,[u'RB'],NYJ
+18044,Bryce Williams,[u'TE'],Ari
 18045,Marquez North,[u'WR'],LAR
-18046,Andy Jones,[u'WR'],Dal
 18048,Xavier Rush,[u'WR'],NO
-18049,Dom Williams,[u'WR'],Phi
-18051,R.J. Harris,[u'WR'],NO
-18053,Bernard Reedy,[u'WR'],TB
+18049,Dom Williams,[u'WR'],Det
+18054,Paul McRoberts,[u'WR'],LAR
+18055,Wendall Williams,[u'WR'],Hou
 18056,Anthony Dable,[u'WR'],Atl
 18057,Darius Jennings,[u'WR'],Ten
-18059,Devon Cajuste,[u'WR'],SF
+18059,Devon Cajuste,[u'TE'],Cle
 18060,Mitch Mathews,[u'WR'],Mia
-18062,Justin Zimmer,[u'DT'],NO
-18065,Dean Marlowe,[u'S'],Car
-18070,Stephen Morris,[u'QB'],Ind
-18071,Dreamius Smith,[u'RB'],LAC
-18072,Caushaud Lyons,[u'DE'],LAR
-18074,Deion Barnes,[u'LB'],NYJ
+18062,Justin Zimmer,[u'DT'],Atl
+18064,Alani Fua,[u'LB'],Ari
+18065,Dean Marlowe,[u'S'],Buf
+18067,Eric Pinkins,[u'LB'],Dal
+18068,Ed Reynolds II,[u'S'],Cle
+18070,Stephen Morris,[u'QB'],Hou
+18072,Caushaud Lyons,"[u'DE', u'EDR']",Den
 18075,Devon Johnson,[u'RB'],Car
 18076,Keyarris Garrett,[u'WR'],Car
-18083,Brian Parker,[u'TE'],NYJ
+18077,Jalin Marshall,[u'WR'],NYJ
+18081,Braedon Bowman,[u'TE'],LAC
+18083,Brian Parker,[u'TE'],Den
+18086,Troymaine Pope,[u'RB'],Hou
 18088,Glenn Gronkowski,[u'RB'],NE
-18090,Joe Callahan,[u'QB'],GB
-18094,Nelson Spruce,[u'WR'],LAR
-18099,Scott Simonson,[u'TE'],Car
-18119,Dexter McCoil,[u'S'],LAC
-9635,Kellen Clemens,[u'QB'],LAC
-14916,Keshawn Martin,[u'WR'],Det
-11291,Chad Henne,[u'QB'],Jax
-17533,Sean Mannion,[u'QB'],LAR
-17613,Brett Hundley,[u'QB'],GB
-14037,Ryan Mallett,[u'QB'],Bal
-13703,Preston Parker,[u'WR'],FA
-15823,Montee Ball,[u'RB'],FA
-16013,Joseph Randle,[u'RB'],FA
-16421,Joe Vellano,[u'DT'],Atl
-17315,L.J. McCray,[u'S'],Car
-17330,Jonathan Dowling,[u'S'],Buf
-18127,Zaire Anderson,[u'LB'],Den
-18128,Ufomba Kamalu,"[u'DE', u'LB', u'EDR']",Hou
-18129,Alex Ellis,[u'TE'],Jax
-18130,Troy Hill,[u'CB'],LAR
-18131,Anthony Lanier,"[u'DE', u'DT']",Wsh
-18132,Trovon Reed,[u'CB'],LAC
-18133,Brandon Copeland,"[u'DE', u'LB', u'EDR']",Det
-18134,Trevor Williams,[u'CB'],LAC
-18135,Brennan Scarlett,"[u'LB', u'EDR']",Hou
+18092,Julian Howsare,[u'RB'],NYJ
+18093,Kenneth Farrow,[u'RB'],LAC
+18094,Nelson Spruce,[u'WR'],LAC
+18095,Josh Perkins,[u'TE'],Phi
+18096,Paul Lasike,[u'RB'],Chi
+18099,Scott Simonson,[u'TE'],NYG
+18105,Kerry Hyder,"[u'DE', u'EDR']",Det
+18107,DaVonte Lambert,"[u'DE', u'EDR']",TB
+18109,Don Jackson,[u'RB'],GB
+18112,Paul Turner,[u'WR'],NE
+18113,LaDarius Gunter,[u'CB'],Car
+18117,Tracy Howard,[u'CB'],Mia
+18122,George Farmer,[u'RB'],Sea
+18125,D.J. Tialavea,[u'TE'],Atl
+18126,Matt Lengel,[u'TE'],Hou
+18129,Alex Ellis,[u'TE'],KC
+18132,Trovon Reed,[u'CB'],Sea
+18133,Brandon Copeland,"[u'LB', u'EDR']",NYJ
 18136,Shayne Skov,[u'LB'],SF
-18137,C.J. Goodwin,[u'CB'],Atl
-18138,Romeo Okwara,"[u'DE', u'EDR']",NYG
-18139,Chris Landrum,"[u'LB', u'DE', u'EDR']",LAC
-18140,Christopher Milton,[u'CB'],Ind
-18141,Robert Thomas,[u'DT'],NYG
-18142,Cory Littleton,[u'LB'],LAR
-18143,Curt Maggitt,"[u'LB', u'EDR']",Ind
-18144,Dashaun Phillips,[u'CB'],Wsh
-18145,Patrick Onwuasor,[u'LB'],Bal
+18139,Chris Landrum,"[u'DE', u'EDR']",LAC
+18143,Curt Maggitt,[u'LB'],Ind
+18144,Dashaun Phillips,[u'S'],Pit
 18146,DeAndre Elliott,[u'CB'],Sea
-18147,DeShawn Williams,[u'DT'],Cin
-18148,Mike Jordan,[u'CB'],LAR
-18149,Matthias Farley,[u'S'],Ind
-18150,De'Vante Bausby,[u'CB'],KC
-18151,Matt Longacre,"[u'DE', u'EDR']",LAR
-18152,Lou Young,[u'CB'],Car
-18153,Eric Tomlinson,[u'TE'],NYJ
-18154,Kyle Peko,[u'DT'],Den
-18155,Freddie Bishop,"[u'LB', u'EDR']",NYJ
-18156,Kentrell Brice,[u'S'],GB
-18157,Gabe Martin,[u'LB'],Ari
-18158,Julius Warmsley,"[u'DE', u'DT']",Mia
-18159,Garrison Smith,[u'DT'],Sea
+18147,DeShawn Williams,[u'DT'],Den
+18150,De'Vante Bausby,[u'CB'],Phi
+18152,Lou Young III,[u'CB'],Ari
+18158,Julius Warmsley,[u'DT'],Ten
 18160,Jacoby Glenn,[u'CB'],KC
 18161,Jordan Dangerfield,[u'S'],Pit
-18162,James Cowser,"[u'LB', u'EDR']",Oak
-18163,Joel Heath,"[u'DE', u'DT']",Hou
-18164,Javien Elliott,[u'CB'],TB
-18165,Aldrick Rosas,[u'K'],NYG
-18167,Myles Garrett,"[u'DE', u'EDR']",Cle
-18168,Mitchell Trubisky,[u'QB'],Chi
-18169,Chad Williams,[u'WR'],Ari
-18170,Chad Hansen,[u'WR'],NYJ
-18171,Tarik Cohen,[u'RB'],Chi
 18172,Donnel Pumphrey,[u'RB'],Phi
-18173,Jayon Brown,[u'LB'],Ten
-18174,Eddie Vanderdoes,[u'DT'],Oak
 18176,Derek Rivers,"[u'LB', u'EDR']",NE
-18177,Larry Ogunjobi,[u'DT'],Cle
-18178,Jake Elliott,[u'K'],Cin
-18180,Gareon Conley,[u'CB'],Oak
-18181,De'Angelo Henderson,[u'RB'],Den
-18182,Shaquill Griffin,[u'CB'],Sea
-18183,Jonnu Smith,[u'TE'],Ten
-18184,Jonathan Allen,[u'DT'],Wsh
-18185,Reuben Foster,[u'LB'],SF
-18186,Eddie Jackson,[u'S'],Chi
-18187,Alvin Kamara,[u'RB'],NO
-18188,ArDarius Stewart,[u'WR'],NYJ
-18189,Tim Williams,"[u'LB', u'EDR']",Bal
-18190,Jarrad Davis,[u'LB'],Det
-18191,Ahkello Witherspoon,[u'CB'],SF
-18192,Jabrill Peppers,[u'S'],Cle
-18193,Joe Mixon,[u'RB'],Cin
-18194,Samaje Perine,[u'RB'],Wsh
-18195,Elijah Hood,[u'RB'],Oak
-18196,D'Onta Foreman,[u'RB'],Hou
-18197,Marcus Williams,[u'S'],NO
-18198,Brad Kaaya,[u'QB'],Det
+18195,Elijah Hood,[u'RB'],Car
+18198,Brad Kaaya,[u'QB'],Ind
 18199,Jeremy Clark,[u'CB'],NYJ
-18200,Chris Wormley,[u'DT'],Bal
-18201,Amara Darboh,[u'WR'],Sea
-18202,Jehu Chesson,[u'WR'],KC
-18203,Ryan Glasgow,[u'DT'],Cin
-18204,Josh Harvey-Clemons,[u'S'],Wsh
 18205,Chad Kelly,[u'QB'],Den
-18206,Carlos Watkins,[u'DT'],Hou
-18207,Vince Biegel,"[u'LB', u'EDR']",GB
-18208,Joshua Holsey,[u'CB'],Wsh
-18209,Marquez Williams,[u'RB'],Jax
-18210,Patrick Mahomes II,[u'QB'],KC
-18211,Marlon Mack,[u'RB'],Ind
-18212,Teez Tabor,[u'CB'],Det
-18214,Josh Reynolds,[u'WR'],LAR
-18216,Josh Malone,[u'WR'],Cin
-18217,Derek Barnett,"[u'DE', u'EDR']",Phi
-18218,Leonard Fournette,[u'RB'],Jax
-18219,Malachi Dupre,[u'WR'],GB
-18220,Jamal Adams,[u'S'],NYJ
-18221,Davon Godchaux,[u'DT'],Mia
-18222,Takkarist McKinley,"[u'DE', u'EDR']",Atl
-18223,Zay Jones,[u'WR'],Buf
-18224,Taywan Taylor,[u'WR'],Ten
-18225,Kareem Hunt,[u'RB'],KC
+18209,Marquez Williams,[u'RB'],Cle
+18219,Malachi Dupre,[u'WR'],Buf
 18226,Rodney Adams,[u'WR'],Min
-18227,Michael Roberts,[u'TE'],Det
-18228,Jamal Agnew,[u'CB'],Det
 18229,Joshua Dobbs,[u'QB'],Pit
-18230,Cameron Sutton,[u'CB'],Pit
-18231,Jalen Reeves-Maybin,[u'LB'],Det
 18232,Jordan Leggett,[u'TE'],NYJ
-18233,Wayne Gallman,[u'RB'],NYG
-18234,Cordrea Tankersley,[u'CB'],Mia
-18235,Mike Williams,[u'WR'],LAC
-18236,James Conner,[u'RB'],Pit
-18238,Jourdan Lewis,[u'CB'],Dal
-18239,Taco Charlton,"[u'DE', u'EDR']",Dal
-18240,Ben Gedeon,[u'LB'],Min
-18241,Delano Hill,[u'S'],Sea
 18242,Jake Butt,[u'TE'],Den
-18243,Anthony Walker Jr.,[u'LB'],Ind
-18244,T.J. Watt,"[u'LB', u'EDR']",Pit
-18246,Deshaun Watson,[u'QB'],Hou
-18247,Ukeme Eligwe,[u'LB'],KC
-18249,Rayshawn Jenkins,[u'S'],LAC
-18250,Elijah Lee,[u'LB'],Min
-18251,Adrian Colbert,"[u'CB', u'S']",SF
-18252,Nathan Peterman,[u'QB'],Buf
 18253,Mason Schreck,[u'TE'],Cin
-18255,Dalvin Tomlinson,[u'DT'],NYG
-18257,Jeremy Sprinkle,[u'TE'],Wsh
-18258,Deatrich Wise,"[u'DE', u'EDR']",NE
-18259,Marcus Maye,[u'S'],NYJ
-18260,Dalvin Cook,[u'RB'],Min
-18261,Tanoh Kpassagnon,[u'DT'],KC
-18263,Brandon Wilson,"[u'CB', u'S']",Cin
 18265,Ejuan Price,"[u'LB', u'EDR']",LAR
-18268,C.J. Beathard,[u'QB'],SF
-18269,Jaleel Johnson,[u'DT'],Min
-18270,Marlon Humphrey,[u'CB'],Bal
-18272,Chris Godwin,[u'WR'],TB
-18273,Shalom Luani,[u'S'],Oak
-18274,D.J. Jones,[u'DT'],SF
-18276,Adam Shaheen,[u'TE'],Chi
-18277,Alex Armah,[u'LB'],Car
 18278,David Moore,[u'WR'],Sea
-18279,Christian McCaffrey,[u'RB'],Car
-18280,Solomon Thomas,"[u'DE', u'DT']",SF
-18281,Malik Hooker,[u'S'],Ind
-18282,Marshon Lattimore,[u'CB'],NO
 18283,Raekwon McMillan,[u'LB'],Mia
-18284,Curtis Samuel,[u'WR'],Car
-18285,Nazair Jones,[u'DT'],Sea
 18286,T.J. Logan,[u'RB'],Ari
-18287,Ryan Switzer,[u'WR'],Dal
-18288,Marquel Lee,[u'LB'],Oak
-18289,Tyus Bowser,"[u'LB', u'EDR']",Bal
-18291,Desmond King,"[u'CB', u'S']",LAC
-18292,George Kittle,[u'TE'],SF
-18293,Jalen Myrick,[u'CB'],Jax
-18294,Nathan Gerry,"[u'S', u'LB']",Phi
 18295,Carlos Henderson,[u'WR'],Den
-18296,Trent Taylor,[u'WR'],SF
-18297,Xavier Woods,[u'S'],Dal
-18298,Tanzel Smart,[u'DT'],LAR
 18299,Robert Davis,[u'WR'],Wsh
-18300,Shelton Gibson,[u'WR'],Phi
-18301,Jeremiah Ledbetter,"[u'DE', u'EDR']",Det
-18302,Dede Westbrook,[u'WR'],Jax
-18303,David Njoku,[u'TE'],Cle
-18304,Isaiah McKenzie,[u'WR'],Den
-18305,Adoree' Jackson,[u'CB'],Ten
-18306,JuJu Smith-Schuster,[u'WR'],Pit
-18308,Budda Baker,[u'S'],Ari
-18309,Sidney Jones,[u'CB'],Phi
-18311,Quincy Wilson,[u'CB'],Ind
-18312,Dawuane Smoot,"[u'DE', u'EDR']",Jax
-18313,Elijah McGuire,[u'RB'],NYJ
-18314,Aaron Jones,[u'RB'],GB
-18315,Tre'Davious White,[u'CB'],Buf
-18316,Duke Riley,[u'LB'],Atl
-18317,Kendell Beckwith,[u'LB'],TB
-18319,Keion Adams,"[u'DE', u'LB', u'EDR']",Pit
-18320,Corey Davis,[u'WR'],Ten
-18321,Tanner Vallejo,[u'LB'],Buf
-18322,O.J. Howard,[u'TE'],TB
-18323,Alex Anzalone,[u'LB'],NO
-18324,Joey Ivie,[u'DT'],Dal
-18325,Brendan Langley,[u'CB'],Den
-18326,Leon McQuay III,"[u'S', u'CB']",KC
-18327,Zane Gonzalez,[u'K'],Cle
-18328,DeShone Kizer,[u'QB'],Cle
-18329,Rasul Douglas,[u'CB'],Phi
+18319,Keion Adams,"[u'LB', u'EDR']",Pit
+18324,Joey Ivie,[u'DT'],Sea
 18330,Howard Wilson,[u'CB'],Cle
-18331,DeMarcus Walker,[u'DE'],Den
 18332,Marquez White,[u'CB'],Dal
-18333,Bucky Hodges,[u'TE'],Min
-18334,Sam Rogers,[u'RB'],LAR
-18335,Samson Ebukam,[u'LB'],LAR
-18336,Matt Milano,[u'LB'],Buf
-18337,John Johnson,[u'S'],LAR
-18338,Vincent Taylor,[u'DT'],Mia
+18333,Bucky Hodges,[u'TE'],Pit
+18334,Sam Rogers,[u'RB'],Buf
 18339,Isaiah Ford,[u'WR'],Mia
-18340,Devante Mays,[u'RB'],GB
-18341,Chris Carson,[u'RB'],Sea
-18342,Obi Melifonwu,[u'S'],Oak
-18343,Avery Moss,"[u'DE', u'EDR']",NYG
 18344,Ifeadi Odenigbo,"[u'DE', u'EDR']",Min
-18345,Kenny Golladay,[u'WR'],Det
-18346,Eric Saubert,[u'TE'],Atl
-18347,Damontae Kazee,"[u'CB', u'S']",Atl
-18349,Noah Brown,[u'WR'],Dal
-18350,Mack Hollins,[u'WR'],Phi
-18351,Dylan Donahue,"[u'DE', u'LB', u'EDR']",NYJ
 18352,Malik McDowell,[u'DT'],Sea
-18353,Montae Nicholson,[u'S'],Wsh
 18354,Joe Williams,[u'RB'],SF
-18356,Justin Evans,[u'S'],TB
-18358,Treyvon Hester,[u'DT'],Oak
-18361,Pat O'Connor,"[u'DE', u'EDR']",Det
-18362,Jamaal Williams,[u'RB'],GB
-18363,Haason Reddick,[u'LB'],Ari
-18364,Blair Brown,[u'LB'],Jax
+18361,Patrick O'Connor,"[u'DE', u'EDR']",TB
 18368,Josh Carraway,"[u'LB', u'EDR']",Ten
-18370,Fabian Moreau,[u'CB'],Wsh
-18372,Brian Allen,[u'CB'],Pit
-18374,Gerald Everett,[u'TE'],LAR
-18375,Grover Stewart,[u'DT'],Ind
-18376,Matthew Dayes,[u'RB'],Cle
-18377,Josh Jones,[u'S'],GB
-18378,Jack Tocho,"[u'CB', u'S']",Min
-18379,Zach Cunningham,[u'LB'],Hou
+18378,Jack Tocho,[u'S'],Min
 18380,Daeshon Hall,"[u'DE', u'EDR']",Car
-18381,Charles Harris,"[u'DE', u'EDR']",Mia
-18382,Evan Engram,[u'TE'],NYG
 18383,Derrick Jones,[u'CB'],NYJ
-18384,Montravius Adams,[u'DT'],GB
-18385,Rudy Ford,"[u'S', u'CB']",Ari
-18386,Carl Lawson,"[u'DE', u'EDR']",Cin
-18387,Stacy Coley,[u'WR'],Min
 18388,Corn Elder,[u'CB'],Car
-18389,Al-Quadin Muhammad,"[u'DE', u'EDR']",NO
-18390,Chidobe Awuzie,[u'CB'],Dal
-18391,Tedric Thompson,[u'S'],Sea
 18392,Khalfani Muhammad,[u'RB'],Ten
-18393,Kevin King,[u'CB'],GB
-18394,Elijah Qualls,[u'DT'],Phi
-18395,John Ross,[u'WR'],Cin
-18396,Jeremy McNichols,[u'RB'],TB
-18397,Jordan Willis,"[u'DE', u'EDR']",Cin
 18398,DeAngelo Yancey,[u'WR'],GB
 18400,Stevie Tu'ikolovatu,[u'DT'],TB
 18401,Davis Webb,[u'QB'],NYG
-18402,Jordan Evans,[u'LB'],Cin
-18403,Trey Hendrickson,"[u'DE', u'EDR']",NO
-18404,Isaac Rochell,"[u'DE', u'DT']",LAC
-18405,Tarell Basham,"[u'LB', u'EDR']",Ind
 18407,Jordan Carrell,[u'DT'],Dal
-18408,Pita Taumoepenu,"[u'DE', u'LB', u'EDR']",SF
-18409,Harrison Butker,[u'K'],Car
-18410,Mike Tyson,"[u'S', u'CB']",Sea
-18412,Nate Hairston,[u'CB'],Ind
-18414,Ryan Anderson,"[u'DE', u'EDR']",Wsh
-18415,Cooper Kupp,[u'WR'],LAR
-18416,Brian Hill,[u'RB'],Atl
-18417,Caleb Brantley,[u'DT'],Cle
-18418,Chuck Clark,[u'S'],Bal
-18419,Treston Decoud,[u'CB'],Hou
+18408,Pita Taumoepenu,[u'LB'],SF
+18410,Mike Tyson,[u'CB'],Sea
 18420,Freddie Stevenson,[u'RB'],Chi
-18421,Jace Billingsley,[u'WR'],Det
 18422,Ishmael Zamora,[u'WR'],Oak
-18423,Austin Carr,[u'WR'],NE
-18424,Matt Breida,[u'RB'],SF
-18425,Corey Clement,[u'RB'],Phi
-18428,Darius Powe,[u'WR'],NYG
-18429,Marcus Johnson,[u'WR'],Phi
-18430,Antony Auclair,[u'TE'],TB
-18431,Ricky Seals-Jones,[u'TE'],Ari
-18432,Hakeem Valles,[u'TE'],Ari
-18433,Cole Hikutini,[u'TE'],SF
+18423,Austin Carr,[u'WR'],NO
+18432,Hakeem Valles,[u'TE'],Det
 18434,Rashawn Scott,[u'WR'],Mia
 18435,Rannell Hall,[u'WR'],Cle
-18436,Algernon Brown,[u'RB'],NYJ
-18437,Tyrell Adams,[u'LB'],Oak
-18438,Jonathan Jones,[u'CB'],NE
+18436,Algernon Brown,[u'RB'],KC
 18439,Doug O'Neal Middleton,[u'S'],NYJ
-18440,Dominique Alexander,[u'LB'],Cle
-18441,Michael Davis,[u'CB'],LAC
-18442,Nick Dzubnar,[u'LB'],LAC
-18443,Michael Hunter,[u'CB'],NYG
-18444,Lawrence Thomas,[u'DE'],NYJ
-18445,Sharrod Neasman,[u'S'],Atl
-18446,Deshazor Everett,[u'S'],Wsh
-18447,Marwin Evans,[u'S'],GB
-18448,Brian Peters,[u'LB'],Hou
-18449,Jahad Thomas,[u'RB'],Dal
-18450,Jarrod Wilson,[u'S'],Jax
-18451,Maurice Lynell Harris,[u'WR'],Wsh
+18443,Michael Hunter,[u'CB'],Den
+18449,Jahad Thomas,[u'RB'],NYJ
+18460,Damore'ea Stringfellow,[u'WR'],Sea
+18468,Taquan Mizzell,[u'RB'],Chi
+18472,Sheldon Price,[u'CB'],Bal
+18484,Channing Ward,[u'DT'],TB
+18488,Sean Culkin,[u'TE'],LAC
+18493,Evan Baylis,[u'TE'],Car
+18512,Bam Bradley,[u'LB'],Bal
+18513,Mitchell Loewen,"[u'DE', u'EDR']",NO
+18522,Harvey Langi,"[u'DE', u'EDR']",NE
+18528,Demetrious Cox,[u'S'],Car
+18538,Stefan McClure,[u'S'],Det
+18539,Carlton Agudosi,[u'WR'],Ari
+18541,Isaac Whitney,[u'WR'],Oak
+18553,Josh Tupou,[u'DT'],Cin
+18554,Tashawn Bower,"[u'DE', u'EDR']",Min
+9635,Kellen Clemens,[u'QB'],LAC
+15187,Austin Davis,[u'QB'],Sea
+11238,Darren McFadden,[u'RB'],FA
+12471,Chase Daniel,[u'QB'],Chi
+18028,Taylor Heinicke,[u'QB'],Car
+11291,Chad Henne,[u'QB'],KC
+18395,John Ross,[u'WR'],Cin
+17952,Jake Rudock,[u'QB'],Det
+18340,Devante Mays,[u'RB'],GB
+16252,Tyler Bray,[u'QB'],Chi
+16728,Teddy Bridgewater,[u'QB'],NYJ
+14353,Scott Tolzien,[u'QB'],FA
+17872,Cody Kessler,[u'QB'],Jax
+8644,Matt Cassel,[u'QB'],Det
+18561,Carlos Thompson,"[u'LB', u'EDR']",LAR
+18562,Terrance Smith,[u'LB'],KC
+18563,Bryson Albright,"[u'DE', u'EDR']",Ari
+18564,Donald Payne,[u'LB'],Jax
+18565,Baker Mayfield,[u'QB'],Cle
+18566,Sam Darnold,[u'QB'],NYJ
+18567,Saquon Barkley,[u'RB'],NYG
+18568,Denzel Ward,[u'CB'],Cle
+18569,Bradley Chubb,"[u'LB', u'EDR']",Den
+18570,Josh Allen,[u'QB'],Buf
+18571,Roquan Smith,[u'LB'],Chi
+18572,Josh Rosen,[u'QB'],Ari
+18573,Minkah Fitzpatrick,[u'S'],Mia
+18574,Vita Vea,[u'DT'],TB
+18575,Daron Payne,[u'DT'],Wsh
+18576,Marcus Davenport,"[u'DE', u'EDR']",NO
+18577,Tremaine Edmunds,[u'LB'],Buf
+18578,Derwin James,[u'S'],LAC
+18579,Jaire Alexander,[u'CB'],GB
+18580,Leighton Vander Esch,[u'LB'],Dal
+18581,Rashaan Evans,[u'LB'],Ten
+18582,DJ Moore,[u'WR'],Car
+18583,Hayden Hurst,[u'TE'],Bal
+18584,Calvin Ridley,[u'WR'],Atl
+18585,Rashaad Penny,[u'RB'],Sea
+18586,Terrell Edmunds,[u'S'],Pit
+18587,Taven Bryan,[u'DT'],Jax
+18588,Mike Hughes,[u'CB'],Min
+18589,Sony Michel,[u'RB'],NE
+18590,Lamar Jackson,[u'QB'],Bal
+18592,Nick Chubb,[u'RB'],Cle
+18593,Darius Leonard,[u'LB'],Ind
+18597,Ronald Jones,[u'RB'],TB
+18599,Courtland Sutton,[u'WR'],Den
+18600,Harold Landry,"[u'LB', u'EDR']",Ten
+18601,Mike Gesicki,[u'TE'],Mia
+18602,Kerryon Johnson,[u'RB'],Det
+18603,Dante Pettis,[u'WR'],SF
+18604,Josh Jackson,[u'CB'],GB
+18605,Breeland Speaks,"[u'LB', u'EDR']",KC
+18606,Christian Kirk,[u'WR'],Ari
+18607,Uchenna Nwosu,"[u'LB', u'EDR']",LAC
+18608,Dallas Goedert,[u'TE'],Phi
+18610,Anthony Miller,[u'WR'],Chi
+18611,Kemoko Turay,"[u'DE', u'EDR']",Ind
+18612,M.J. Stewart,[u'CB'],TB
+18613,Jessie Bates,[u'S'],Cin
+18614,Donte Jackson,[u'CB'],Car
+18615,Duke Dawson,[u'CB'],NE
+18616,P.J. Hall,[u'DT'],Oak
+18617,Isaiah Oliver,[u'CB'],Atl
+18618,Derrius Guice,[u'RB'],Wsh
+18619,James Washington,[u'WR'],Pit
+18620,D.J. Chark,[u'WR'],Jax
+18622,Carlton Davis,[u'CB'],TB
+18623,Tyquan Lewis,"[u'DE', u'EDR']",Ind
+18625,Lorenzo Carter,"[u'LB', u'EDR']",NYG
+18626,Chad Thomas,"[u'DE', u'EDR']",Cle
+18627,Justin Reid,[u'S'],Hou
+18628,B.J. Hill,[u'DT'],NYG
+18629,Fred Warner,[u'LB'],SF
+18630,Royce Freeman,[u'RB'],Den
+18631,Nathan Shepherd,[u'DT'],NYJ
+18632,Jerome Baker,[u'LB'],Mia
+18634,Derrick Nnadi,[u'DT'],KC
+18635,Mason Rudolph,[u'QB'],Pit
+18636,Sam Hubbard,"[u'DE', u'EDR']",Cin
+18637,Malik Jefferson,[u'LB'],Cin
+18638,Rasheem Green,"[u'DE', u'EDR']",Sea
+18640,Michael Gallup,[u'WR'],Dal
+18641,Tracy Walker,[u'S'],Det
+18643,Justin Jones,[u'DT'],LAC
+18644,Rashaan Gaulden,[u'S'],Car
+18645,Mark Andrews,[u'TE'],Bal
+18646,Arden Key,"[u'DE', u'EDR']",Oak
+18647,Oren Burks,[u'LB'],GB
+18649,Deadrin Senat,[u'DT'],Atl
+18650,Tre'Quan Smith,[u'WR'],NO
+18652,Ronnie Harrison,[u'S'],Jax
+18654,Tarvarius Moore,[u'CB'],SF
+18655,Harrison Phillips,[u'DT'],Buf
+18657,Jordan Akins,[u'TE'],Hou
+18658,Isaac Yiadom,[u'CB'],Den
+18659,Dorian O'Daniel,[u'LB'],KC
+18660,Ian Thomas,[u'TE'],Car
+18661,Jalyn Holmes,[u'DT'],Min
+18662,Keke Coutee,[u'WR'],Hou
+18663,Nyheim Hines,[u'RB'],Ind
+18664,Antonio Callaway,[u'WR'],Cle
+18665,Josey Jewell,[u'LB'],Den
+18666,Chris Herndon,[u'TE'],NYJ
+18667,Kyle Lauletta,[u'QB'],NYG
+18668,Troy Apke,[u'S'],Wsh
+18669,Nick Nelson,[u'CB'],Oak
+18671,Mark Walton,[u'RB'],Cin
+18672,DaeSean Hamilton,[u'WR'],Den
+18673,Da'Shawn Hand,"[u'DE', u'EDR']",Det
+18674,Joel Iyiegbuniwe,[u'LB'],Chi
+18675,Dorance Armstrong,"[u'DE', u'EDR']",Dal
+18676,Jordan Whitehead,[u'S'],TB
+18677,Anthony Averett,[u'CB'],Bal
+18678,Kyzir White,[u'LB'],LAC
+18679,Will Dissly,[u'TE'],Sea
+18680,Taron Johnson,[u'CB'],Buf
+18681,Kenny Young,[u'LB'],Bal
+18682,Durham Smythe,[u'TE'],Mia
+18683,Armani Watts,[u'S'],KC
+18684,Avonte Maddox,[u'CB'],Phi
+18685,Ito Smith,[u'RB'],Atl
+18687,Kentavius Street,"[u'DE', u'EDR']",SF
+18689,Josh Sweat,"[u'DE', u'EDR']",Phi
+18690,Kalen Ballage,[u'RB'],Mia
+18691,Jaleel Scott,[u'WR'],Bal
+18692,J'Mon Moore,[u'WR'],GB
+18693,Chase Edmonds,[u'RB'],Ari
+18694,John Franklin-Myers,[u'DE'],LAR
+18695,Marquis Haynes,"[u'DE', u'EDR']",Car
+18696,Dalton Schultz,[u'TE'],Dal
+18698,RJ McIntosh,[u'DE'],NYG
+18699,Maurice Hurst,[u'DT'],Oak
+18700,Shaquem Griffin,[u'LB'],Sea
+18701,D.J. Reed,[u'CB'],SF
+18702,Ja'Whaun Bentley,[u'LB'],NE
+18703,Justin Watson,[u'WR'],TB
+18704,Bilal Nichols,[u'DT'],Chi
+18705,Tre Flowers,[u'CB'],Sea
+18706,Micah Kiser,[u'LB'],LAR
+18707,Marcus Allen,[u'S'],Pit
+18709,Genard Avery,[u'LB'],Cle
+18710,Davontae Harris,[u'CB'],Cin
+18711,Dane Cruikshank,[u'S'],Ten
+18713,Siran Neal,[u'S'],Buf
+18715,Troy Fumagalli,[u'TE'],Den
+18716,Tyler Conklin,[u'TE'],Min
+18717,Andrew Brown,[u'DT'],Cin
+18718,Daurice Fountain,[u'WR'],Ind
+18719,Ogbonnia Okoronkwo,"[u'LB', u'EDR']",LAR
+18720,Jermaine Carter,[u'LB'],Car
+18721,Jordan Lasley,[u'WR'],Bal
+18722,Tim Settle,[u'DT'],Wsh
+18723,Natrell Jamerson,[u'S'],NO
+18724,Jaylen Samuels,[u'RB'],Pit
+18726,Daniel Carlson,[u'K'],Min
+18728,Jordan Wilkins,[u'RB'],Ind
+18729,Darius Phillips,[u'CB'],Cin
+18730,Mike White,[u'QB'],Dal
+18733,Marquez Valdes-Scantling,[u'WR'],GB
+18734,Damion Ratley,[u'WR'],Cle
+18735,John Kelly,[u'RB'],LAR
+18736,Duke Ejiofor,"[u'LB', u'EDR']",Hou
+18737,Christian Sam,[u'LB'],NE
+18738,Parry Nickerson,[u'CB'],NYJ
+18739,Folorunso Fatukasi,[u'DT'],NYJ
+18740,Kylie Fitts,"[u'LB', u'EDR']",Chi
+18741,Chris Campbell,[u'CB'],Ari
+18743,Marcell Harris,[u'S'],SF
+18744,Deon Cain,[u'WR'],Ind
+18745,Jacob Martin,"[u'LB', u'EDR']",Sea
+18746,Ray-Ray McCloud III,[u'WR'],Buf
+18747,Simeon Thomas,[u'CB'],Cle
+18748,Kamrin Moore,[u'CB'],NO
+18749,DeShon Elliott,[u'S'],Bal
+18750,Dylan Cantrell,[u'WR'],LAC
+18752,Chris Covington,[u'LB'],Dal
+18753,Russell Gage,[u'WR'],Atl
+18754,Sebastian Joseph-Day,[u'DT'],LAR
+18755,Tremon Smith,[u'CB'],KC
+18756,Shaun Dion Hamilton,[u'LB'],Wsh
+18757,Luke Falk,[u'QB'],Ten
+18758,Foye Oluokun,[u'LB'],Atl
+18759,Boston Scott,[u'RB'],NO
+18760,Jack Cichy,[u'LB'],TB
+18761,Tanner Lee,[u'QB'],Jax
+18762,Trenton Cannon,[u'RB'],NYJ
+18763,Trevon Young,"[u'LB', u'EDR']",LAR
+18765,Equanimeous St. Brown,[u'WR'],GB
+18766,Cedrick Wilson,[u'WR'],Dal
+18767,Cornell Armstrong,[u'CB'],Mia
+18768,Braxton Berrios,[u'WR'],NE
+18769,Jordan Thomas,[u'TE'],Hou
+18772,Peter Kalambayi,"[u'LB', u'EDR']",Hou
+18774,Azeem Victor,[u'LB'],Oak
+18775,Keishawn Bierria,[u'LB'],Den
+18776,Ade Aruna,"[u'DE', u'EDR']",Min
+18777,Danny Etling,[u'QB'],NE
+18778,Alex McGough,[u'QB'],Sea
+18779,Matthew Adams,[u'LB'],Ind
+18780,Jermaine Kelly Jr.,[u'CB'],Hou
+18781,Jullian Taylor,[u'DT'],SF
+18782,Javon Wims,[u'WR'],Chi
+18783,Devante Downs,[u'LB'],Min
+18784,David Williams,[u'RB'],Den
+18785,Quentin Poling,[u'LB'],Mia
+18786,Marcell Ateman,[u'WR'],Oak
+18787,Jason Sanders,[u'K'],Mia
+18788,Leon Jacobs,[u'LB'],Jax
+18789,Travin Howard,"[u'LB', u'EDR']",LAR
+18790,James Looney,[u'DT'],GB
+18792,Andre Smith,[u'LB'],Car
+18793,Zaire Franklin,[u'LB'],Ind
+18794,Bo Scarbrough,[u'RB'],Dal
+18795,Nick Bawden,[u'RB'],Det
+18796,Zach Sieler,[u'DE'],Bal
+18798,Richie James,[u'WR'],SF
+18799,Greg Stroman,[u'CB'],Wsh
+18800,Kendrick Norton,[u'DT'],Car
+18801,Keion Crossen,[u'CB'],NE
+18802,Justin Lawler,[u'DE'],LAR
+18804,Joshua Frazier,[u'DT'],Pit
+18806,Kendall Donnerson,"[u'LB', u'EDR']",GB
+18807,Logan Woodside,[u'QB'],Cin
+18808,Ryan Izzo,[u'TE'],NE
+18809,Justin Jackson,[u'RB'],LAC
+18811,Auden Tate,[u'WR'],Cin
+18813,Austin Proehl,[u'WR'],Buf
+18814,Trey Quinn,[u'WR'],Wsh
+18815,Kahlil McKenzie,[u'DT'],KC
+18816,Josh Adams,[u'RB'],Phi
+18817,Akrum Wadley,[u'RB'],Ten
+18818,Blake Jarwin,[u'TE'],Dal
+18819,Byron Pringle,[u'WR'],KC
+18820,Allen Lazard,[u'WR'],Jax
+18821,Sam Beal,[u'CB'],NYG
+18822,Adonis Alexander,[u'CB'],Wsh
+18823,Phillip Lindsay,[u'RB'],Den
+18824,Eddy Pineiro,[u'K'],Oak
+18825,Roc Thomas,[u'RB'],Min
+18826,Riley McCarron,[u'WR'],NE
+18827,Chris Warren,[u'RB'],Oak
+18828,Shaun Wilson,[u'RB'],TB

@@ -4,7 +4,7 @@ import config as cfg
 
 url = 'https://spreadsheets.google.com/feeds/list/1nas3AqWZtCu_UZIV77Jgxd9oriF1NQjzSjFWW86eong/2/public/full?alt=json'
 r = requests.get(url)
-
+year = 2018
 j = r.json()
 
 df = pd.DataFrame()
@@ -30,7 +30,8 @@ df[['salary','end']] = df[['salary','end']].apply(pd.to_numeric)
 df.sort_values(['end', 'position'])
 print(df[(df.id == '15683')])
 print(df[(df.owner.str.contains('|'.join(['Sy']), na=False))])
-print(df[(df.owner.str.contains('|'.join(['Sy']), na=False)) & (df.end > 2016) & (df.end <= 2018)])
+print(df[(df.owner.str.contains('|'.join(['Sy']), na=False)) & (df.end >= year) & (df.end <= (year+1))])
+
 # .salary.sum())
 # print(len(j['feed']['entry']))
 # s = pd.merge(rookieDF, espnDF, how='left', on=['name'])
