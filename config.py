@@ -28,7 +28,7 @@ owners = ['Brett/Luke', 'John/Zach', 'Koci/Mueller', 'Patrick', 'Syed/Terence', 
 espn_to_rw = {'Jax': 'Jacksonville Jaguars', 'Min': 'Minnesota Vikings', 'Mia': 'Miami Dolphins', 'Chi': 'Chicago Bears', 'Oak': 'Oakland Raiders', 'NYJ': 'New York Jets', 'Hou': 'Houston Texans', 'NYG': 'New York Giants', 'Phi': 'Philadelphia Eagles', 'NO': 'New Orleans Saints', 'Dal': 'Dallas Cowboys', 'NE': 'New England Patriots', 'Cle': 'Cleveland Browns', 'Buf': 'Buffalo Bills', 'Wsh': 'Washington Redskins', 'Atl': 'Atlanta Falcons', 'Det': 'Detroit Lions', 'Cin': 'Cincinnati Bengals', 'GB': 'Green Bay Packers', 'Den': 'Denver Broncos', 'Bal': 'Baltimore Ravens', 'Car': 'Carolina Panthers', 'KC': 'Kansas City Chiefs', 'Ten': 'Tennessee Titans', 'TB': 'Tampa Bay Buccaneers', 'LAC': 'Los Angeles Chargers', 'Sea': 'Seattle Seahawks', 'Ind': 'Indianapolis Colts', 'Ari': 'Arizona Cardinals', 'Pit': 'Pittsburgh Steelers', 'SF': 'San Francisco 49ers', 'LAR': 'Los Angeles Rams'}
 
 rw_drop = {
-    'QB': 3,
+    'QB': 4,
     'RB': 5,
     'WR': 4,
     'TE': 3,
