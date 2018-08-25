@@ -1,7 +1,7 @@
 href,name_x,position_x,rank,team,id,position_y,end,name_y,owner,position,salary,start,status
 http://rotoworld.com/player/nfl/13045/josh-allen,Josh Allen,QB,1,Buf,18570.0,[u'QB'],,,,,,,Rookie
 http://rotoworld.com/player/nfl/12220/nathan-peterman,Nathan Peterman,QB,2,Buf,18252.0,[u'QB'],2019.0,Nathan Peterman,Schex,QB,4.0,2017,Own
-http://rotoworld.com/player/nfl/5168/lesean-mccoy,LeSean McCoy,RB,1,Buf,12514.0,[u'RB'],2017.0,LeSean McCoy,Patrick,RB,210.0,2017,Own
+http://rotoworld.com/player/nfl/5168/lesean-mccoy,LeSean McCoy,RB,1,Buf,12514.0,[u'RB'],2017.0,LeSean McCoy,Patrick,RB,210.0,2017,RFA
 http://rotoworld.com/player/nfl/6168/chris-ivory,Chris Ivory,RB,2,Buf,13587.0,[u'RB'],2019.0,Chris Ivory,Trevor,RB,2.0,2017,Own
 http://rotoworld.com/player/nfl/7758/travaris-cadet,Travaris Cadet,RB,3,Buf,15457.0,[u'RB'],2017.0,Travaris Cadet,,RB,,FA,FA
 http://rotoworld.com/player/nfl/10603/marcus-murphy,Marcus Murphy,RB,4,Buf,17486.0,[u'RB'],2017.0,Marcus Murphy,,RB,,FA,FA
@@ -13,45 +13,45 @@ http://rotoworld.com/player/nfl/11278/corey-coleman,Corey Coleman,WR2,2,Buf,1780
 http://rotoworld.com/player/nfl/12246/zay-jones,Zay Jones,WR2,3,Buf,18223.0,[u'WR'],2019.0,Zay Jones,Schex,WR,18.0,2017,Own
 http://rotoworld.com/player/nfl/11278/corey-coleman,Corey Coleman,WR3,1,Buf,17805.0,[u'WR'],2018.0,Corey Coleman,Schex,WR,17.0,2016,Own
 http://rotoworld.com/player/nfl/6681/charles-clay,Charles Clay,TE,1,Buf,14145.0,[u'TE'],2019.0,Charles Clay,Daniel,TE,1.0,2017,Own
-http://rotoworld.com/player/nfl/10568/nick-oleary,Nick O'Leary,TE,2,Buf,17604.0,[u'TE'],2017.0,Nick O'Leary,Daniel,TE,1.0,FA,Own
-http://rotoworld.com/player/nfl/5030/stephen-hauschka,Stephen Hauschka,K,1,Buf,11923.0,[u'K'],2017.0,Stephen Hauschka,James/Charles,K,1.0,FA,Own
+http://rotoworld.com/player/nfl/10568/nick-oleary,Nick O'Leary,TE,2,Buf,17604.0,[u'TE'],2017.0,Nick O'Leary,Daniel,TE,1.0,FA,RFA
+http://rotoworld.com/player/nfl/5030/stephen-hauschka,Stephen Hauschka,K,1,Buf,11923.0,[u'K'],2017.0,Stephen Hauschka,James/Charles,K,1.0,FA,RFA
 http://rotoworld.com/player/nfl/7417/ryan-tannehill,Ryan Tannehill,QB,1,Mia,14876.0,[u'QB'],2019.0,Ryan Tannehill,James/Charles,QB,12.0,2017,Own
 http://rotoworld.com/player/nfl/9359/david-fales,David Fales,QB,2,Mia,16821.0,[u'QB'],,,,,,,FA
 http://rotoworld.com/player/nfl/11263/kenyan-drake,Kenyan Drake,RB,1,Mia,17856.0,[u'RB'],2018.0,Kenyan Drake,Daniel,RB,4.0,2016,Own
-http://rotoworld.com/player/nfl/3205/frank-gore,Frank Gore,RB,2,Mia,8479.0,[u'RB'],2017.0,Frank Gore,Koci/Mueller,RB,50.0,2017,Own
+http://rotoworld.com/player/nfl/3205/frank-gore,Frank Gore,RB,2,Mia,8479.0,[u'RB'],2017.0,Frank Gore,Koci/Mueller,RB,50.0,2017,RFA
 http://rotoworld.com/player/nfl/13216/kalen-ballage,Kalen Ballage,RB,3,Mia,18690.0,[u'RB'],,,,,,,Rookie
 http://rotoworld.com/player/nfl/10151/senorise-perry,Senorise Perry,RB,4,Mia,17209.0,[u'RB'],,,,,,,FA
 http://rotoworld.com/player/nfl/8482/kenny-stills,Kenny Stills,WR1,1,Mia,16016.0,[u'WR'],2018.0,Kenny Stills,Daniel,WR,1.0,2016,Own
 http://rotoworld.com/player/nfl/4991/danny-amendola,Danny Amendola,WR1,2,Mia,11674.0,[u'WR'],2018.0,Danny Amendola,John/Zach,WR,5.0,2016,Own
 http://rotoworld.com/player/nfl/11277/leonte-carroo,Leonte Carroo,WR1,3,Mia,17865.0,[u'WR'],2017.0,Leonte Carroo,,WR,,FA,FA
-http://rotoworld.com/player/nfl/10415/devante-parker,DeVante Parker,WR2,1,Mia,17593.0,[u'WR'],2017.0,DeVante Parker,Brett/Luke,WR,9.0,2015,Own
+http://rotoworld.com/player/nfl/10415/devante-parker,DeVante Parker,WR2,1,Mia,17593.0,[u'WR'],2017.0,DeVante Parker,Brett/Luke,WR,9.0,2015,RFA
 http://rotoworld.com/player/nfl/9572/albert-wilson,Albert Wilson,WR2,2,Mia,17182.0,[u'WR'],,,,,,,FA
 http://rotoworld.com/player/nfl/11475/jakeem-grant,Jakeem Grant,WR2,3,Mia,17947.0,[u'WR'],,,,,,,FA
 http://rotoworld.com/player/nfl/4991/danny-amendola,Danny Amendola,WR3,1,Mia,11674.0,[u'WR'],2018.0,Danny Amendola,John/Zach,WR,5.0,2016,Own
 http://rotoworld.com/player/nfl/13104/mike-gesicki,Mike Gesicki,TE,1,Mia,18601.0,[u'TE'],,,,,,,Rookie
 http://rotoworld.com/player/nfl/8679/marqueis-gray,MarQueis Gray,TE,2,Mia,16323.0,[u'TE'],,,,,,,FA
 http://rotoworld.com/player/nfl/13326/jason-sanders,Jason Sanders,K,1,Mia,18787.0,[u'K'],,,,,,,Rookie
-http://rotoworld.com/player/nfl/1163/tom-brady,Tom Brady,QB,1,NE,2330.0,[u'QB'],2017.0,Tom Brady,Trevor,QB,235.0,2017,Own
-http://rotoworld.com/player/nfl/5463/brian-hoyer,Brian Hoyer,QB,2,NE,12477.0,[u'QB'],2017.0,Brian Hoyer,James/Charles,QB,10.0,2017,Own
+http://rotoworld.com/player/nfl/1163/tom-brady,Tom Brady,QB,1,NE,2330.0,[u'QB'],2017.0,Tom Brady,Trevor,QB,235.0,2017,RFA
+http://rotoworld.com/player/nfl/5463/brian-hoyer,Brian Hoyer,QB,2,NE,12477.0,[u'QB'],2017.0,Brian Hoyer,James/Charles,QB,10.0,2017,RFA
 http://rotoworld.com/player/nfl/9426/james-white,James White,RB,1,NE,16913.0,[u'RB'],2019.0,James White,Syed/Terence,RB,18.0,2017,OurOwn
-http://rotoworld.com/player/nfl/8466/rex-burkhead,Rex Burkhead,RB,2,NE,15971.0,[u'RB'],2017.0,Rex Burkhead,Schex,RB,15.0,FA,Own
+http://rotoworld.com/player/nfl/8466/rex-burkhead,Rex Burkhead,RB,2,NE,15971.0,[u'RB'],2017.0,Rex Burkhead,Schex,RB,15.0,FA,RFA
 http://rotoworld.com/player/nfl/13134/sony-michel,Sony Michel,RB,3,NE,18589.0,[u'RB'],,,,,,,Rookie
 http://rotoworld.com/player/nfl/9409/jeremy-hill,Jeremy Hill,RB,4,NE,16803.0,[u'RB'],2017.0,Jeremy Hill,,RB,,FA,FA
-http://rotoworld.com/player/nfl/5440/julian-edelman,Julian Edelman,WR1,1,NE,12649.0,[u'WR'],2017.0,Julian Edelman,Trevor,WR,55.0,2017,Own
-http://rotoworld.com/player/nfl/5819/eric-decker,Eric Decker,WR1,2,NE,13271.0,[u'WR'],2017.0,Eric Decker,Mitch,WR,4.0,FA,Own
+http://rotoworld.com/player/nfl/5440/julian-edelman,Julian Edelman,WR1,1,NE,12649.0,[u'WR'],2017.0,Julian Edelman,Trevor,WR,55.0,2017,RFA
+http://rotoworld.com/player/nfl/5819/eric-decker,Eric Decker,WR1,2,NE,13271.0,[u'WR'],2017.0,Eric Decker,Mitch,WR,4.0,FA,RFA
 http://rotoworld.com/player/nfl/10381/phillip-dorsett,Phillip Dorsett,WR1,3,NE,17643.0,[u'WR'],2017.0,Phillip Dorsett,,WR,,FA,FA
 http://rotoworld.com/player/nfl/6902/chris-hogan,Chris Hogan,WR2,1,NE,14402.0,[u'WR'],2019.0,Chris Hogan,Daniel,WR,8.0,2017,Own
-http://rotoworld.com/player/nfl/8327/cordarrelle-patterson,Cordarrelle Patterson,WR2,2,NE,15807.0,[u'WR'],2017.0,Cordarrelle Patterson,John/Zach,WR,1.0,FA,Own
+http://rotoworld.com/player/nfl/8327/cordarrelle-patterson,Cordarrelle Patterson,WR2,2,NE,15807.0,[u'WR'],2017.0,Cordarrelle Patterson,John/Zach,WR,1.0,FA,RFA
 http://rotoworld.com/player/nfl/12896/riley-mccarron,Riley McCarron,WR2,3,NE,18826.0,[u'WR'],,,,,,,FA
 http://rotoworld.com/player/nfl/5729/rob-gronkowski,Rob Gronkowski,TE,1,NE,13229.0,[u'TE'],2018.0,Rob Gronkowski,Daniel,TE,200.0,2016,Own
 http://rotoworld.com/player/nfl/7452/dwayne-allen,Dwayne Allen,TE,2,NE,14901.0,[u'TE'],2017.0,Dwayne Allen,,TE,,FA,FA
-http://rotoworld.com/player/nfl/3937/stephen-gostkowski,Stephen Gostkowski,K,1,NE,9704.0,[u'K'],2017.0,Stephen Gostkowski,Koci/Mueller,K,2.0,2015,Own
+http://rotoworld.com/player/nfl/3937/stephen-gostkowski,Stephen Gostkowski,K,1,NE,9704.0,[u'K'],2017.0,Stephen Gostkowski,Koci/Mueller,K,2.0,2015,RFA
 http://rotoworld.com/player/nfl/13058/sam-darnold,Sam Darnold,QB,1,NYJ,18566.0,[u'QB'],,,,,,,Rookie
 http://rotoworld.com/player/nfl/2090/josh-mccown,Josh McCown,QB,2,NYJ,3609.0,[u'QB'],2018.0,Josh McCown,Keyon,QB,1.0,2016,Own
-http://rotoworld.com/player/nfl/6594/bilal-powell,Bilal Powell,RB,1,NYJ,14129.0,[u'RB'],2017.0,Bilal Powell,Trevor,RB,15.0,2016,Own
-http://rotoworld.com/player/nfl/9401/isaiah-crowell,Isaiah Crowell,RB,2,NYJ,17133.0,[u'RB'],2017.0,Isaiah Crowell,Trevor,RB,90.0,2017,Own
-http://rotoworld.com/player/nfl/10420/thomas-rawls,Thomas Rawls,RB,3,NYJ,17739.0,[u'RB'],2017.0,Thomas Rawls,Brett/Luke,RB,185.0,2016,Own
-http://rotoworld.com/player/nfl/10006/charcandrick-west,Charcandrick West,RB,4,NYJ,17384.0,[u'RB'],2017.0,Charcandrick West,Mitch,RB,4.0,FA,Own
+http://rotoworld.com/player/nfl/6594/bilal-powell,Bilal Powell,RB,1,NYJ,14129.0,[u'RB'],2017.0,Bilal Powell,Trevor,RB,15.0,2016,RFA
+http://rotoworld.com/player/nfl/9401/isaiah-crowell,Isaiah Crowell,RB,2,NYJ,17133.0,[u'RB'],2017.0,Isaiah Crowell,Trevor,RB,90.0,2017,RFA
+http://rotoworld.com/player/nfl/10420/thomas-rawls,Thomas Rawls,RB,3,NYJ,17739.0,[u'RB'],2017.0,Thomas Rawls,Brett/Luke,RB,185.0,2016,RFA
+http://rotoworld.com/player/nfl/10006/charcandrick-west,Charcandrick West,RB,4,NYJ,17384.0,[u'RB'],2017.0,Charcandrick West,Mitch,RB,4.0,FA,RFA
 http://rotoworld.com/player/nfl/11627/robby-anderson,Robby Anderson,WR1,1,NYJ,18097.0,[u'WR'],2019.0,Robby Anderson,Syed/Terence,WR,2.0,2017,OurOwn
 http://rotoworld.com/player/nfl/12296/chad-hansen,Chad Hansen,WR1,2,NYJ,18170.0,[u'WR'],2017.0,Chad Hansen,,WR,,FA,FA
 http://rotoworld.com/player/nfl/6757/terrelle-pryor,Terrelle Pryor,WR1,3,NYJ,14851.0,[u'WR'],2017.0,Terrelle Pryor,,WR,,FA,FA
@@ -62,23 +62,23 @@ http://rotoworld.com/player/nfl/7727/jermaine-kearse,Jermaine Kearse,WR3,1,NYJ,1
 http://rotoworld.com/player/nfl/10471/clive-walford,Clive Walford,TE,1,NYJ,17475.0,[u'TE'],2017.0,Clive Walford,,TE,,FA,FA
 http://rotoworld.com/player/nfl/12307/jordan-leggett,Jordan Leggett,TE,2,NYJ,18232.0,[u'TE'],,,,,,,FA
 http://rotoworld.com/player/nfl/11586/taylor-bertolet,Taylor Bertolet,K,1,NYJ,,,,,,,,,FA
-http://rotoworld.com/player/nfl/4677/joe-flacco,Joe Flacco,QB,1,Bal,11252.0,[u'QB'],2017.0,Joe Flacco,Brett/Luke,QB,38.0,2017,Own
+http://rotoworld.com/player/nfl/4677/joe-flacco,Joe Flacco,QB,1,Bal,11252.0,[u'QB'],2017.0,Joe Flacco,Brett/Luke,QB,38.0,2017,RFA
 http://rotoworld.com/player/nfl/13059/lamar-jackson,Lamar Jackson,QB,2,Bal,18590.0,[u'QB'],,,,,,,Rookie
-http://rotoworld.com/player/nfl/11279/alex-collins,Alex Collins,RB,1,Bal,17933.0,[u'RB'],2017.0,Alex Collins,James/Charles,RB,30.0,FA,Own
-http://rotoworld.com/player/nfl/10314/javorius-allen,Javorius Allen,RB,2,Bal,17616.0,[u'RB'],2017.0,Javorius Allen,Mitch,RB,2.0,FA,Own
+http://rotoworld.com/player/nfl/11279/alex-collins,Alex Collins,RB,1,Bal,17933.0,[u'RB'],2017.0,Alex Collins,James/Charles,RB,30.0,FA,RFA
+http://rotoworld.com/player/nfl/10314/javorius-allen,Javorius Allen,RB,2,Bal,17616.0,[u'RB'],2017.0,Javorius Allen,Mitch,RB,2.0,FA,RFA
 http://rotoworld.com/player/nfl/11284/kenneth-dixon,Kenneth Dixon,RB,3,Bal,17906.0,[u'RB'],2017.0,Kenneth Dixon,,RB,,FA,FA
 http://rotoworld.com/player/nfl/13606/gus-edwards,Gus Edwards,RB,4,Bal,,,,,,,,,FA
-http://rotoworld.com/player/nfl/5135/michael-crabtree,Michael Crabtree,WR1,1,Bal,12563.0,[u'WR'],2017.0,Michael Crabtree,Trevor,WR,27.0,2016,Own
-http://rotoworld.com/player/nfl/9989/willie-snead,Willie Snead,WR1,2,Bal,17184.0,[u'WR'],2017.0,Willie Snead,Patrick,WR,1.0,FA,Own
+http://rotoworld.com/player/nfl/5135/michael-crabtree,Michael Crabtree,WR1,1,Bal,12563.0,[u'WR'],2017.0,Michael Crabtree,Trevor,WR,27.0,2016,RFA
+http://rotoworld.com/player/nfl/9989/willie-snead,Willie Snead,WR1,2,Bal,17184.0,[u'WR'],2017.0,Willie Snead,Patrick,WR,1.0,FA,RFA
 http://rotoworld.com/player/nfl/11429/chris-moore,Chris Moore,WR1,3,Bal,17883.0,[u'WR'],2017.0,Chris Moore,,WR,,FA,FA
 http://rotoworld.com/player/nfl/9649/john-brown,John Brown,WR2,1,Bal,16804.0,[u'WR'],2019.0,John Brown,James/Charles,WR,5.0,2017,Own
 http://rotoworld.com/player/nfl/10357/breshad-perriman,Breshad Perriman,WR2,2,Bal,17674.0,[u'WR'],2017.0,Breshad Perriman,,WR,,FA,FA
 http://rotoworld.com/player/nfl/12643/tim-white,Tim White,WR2,3,Bal,,,,,,,,,FA
-http://rotoworld.com/player/nfl/9989/willie-snead,Willie Snead,WR3,1,Bal,17184.0,[u'WR'],2017.0,Willie Snead,Patrick,WR,1.0,FA,Own
+http://rotoworld.com/player/nfl/9989/willie-snead,Willie Snead,WR3,1,Bal,17184.0,[u'WR'],2017.0,Willie Snead,Patrick,WR,1.0,FA,RFA
 http://rotoworld.com/player/nfl/13098/hayden-hurst,Hayden Hurst,TE,1,Bal,18583.0,[u'TE'],,,,,,,Rookie
 http://rotoworld.com/player/nfl/10547/nick-boyle,Nick Boyle,TE,2,Bal,17567.0,[u'TE'],,,,,,,FA
-http://rotoworld.com/player/nfl/8241/justin-tucker,Justin Tucker,K,1,Bal,15683.0,[u'K'],2017.0,Justin Tucker,Syed/Terence,K,3.0,2015,OurOwn
-http://rotoworld.com/player/nfl/6493/andy-dalton,Andy Dalton,QB,1,Cin,14012.0,[u'QB'],2017.0,Andy Dalton,Koci/Mueller,QB,68.0,2015,Own
+http://rotoworld.com/player/nfl/8241/justin-tucker,Justin Tucker,K,1,Bal,15683.0,[u'K'],2017.0,Justin Tucker,Syed/Terence,K,3.0,2015,OurRFA
+http://rotoworld.com/player/nfl/6493/andy-dalton,Andy Dalton,QB,1,Cin,14012.0,[u'QB'],2017.0,Andy Dalton,Koci/Mueller,QB,68.0,2015,RFA
 http://rotoworld.com/player/nfl/7421/matt-barkley,Matt Barkley,QB,2,Cin,15948.0,[u'QB'],2017.0,Matt Barkley,,QB,,FA,FA
 http://rotoworld.com/player/nfl/12147/joe-mixon,Joe Mixon,RB,1,Cin,18193.0,[u'RB'],2019.0,Joe Mixon,Mitch,RB,24.0,2017,Own
 http://rotoworld.com/player/nfl/8389/giovani-bernard,Giovani Bernard,RB,2,Cin,15826.0,[u'RB'],2019.0,Giovani Bernard,Mitch,RB,8.0,2017,Own
@@ -91,32 +91,32 @@ http://rotoworld.com/player/nfl/12173/john-ross,John Ross,WR2,1,Cin,18395.0,[u'W
 http://rotoworld.com/player/nfl/11271/tyler-boyd,Tyler Boyd,WR2,2,Cin,17840.0,[u'WR'],2017.0,Tyler Boyd,,WR,,FA,FA
 http://rotoworld.com/player/nfl/11614/alex-erickson,Alex Erickson,WR2,3,Cin,18058.0,[u'WR'],,,,,,,FA
 http://rotoworld.com/player/nfl/11271/tyler-boyd,Tyler Boyd,WR3,1,Cin,17840.0,[u'WR'],2017.0,Tyler Boyd,,WR,,FA,FA
-http://rotoworld.com/player/nfl/8408/tyler-eifert,Tyler Eifert,TE,1,Cin,15788.0,[u'TE'],2017.0,Tyler Eifert,Quinn,TE,50.0,FA,Own
-http://rotoworld.com/player/nfl/10490/tyler-kroft,Tyler Kroft,TE,2,Cin,17650.0,[u'TE'],2017.0,Tyler Kroft,James/Charles,TE,5.0,FA,Own
+http://rotoworld.com/player/nfl/8408/tyler-eifert,Tyler Eifert,TE,1,Cin,15788.0,[u'TE'],2017.0,Tyler Eifert,Quinn,TE,50.0,FA,RFA
+http://rotoworld.com/player/nfl/10490/tyler-kroft,Tyler Kroft,TE,2,Cin,17650.0,[u'TE'],2017.0,Tyler Kroft,James/Charles,TE,5.0,FA,RFA
 http://rotoworld.com/player/nfl/7610/randy-bullock,Randy Bullock,K,1,Cin,15091.0,[u'K'],,,,,,,FA
-http://rotoworld.com/player/nfl/6509/tyrod-taylor,Tyrod Taylor,QB,1,Cle,14163.0,[u'QB'],2017.0,Tyrod Taylor,Brett/Luke,QB,185.0,2016,Own
+http://rotoworld.com/player/nfl/6509/tyrod-taylor,Tyrod Taylor,QB,1,Cle,14163.0,[u'QB'],2017.0,Tyrod Taylor,Brett/Luke,QB,185.0,2016,RFA
 http://rotoworld.com/player/nfl/4179/drew-stanton,Drew Stanton,QB,2,Cle,10487.0,[u'QB'],2017.0,Drew Stanton,,QB,,FA,FA
 http://rotoworld.com/player/nfl/9381/carlos-hyde,Carlos Hyde,RB,1,Cle,16777.0,[u'RB'],2019.0,Carlos Hyde,James/Charles,RB,75.0,2017,Own
-http://rotoworld.com/player/nfl/10358/duke-johnson,Duke Johnson Jr.,RB,2,Cle,17658.0,[u'RB'],2017.0,Duke Johnson Jr.,Keyon,RB,14.0,2015,Own
+http://rotoworld.com/player/nfl/10358/duke-johnson,Duke Johnson Jr.,RB,2,Cle,17658.0,[u'RB'],2017.0,Duke Johnson Jr.,Keyon,RB,14.0,2015,RFA
 http://rotoworld.com/player/nfl/13161/nick-chubb,Nick Chubb,RB,3,Cle,18592.0,[u'RB'],,,,,,,Rookie
 http://rotoworld.com/player/nfl/12334/matt-dayes,Matthew Dayes,RB,4,Cle,18376.0,[u'RB'],,,,,,,FA
 http://rotoworld.com/player/nfl/9405/jarvis-landry,Jarvis Landry,WR1,1,Cle,16790.0,[u'WR'],2019.0,Jarvis Landry,Daniel,WR,60.0,2017,Own
 http://rotoworld.com/player/nfl/11384/rashard-higgins,Rashard Higgins,WR1,2,Cle,17934.0,[u'WR'],2017.0,Rashard Higgins,,WR,,FA,FA
 http://rotoworld.com/player/nfl/12644/cj-board,C.J. Board,WR1,3,Cle,,,,,,,,,FA
-http://rotoworld.com/player/nfl/8282/josh-gordon,Josh Gordon,WR2,1,Cle,15705.0,[u'WR'],2017.0,Josh Gordon,Schex,WR,2.0,FA,Own
+http://rotoworld.com/player/nfl/8282/josh-gordon,Josh Gordon,WR2,1,Cle,15705.0,[u'WR'],2017.0,Josh Gordon,Schex,WR,2.0,FA,RFA
 http://rotoworld.com/player/nfl/13108/antonio-callaway,Antonio Callaway,WR2,2,Cle,18664.0,[u'WR'],,,,,,,Rookie
 http://rotoworld.com/player/nfl/9719/jeff-janis,Jeff Janis,WR2,3,Cle,17137.0,[u'WR'],,,,,,,FA
 http://rotoworld.com/player/nfl/11384/rashard-higgins,Rashard Higgins,WR3,1,Cle,17934.0,[u'WR'],2017.0,Rashard Higgins,,WR,,FA,FA
 http://rotoworld.com/player/nfl/12186/david-njoku,David Njoku,TE,1,Cle,18303.0,[u'TE'],2019.0,David Njoku,Keyon,TE,9.0,2017,Own
 http://rotoworld.com/player/nfl/8472/darren-fells,Darren Fells,TE,2,Cle,17187.0,[u'TE'],,,,,,,FA
 http://rotoworld.com/player/nfl/12425/zane-gonzalez,Zane Gonzalez,K,1,Cle,18327.0,[u'K'],,,,,,,FA
-http://rotoworld.com/player/nfl/1181/ben-roethlisberger,Ben Roethlisberger,QB,1,Pit,5536.0,[u'QB'],2017.0,Ben Roethlisberger,Brett/Luke,QB,80.0,2017,Own
+http://rotoworld.com/player/nfl/1181/ben-roethlisberger,Ben Roethlisberger,QB,1,Pit,5536.0,[u'QB'],2017.0,Ben Roethlisberger,Brett/Luke,QB,80.0,2017,RFA
 http://rotoworld.com/player/nfl/7446/landry-jones,Landry Jones,QB,2,Pit,15904.0,[u'QB'],2017.0,Landry Jones,,QB,,FA,FA
-http://rotoworld.com/player/nfl/8390/leveon-bell,Le'Veon Bell,RB,1,Pit,15825.0,[u'RB'],2017.0,Le'Veon Bell,Daniel,RB,330.0,2017,Own
+http://rotoworld.com/player/nfl/8390/leveon-bell,Le'Veon Bell,RB,1,Pit,15825.0,[u'RB'],2017.0,Le'Veon Bell,Daniel,RB,330.0,2017,RFA
 http://rotoworld.com/player/nfl/12317/james-conner,James Conner,RB,2,Pit,18236.0,[u'RB'],2019.0,James Conner,Daniel,RB,6.0,2017,Own
 http://rotoworld.com/player/nfl/10209/fitzgerald-toussaint,Fitzgerald Toussaint,RB,3,Pit,17342.0,[u'RB'],,,,,,,FA
 http://rotoworld.com/player/nfl/6487/stevan-ridley,Stevan Ridley,RB,4,Pit,14028.0,[u'RB'],2017.0,Stevan Ridley,,RB,,FA,FA
-http://rotoworld.com/player/nfl/5698/antonio-brown,Antonio Brown,WR1,1,Pit,13934.0,[u'WR'],2017.0,Antonio Brown,Patrick,WR,350.0,2017,Own
+http://rotoworld.com/player/nfl/5698/antonio-brown,Antonio Brown,WR1,1,Pit,13934.0,[u'WR'],2017.0,Antonio Brown,Patrick,WR,350.0,2017,RFA
 http://rotoworld.com/player/nfl/13153/james-washington,James Washington,WR1,2,Pit,18619.0,[u'WR'],,,,,,,Rookie
 http://rotoworld.com/player/nfl/5093/darrius-heyward-bey,Darrius Heyward-Bey,WR1,3,Pit,12570.0,[u'WR'],,,,,,,FA
 http://rotoworld.com/player/nfl/12184/juju-smith-schuster,JuJu Smith-Schuster,WR2,1,Pit,18306.0,[u'WR'],2019.0,JuJu Smith-Schuster,Daniel,WR,9.0,2017,Own
@@ -125,7 +125,7 @@ http://rotoworld.com/player/nfl/8415/justin-hunter,Justin Hunter,WR2,3,Pit,15845
 http://rotoworld.com/player/nfl/13153/james-washington,James Washington,WR3,1,Pit,18619.0,[u'WR'],,,,,,,Rookie
 http://rotoworld.com/player/nfl/8413/vance-mcdonald,Vance McDonald,TE,1,Pit,15853.0,[u'TE'],2017.0,Vance McDonald,,TE,,FA,FA
 http://rotoworld.com/player/nfl/10403/jesse-james,Jesse James,TE,2,Pit,17690.0,[u'TE'],2017.0,Jesse James,,TE,,FA,FA
-http://rotoworld.com/player/nfl/10118/chris-boswell,Chris Boswell,K,1,Pit,17175.0,[u'K'],2017.0,Chris Boswell,John/Zach,K,1.0,FA,Own
+http://rotoworld.com/player/nfl/10118/chris-boswell,Chris Boswell,K,1,Pit,17175.0,[u'K'],2017.0,Chris Boswell,John/Zach,K,1.0,FA,RFA
 http://rotoworld.com/player/nfl/12151/deshaun-watson,Deshaun Watson,QB,1,Hou,18246.0,[u'QB'],2019.0,Deshaun Watson,Brett/Luke,QB,31.0,2017,Own
 http://rotoworld.com/player/nfl/7480/brandon-weeden,Brandon Weeden,QB,2,Hou,14878.0,[u'QB'],,,,,,,FA
 http://rotoworld.com/player/nfl/7408/lamar-miller,Lamar Miller,RB,1,Hou,14886.0,[u'RB'],2017.0,Lamar Miller,,RB,,FA,FA
@@ -140,43 +140,43 @@ http://rotoworld.com/player/nfl/13205/keke-coutee,Keke Coutee,WR2,2,Hou,18662.0,
 http://rotoworld.com/player/nfl/12944/chris-thompson,Chris Thompson,WR2,3,Hou,18526.0,[u'WR'],,,,,,,FA
 http://rotoworld.com/player/nfl/11261/braxton-miller,Braxton Miller,WR3,1,Hou,17864.0,[u'WR'],2018.0,Braxton Miller,Brett/Luke,WR,5.0,2016,Own
 http://rotoworld.com/player/nfl/8600/ryan-griffin,Ryan Griffin,TE,1,Hou,15887.0,[u'TE'],2017.0,Ryan Griffin,,TE,,FA,FA
-http://rotoworld.com/player/nfl/11556/stephen-anderson,Stephen Anderson,TE,2,Hou,18027.0,[u'TE'],2017.0,Stephen Anderson,Keyon,TE,4.0,FA,Own
+http://rotoworld.com/player/nfl/11556/stephen-anderson,Stephen Anderson,TE,2,Hou,18027.0,[u'TE'],2017.0,Stephen Anderson,Keyon,TE,4.0,FA,RFA
 http://rotoworld.com/player/nfl/11602/kaimi-fairbairn,Ka'imi Fairbairn,K,1,Hou,18454.0,[u'K'],,,,,,,FA
-http://rotoworld.com/player/nfl/6439/andrew-luck,Andrew Luck,QB,1,Ind,14874.0,[u'QB'],2017.0,Andrew Luck,Syed/Terence,QB,1.0,FA,OurOwn
+http://rotoworld.com/player/nfl/6439/andrew-luck,Andrew Luck,QB,1,Ind,14874.0,[u'QB'],2017.0,Andrew Luck,Syed/Terence,QB,1.0,FA,OurRFA
 http://rotoworld.com/player/nfl/11341/jacoby-brissett,Jacoby Brissett,QB,2,Ind,17870.0,[u'QB'],2018.0,Jacoby Brissett,Daniel,QB,2.0,2016,Own
 http://rotoworld.com/player/nfl/12308/marlon-mack,Marlon Mack,RB,1,Ind,18211.0,[u'RB'],2019.0,Marlon Mack,Koci/Mueller,RB,12.0,2017,Own
 http://rotoworld.com/player/nfl/8469/christine-michael,Christine Michael,RB,2,Ind,15855.0,[u'RB'],2017.0,Christine Michael,,RB,,FA,FA
 http://rotoworld.com/player/nfl/13209/nyheim-hines,Nyheim Hines,RB,3,Ind,18663.0,[u'RB'],,,,,,,Rookie
 http://rotoworld.com/player/nfl/13276/jordan-wilkins,Jordan Wilkins,RB,4,Ind,18728.0,[u'RB'],,,,,,,Rookie
-http://rotoworld.com/player/nfl/7558/ty-hilton,T.Y. Hilton,WR1,1,Ind,14924.0,[u'WR'],2017.0,T.Y. Hilton,Daniel,WR,135.0,2015,Own
+http://rotoworld.com/player/nfl/7558/ty-hilton,T.Y. Hilton,WR1,1,Ind,14924.0,[u'WR'],2017.0,T.Y. Hilton,Daniel,WR,135.0,2015,RFA
 http://rotoworld.com/player/nfl/12001/kj-brent,K.J. Brent,WR1,2,Ind,,,,,,,,,FA
 http://rotoworld.com/player/nfl/9721/james-wright,James Wright,WR1,3,Ind,17193.0,[u'WR'],,,,,,,FA
-http://rotoworld.com/player/nfl/9666/ryan-grant,Ryan Grant,WR2,1,Ind,17179.0,[u'WR'],2017.0,Ryan Grant,Patrick,WR,1.0,FA,Own
-http://rotoworld.com/player/nfl/11753/chester-rogers,Chester Rogers,WR2,2,Ind,18089.0,[u'WR'],2017.0,Chester Rogers,Koci/Mueller,WR,5.0,FA,Own
+http://rotoworld.com/player/nfl/9666/ryan-grant,Ryan Grant,WR2,1,Ind,17179.0,[u'WR'],2017.0,Ryan Grant,Patrick,WR,1.0,FA,RFA
+http://rotoworld.com/player/nfl/11753/chester-rogers,Chester Rogers,WR2,2,Ind,18089.0,[u'WR'],2017.0,Chester Rogers,Koci/Mueller,WR,5.0,FA,RFA
 http://rotoworld.com/player/nfl/13222/daurice-fountain,Daurice Fountain,WR2,3,Ind,18718.0,[u'WR'],,,,,,,Rookie
-http://rotoworld.com/player/nfl/11753/chester-rogers,Chester Rogers,WR3,1,Ind,18089.0,[u'WR'],2017.0,Chester Rogers,Koci/Mueller,WR,5.0,FA,Own
+http://rotoworld.com/player/nfl/11753/chester-rogers,Chester Rogers,WR3,1,Ind,18089.0,[u'WR'],2017.0,Chester Rogers,Koci/Mueller,WR,5.0,FA,RFA
 http://rotoworld.com/player/nfl/9075/jack-doyle,Jack Doyle,TE,1,Ind,16504.0,[u'TE'],2019.0,Jack Doyle,James/Charles,TE,2.0,2017,Own
 http://rotoworld.com/player/nfl/9390/eric-ebron,Eric Ebron,TE,2,Ind,16732.0,[u'TE'],2019.0,Eric Ebron,James/Charles,TE,18.0,2017,Own
-http://rotoworld.com/player/nfl/1152/adam-vinatieri,Adam Vinatieri,K,1,Ind,1097.0,[u'K'],2017.0,Adam Vinatieri,Daniel,K,1.0,2017,Own
+http://rotoworld.com/player/nfl/1152/adam-vinatieri,Adam Vinatieri,K,1,Ind,1097.0,[u'K'],2017.0,Adam Vinatieri,Daniel,K,1.0,2017,RFA
 http://rotoworld.com/player/nfl/9320/blake-bortles,Blake Bortles,QB,1,Jax,16724.0,[u'QB'],2019.0,Blake Bortles,Quinn,QB,17.0,2017,Own
 http://rotoworld.com/player/nfl/11305/cody-kessler,Cody Kessler,QB,2,Jax,17872.0,[u'QB'],2017.0,Cody Kessler,,QB,,FA,FA
 http://rotoworld.com/player/nfl/12132/leonard-fournette,Leonard Fournette,RB,1,Jax,18218.0,[u'RB'],2019.0,Leonard Fournette,Mitch,RB,24.0,2017,Own
-http://rotoworld.com/player/nfl/10311/tj-yeldon,T.J. Yeldon,RB,2,Jax,17678.0,[u'RB'],2017.0,T.J. Yeldon,Mitch,RB,4.0,FA,Own
+http://rotoworld.com/player/nfl/10311/tj-yeldon,T.J. Yeldon,RB,2,Jax,17678.0,[u'RB'],2017.0,T.J. Yeldon,Mitch,RB,4.0,FA,RFA
 http://rotoworld.com/player/nfl/10678/corey-grant,Corey Grant,RB,3,Jax,17752.0,[u'RB'],,,,,,,FA
 http://rotoworld.com/player/nfl/11682/brandon-wilds,Brandon Wilds,RB,4,Jax,18032.0,[u'RB'],,,,,,,FA
 http://rotoworld.com/player/nfl/9402/marqise-lee,Marqise Lee,WR1,1,Jax,16787.0,[u'WR'],2019.0,Marqise Lee,Keyon,WR,13.0,2017,Own
-http://rotoworld.com/player/nfl/12539/keelan-cole,Keelan Cole,WR1,2,Jax,18466.0,[u'WR'],2017.0,Keelan Cole,Syed/Terence,WR,4.0,FA,OurOwn
+http://rotoworld.com/player/nfl/12539/keelan-cole,Keelan Cole,WR1,2,Jax,18466.0,[u'WR'],2017.0,Keelan Cole,Syed/Terence,WR,4.0,FA,OurRFA
 http://rotoworld.com/player/nfl/13096/dj-chark,D.J. Chark,WR1,3,Jax,18620.0,[u'WR'],,,,,,,Rookie
 http://rotoworld.com/player/nfl/12331/dede-westbrook,Dede Westbrook,WR2,1,Jax,18302.0,[u'WR'],2019.0,Dede Westbrook,Keyon,WR,5.0,2017,Own
 http://rotoworld.com/player/nfl/9427/donte-moncrief,Donte Moncrief,WR2,2,Jax,16791.0,[u'WR'],2017.0,Donte Moncrief,,WR,,FA,FA
 http://rotoworld.com/player/nfl/12026/jaydon-mickens,Jaydon Mickens,WR2,3,Jax,18547.0,[u'WR'],,,,,,,FA
-http://rotoworld.com/player/nfl/12539/keelan-cole,Keelan Cole,WR3,1,Jax,18466.0,[u'WR'],2017.0,Keelan Cole,Syed/Terence,WR,4.0,FA,OurOwn
+http://rotoworld.com/player/nfl/12539/keelan-cole,Keelan Cole,WR3,1,Jax,18466.0,[u'WR'],2017.0,Keelan Cole,Syed/Terence,WR,4.0,FA,OurRFA
 http://rotoworld.com/player/nfl/9400/austin-seferian-jenkins,Austin Seferian-Jenkins,TE,1,Jax,16795.0,[u'TE'],2019.0,Austin Seferian-Jenkins,Patrick,TE,7.0,2017,Own
 http://rotoworld.com/player/nfl/6661/niles-paul,Niles Paul,TE,2,Jax,14156.0,[u'TE'],,,,,,,FA
 http://rotoworld.com/player/nfl/10708/josh-lambo,Josh Lambo,K,1,Jax,17746.0,[u'K'],2017.0,Josh Lambo,,K,,FA,FA
-http://rotoworld.com/player/nfl/9385/marcus-mariota,Marcus Mariota,QB,1,Ten,17610.0,[u'QB'],2017.0,Marcus Mariota,Trevor,QB,24.0,2015,Own
-http://rotoworld.com/player/nfl/6451/blaine-gabbert,Blaine Gabbert,QB,2,Ten,13987.0,[u'QB'],2017.0,Blaine Gabbert,John/Zach,QB,1.0,FA,Own
-http://rotoworld.com/player/nfl/6483/dion-lewis,Dion Lewis,RB,1,Ten,14198.0,[u'RB'],2017.0,Dion Lewis,Schex,RB,1.0,FA,Own
+http://rotoworld.com/player/nfl/9385/marcus-mariota,Marcus Mariota,QB,1,Ten,17610.0,[u'QB'],2017.0,Marcus Mariota,Trevor,QB,24.0,2015,RFA
+http://rotoworld.com/player/nfl/6451/blaine-gabbert,Blaine Gabbert,QB,2,Ten,13987.0,[u'QB'],2017.0,Blaine Gabbert,John/Zach,QB,1.0,FA,RFA
+http://rotoworld.com/player/nfl/6483/dion-lewis,Dion Lewis,RB,1,Ten,14198.0,[u'RB'],2017.0,Dion Lewis,Schex,RB,1.0,FA,RFA
 http://rotoworld.com/player/nfl/11238/derrick-henry,Derrick Henry,RB,2,Ten,17832.0,[u'RB'],2018.0,Derrick Henry,James/Charles,RB,25.0,2016,Own
 http://rotoworld.com/player/nfl/9616/david-fluellen,David Fluellen,RB,3,Ten,18461.0,[u'RB'],,,,,,,FA
 http://rotoworld.com/player/nfl/13214/akrum-wadley,Akrum Wadley,RB,4,Ten,18817.0,[u'RB'],,,,,,,FA
@@ -187,12 +187,12 @@ http://rotoworld.com/player/nfl/7667/rishard-matthews,Rishard Matthews,WR2,1,Ten
 http://rotoworld.com/player/nfl/12203/taywan-taylor,Taywan Taylor,WR2,2,Ten,18224.0,[u'WR'],2019.0,Taywan Taylor,Keyon,WR,5.0,2017,Own
 http://rotoworld.com/player/nfl/9594/michael-campanaro,Michael Campanaro,WR2,3,Ten,17148.0,[u'WR'],,,,,,,FA
 http://rotoworld.com/player/nfl/12203/taywan-taylor,Taywan Taylor,WR3,1,Ten,18224.0,[u'WR'],2019.0,Taywan Taylor,Keyon,WR,5.0,2017,Own
-http://rotoworld.com/player/nfl/3976/delanie-walker,Delanie Walker,TE,1,Ten,9761.0,[u'TE'],2017.0,Delanie Walker,Keyon,TE,18.0,2017,Own
+http://rotoworld.com/player/nfl/3976/delanie-walker,Delanie Walker,TE,1,Ten,9761.0,[u'TE'],2017.0,Delanie Walker,Keyon,TE,18.0,2017,RFA
 http://rotoworld.com/player/nfl/12344/jonnu-smith,Jonnu Smith,TE,2,Ten,18183.0,[u'TE'],2019.0,Jonnu Smith,Keyon,TE,2.0,2017,Own
 http://rotoworld.com/player/nfl/5461/ryan-succop,Ryan Succop,K,1,Ten,12731.0,[u'K'],2017.0,Ryan Succop,,K,,FA,FA
-http://rotoworld.com/player/nfl/7696/case-keenum,Case Keenum,QB,1,Den,15168.0,[u'QB'],2017.0,Case Keenum,Schex,QB,1.0,FA,Own
+http://rotoworld.com/player/nfl/7696/case-keenum,Case Keenum,QB,1,Den,15168.0,[u'QB'],2017.0,Case Keenum,Schex,QB,1.0,FA,RFA
 http://rotoworld.com/player/nfl/12217/chad-kelly,Chad Kelly,QB,2,Den,18205.0,[u'QB'],,,,,,,FA
-http://rotoworld.com/player/nfl/11270/devontae-booker,Devontae Booker,RB,1,Den,17908.0,[u'RB'],2017.0,Devontae Booker,Mitch,RB,2.0,2017,Own
+http://rotoworld.com/player/nfl/11270/devontae-booker,Devontae Booker,RB,1,Den,17908.0,[u'RB'],2017.0,Devontae Booker,Mitch,RB,2.0,2017,RFA
 http://rotoworld.com/player/nfl/13172/royce-freeman,Royce Freeman,RB,2,Den,18630.0,[u'RB'],,,,,,,Rookie
 http://rotoworld.com/player/nfl/13357/phillip-lindsay,Phillip Lindsay,RB,3,Den,18823.0,[u'RB'],,,,,,,FA
 http://rotoworld.com/player/nfl/12405/deangelo-henderson,De'Angelo Henderson,RB,4,Den,18181.0,[u'RB'],2017.0,De'Angelo Henderson,,RB,,FA,FA
@@ -207,12 +207,12 @@ http://rotoworld.com/player/nfl/12254/jake-butt,Jake Butt,TE,1,Den,18242.0,[u'TE
 http://rotoworld.com/player/nfl/12057/austin-traylor,Austin Traylor,TE,2,Den,18540.0,[u'TE'],,,,,,,FA
 http://rotoworld.com/player/nfl/8912/brandon-mcmanus,Brandon McManus,K,1,Den,17171.0,[u'K'],2018.0,Brandon McManus,Trevor,K,2.0,2016,Own
 http://rotoworld.com/player/nfl/12142/patrick-mahomes,Patrick Mahomes,QB,1,KC,18210.0,[u'QB'],2019.0,Patrick Mahomes II,Keyon,QB,31.0,2017,Own
-http://rotoworld.com/player/nfl/4684/chad-henne,Chad Henne,QB,2,KC,11291.0,[u'QB'],2017.0,Chad Henne,John/Zach,QB,1.0,FA,Own
+http://rotoworld.com/player/nfl/4684/chad-henne,Chad Henne,QB,2,KC,11291.0,[u'QB'],2017.0,Chad Henne,John/Zach,QB,1.0,FA,RFA
 http://rotoworld.com/player/nfl/12295/kareem-hunt,Kareem Hunt,RB,1,KC,18225.0,[u'RB'],2019.0,Kareem Hunt,Keyon,RB,24.0,2017,Own
-http://rotoworld.com/player/nfl/8594/spencer-ware,Spencer Ware,RB,2,KC,16020.0,[u'RB'],2017.0,Spencer Ware,Quinn,RB,50.0,FA,Own
-http://rotoworld.com/player/nfl/9570/damien-williams,Damien Williams,RB,3,KC,17138.0,[u'RB'],2017.0,Damien Williams,Quinn,RB,1.0,FA,Own
-http://rotoworld.com/player/nfl/8486/kerwynn-williams,Kerwynn Williams,RB,4,KC,16024.0,[u'RB'],2017.0,Kerwynn Williams,John/Zach,RB,5.0,FA,Own
-http://rotoworld.com/player/nfl/11458/tyreek-hill,Tyreek Hill,WR1,1,KC,17929.0,[u'WR'],2017.0,Tyreek Hill,Keyon,WR,118.0,2017,Own
+http://rotoworld.com/player/nfl/8594/spencer-ware,Spencer Ware,RB,2,KC,16020.0,[u'RB'],2017.0,Spencer Ware,Quinn,RB,50.0,FA,RFA
+http://rotoworld.com/player/nfl/9570/damien-williams,Damien Williams,RB,3,KC,17138.0,[u'RB'],2017.0,Damien Williams,Quinn,RB,1.0,FA,RFA
+http://rotoworld.com/player/nfl/8486/kerwynn-williams,Kerwynn Williams,RB,4,KC,16024.0,[u'RB'],2017.0,Kerwynn Williams,John/Zach,RB,5.0,FA,RFA
+http://rotoworld.com/player/nfl/11458/tyreek-hill,Tyreek Hill,WR1,1,KC,17929.0,[u'WR'],2017.0,Tyreek Hill,Keyon,WR,118.0,2017,RFA
 http://rotoworld.com/player/nfl/10432/chris-conley,Chris Conley,WR1,2,KC,17638.0,[u'WR'],2017.0,Chris Conley,,WR,,FA,FA
 http://rotoworld.com/player/nfl/9410/deanthony-thomas,De'Anthony Thomas,WR1,3,KC,16945.0,[u'WR'],2017.0,De'Anthony Thomas,,WR,,FA,FA
 http://rotoworld.com/player/nfl/9388/sammy-watkins,Sammy Watkins,WR2,1,KC,16725.0,[u'WR'],2019.0,Sammy Watkins,John/Zach,WR,55.0,2017,Own
@@ -221,64 +221,64 @@ http://rotoworld.com/player/nfl/12362/jehu-chesson,Jehu Chesson,WR2,3,KC,18202.0
 http://rotoworld.com/player/nfl/10432/chris-conley,Chris Conley,WR3,1,KC,17638.0,[u'WR'],2017.0,Chris Conley,,WR,,FA,FA
 http://rotoworld.com/player/nfl/8411/travis-kelce,Travis Kelce,TE,1,KC,15847.0,[u'TE'],2018.0,Travis Kelce,Mitch,TE,30.0,2016,Own
 http://rotoworld.com/player/nfl/8683/demetrius-harris,Demetrius Harris,TE,2,KC,17189.0,[u'TE'],,,,,,,FA
-http://rotoworld.com/player/nfl/12433/harrison-butker,Harrison Butker,K,1,KC,18409.0,[u'K'],2017.0,Harrison Butker,Brett/Luke,K,1.0,FA,Own
-http://rotoworld.com/player/nfl/1813/philip-rivers,Philip Rivers,QB,1,LAC,5529.0,[u'QB'],2017.0,Philip Rivers,Schex,QB,165.0,2016,Own
+http://rotoworld.com/player/nfl/12433/harrison-butker,Harrison Butker,K,1,KC,18409.0,[u'K'],2017.0,Harrison Butker,Brett/Luke,K,1.0,FA,RFA
+http://rotoworld.com/player/nfl/1813/philip-rivers,Philip Rivers,QB,1,LAC,5529.0,[u'QB'],2017.0,Philip Rivers,Schex,QB,165.0,2016,RFA
 http://rotoworld.com/player/nfl/8326/geno-smith,Geno Smith,QB,2,LAC,15864.0,[u'QB'],2017.0,Geno Smith,,QB,,FA,FA
-http://rotoworld.com/player/nfl/10284/melvin-gordon,Melvin Gordon,RB,1,LAC,17586.0,[u'RB'],2017.0,Melvin Gordon,Patrick,RB,27.0,2015,Own
-http://rotoworld.com/player/nfl/12563/austin-ekeler,Austin Ekeler,RB,2,LAC,18458.0,[u'RB'],2017.0,Austin Ekeler,Koci/Mueller,RB,40.0,FA,Own
+http://rotoworld.com/player/nfl/10284/melvin-gordon,Melvin Gordon,RB,1,LAC,17586.0,[u'RB'],2017.0,Melvin Gordon,Patrick,RB,27.0,2015,RFA
+http://rotoworld.com/player/nfl/12563/austin-ekeler,Austin Ekeler,RB,2,LAC,18458.0,[u'RB'],2017.0,Austin Ekeler,Koci/Mueller,RB,40.0,FA,RFA
 http://rotoworld.com/player/nfl/13350/justin-jackson,Justin Jackson,RB,3,LAC,18809.0,[u'RB'],,,,,,,Rookie
 http://rotoworld.com/player/nfl/13816/detrez-newsome,Detrez Newsome,RB,4,LAC,,,,,,,,,FA
-http://rotoworld.com/player/nfl/8379/keenan-allen,Keenan Allen,WR1,1,LAC,15818.0,[u'WR'],2017.0,Keenan Allen,Patrick,WR,110.0,2016,Own
+http://rotoworld.com/player/nfl/8379/keenan-allen,Keenan Allen,WR1,1,LAC,15818.0,[u'WR'],2017.0,Keenan Allen,Patrick,WR,110.0,2016,RFA
 http://rotoworld.com/player/nfl/7562/travis-benjamin,Travis Benjamin,WR1,2,LAC,15062.0,[u'WR'],2017.0,Travis Benjamin,,WR,,FA,FA
 http://rotoworld.com/player/nfl/12471/artavis-scott,Artavis Scott,WR1,3,LAC,,,,,,,,,FA
 http://rotoworld.com/player/nfl/10694/tyrell-williams,Tyrell Williams,WR2,1,LAC,17762.0,[u'WR'],2019.0,Tyrell Williams,Syed/Terence,WR,13.0,2017,OurOwn
 http://rotoworld.com/player/nfl/12183/mike-williams,Mike Williams,WR2,2,LAC,18235.0,[u'WR'],2019.0,Mike Williams (LAC),Mitch,WR,9.0,2017,Own
 http://rotoworld.com/player/nfl/10561/geremy-davis,Geremy Davis,WR2,3,LAC,17478.0,[u'WR'],,,,,,,FA
 http://rotoworld.com/player/nfl/7562/travis-benjamin,Travis Benjamin,WR3,1,LAC,15062.0,[u'WR'],2017.0,Travis Benjamin,,WR,,FA,FA
-http://rotoworld.com/player/nfl/6570/virgil-green,Virgil Green,TE,1,LAC,14085.0,[u'TE'],2017.0,Virgil Green,Brett/Luke,TE,1.0,2016,Own
+http://rotoworld.com/player/nfl/6570/virgil-green,Virgil Green,TE,1,LAC,14085.0,[u'TE'],2017.0,Virgil Green,Brett/Luke,TE,1.0,2016,RFA
 http://rotoworld.com/player/nfl/11674/braedon-bowman,Braedon Bowman,TE,2,LAC,18081.0,[u'TE'],,,,,,,FA
 http://rotoworld.com/player/nfl/8573/caleb-sturgis,Caleb Sturgis,K,1,LAC,15918.0,[u'K'],2017.0,Caleb Sturgis,,K,,FA,FA
 http://rotoworld.com/player/nfl/9349/derek-carr,Derek Carr,QB,1,Oak,16757.0,[u'QB'],2019.0,Derek Carr,James/Charles,QB,150.0,2017,Own
 http://rotoworld.com/player/nfl/11280/connor-cook,Connor Cook,QB,2,Oak,17877.0,[u'QB'],2017.0,Connor Cook,,QB,,FA,FA
-http://rotoworld.com/player/nfl/4186/marshawn-lynch,Marshawn Lynch,RB,1,Oak,10456.0,[u'RB'],2017.0,Marshawn Lynch,Mitch,RB,160.0,2017,Own
+http://rotoworld.com/player/nfl/4186/marshawn-lynch,Marshawn Lynch,RB,1,Oak,10456.0,[u'RB'],2017.0,Marshawn Lynch,Mitch,RB,160.0,2017,RFA
 http://rotoworld.com/player/nfl/7426/doug-martin,Doug Martin,RB,2,Oak,14885.0,[u'RB'],2017.0,Doug Martin,,RB,,FA,FA
 http://rotoworld.com/player/nfl/12049/jalen-richard,Jalen Richard,RB,3,Oak,18079.0,[u'RB'],2019.0,Jalen Richard,James/Charles,RB,1.0,2017,Own
 http://rotoworld.com/player/nfl/11446/deandre-washington,DeAndre Washington,RB,4,Oak,17915.0,[u'RB'],2017.0,DeAndre Washington,,RB,,FA,FA
-http://rotoworld.com/player/nfl/10310/amari-cooper,Amari Cooper,WR1,1,Oak,17677.0,[u'WR'],2017.0,Amari Cooper,Syed/Terence,WR,17.0,2015,OurOwn
+http://rotoworld.com/player/nfl/10310/amari-cooper,Amari Cooper,WR1,1,Oak,17677.0,[u'WR'],2017.0,Amari Cooper,Syed/Terence,WR,17.0,2015,OurRFA
 http://rotoworld.com/player/nfl/12288/ryan-switzer,Ryan Switzer,WR1,2,Oak,18287.0,[u'WR'],2019.0,Ryan Switzer,Quinn,WR,5.0,2017,Own
 http://rotoworld.com/player/nfl/7949/griff-whalen,Griff Whalen,WR1,3,Oak,15360.0,[u'WR'],,,,,,,FA
-http://rotoworld.com/player/nfl/4731/jordy-nelson,Jordy Nelson,WR2,1,Oak,11270.0,[u'WR'],2017.0,Jordy Nelson,Schex,WR,110.0,2015,Own
+http://rotoworld.com/player/nfl/4731/jordy-nelson,Jordy Nelson,WR2,1,Oak,11270.0,[u'WR'],2017.0,Jordy Nelson,Schex,WR,110.0,2015,RFA
 http://rotoworld.com/player/nfl/9416/martavis-bryant,Martavis Bryant,WR2,2,Oak,16886.0,[u'WR'],2018.0,Martavis Bryant,Patrick,WR,1.0,2016,Own
 http://rotoworld.com/player/nfl/11576/johnny-holton,Johnny Holton,WR2,3,Oak,18091.0,[u'WR'],,,,,,,FA
 http://rotoworld.com/player/nfl/9416/martavis-bryant,Martavis Bryant,WR3,1,Oak,16886.0,[u'WR'],2018.0,Martavis Bryant,Patrick,WR,1.0,2016,Own
-http://rotoworld.com/player/nfl/5165/jared-cook,Jared Cook,TE,1,Oak,12537.0,[u'TE'],2017.0,Jared Cook,Brett/Luke,TE,1.0,FA,Own
+http://rotoworld.com/player/nfl/5165/jared-cook,Jared Cook,TE,1,Oak,12537.0,[u'TE'],2017.0,Jared Cook,Brett/Luke,TE,1.0,FA,RFA
 http://rotoworld.com/player/nfl/6665/lee-smith,Lee Smith,TE,2,Oak,14215.0,[u'TE'],,,,,,,FA
 http://rotoworld.com/player/nfl/13655/eddy-pineiro,Eddy Pineiro,K,1,Oak,18824.0,[u'K'],,,,,,,FA
 http://rotoworld.com/player/nfl/11318/dak-prescott,Dak Prescott,QB,1,Dal,17907.0,[u'QB'],2018.0,Dak Prescott,Syed/Terence,QB,16.0,2016,OurOwn
 http://rotoworld.com/player/nfl/12475/cooper-rush,Cooper Rush,QB,2,Dal,18459.0,[u'QB'],,,,,,,FA
 http://rotoworld.com/player/nfl/11265/ezekiel-elliott,Ezekiel Elliott,RB,1,Dal,17797.0,[u'RB'],2018.0,Ezekiel Elliott,Syed/Terence,RB,25.0,2016,OurOwn
-http://rotoworld.com/player/nfl/10784/rod-smith,Rod Smith,RB,2,Dal,17781.0,[u'RB'],2017.0,Rod Smith,Syed/Terence,RB,1.0,FA,OurOwn
+http://rotoworld.com/player/nfl/10784/rod-smith,Rod Smith,RB,2,Dal,17781.0,[u'RB'],2017.0,Rod Smith,Syed/Terence,RB,1.0,FA,OurRFA
 http://rotoworld.com/player/nfl/13217/bo-scarbrough,Bo Scarbrough,RB,3,Dal,18794.0,[u'RB'],,,,,,,Rookie
 http://rotoworld.com/player/nfl/11500/darius-jackson,Darius Jackson,RB,4,Dal,17972.0,[u'RB'],,,,,,,FA
-http://rotoworld.com/player/nfl/8401/terrance-williams,Terrance Williams,WR1,1,Dal,15878.0,[u'WR'],2017.0,Terrance Williams,Quinn,WR,47.0,FA,Own
+http://rotoworld.com/player/nfl/8401/terrance-williams,Terrance Williams,WR1,1,Dal,15878.0,[u'WR'],2017.0,Terrance Williams,Quinn,WR,47.0,FA,RFA
 http://rotoworld.com/player/nfl/13149/michael-gallup,Michael Gallup,WR1,2,Dal,18640.0,[u'WR'],,,,,,,Rookie
 http://rotoworld.com/player/nfl/8175/deonte-thompson,Deonte Thompson,WR1,3,Dal,15503.0,[u'WR'],2017.0,Deonte Thompson,,WR,,FA,FA
-http://rotoworld.com/player/nfl/9867/allen-hurns,Allen Hurns,WR2,1,Dal,17163.0,[u'WR'],2017.0,Allen Hurns,Koci/Mueller,WR,1.0,2015,Own
+http://rotoworld.com/player/nfl/9867/allen-hurns,Allen Hurns,WR2,1,Dal,17163.0,[u'WR'],2017.0,Allen Hurns,Koci/Mueller,WR,1.0,2015,RFA
 http://rotoworld.com/player/nfl/7794/cole-beasley,Cole Beasley,WR2,2,Dal,15349.0,[u'WR'],2018.0,Cole Beasley,Quinn,WR,1.0,2016,Own
 http://rotoworld.com/player/nfl/8402/tavon-austin,Tavon Austin,WR2,3,Dal,15786.0,[u'RB'],2017.0,Tavon Austin,,RB,,FA,FA
 http://rotoworld.com/player/nfl/7794/cole-beasley,Cole Beasley,WR3,1,Dal,15349.0,[u'WR'],2018.0,Cole Beasley,Quinn,WR,1.0,2016,Own
 http://rotoworld.com/player/nfl/12507/blake-jarwin,Blake Jarwin,TE,1,Dal,18818.0,[u'TE'],,,,,,,FA
 http://rotoworld.com/player/nfl/10617/geoff-swaim,Geoff Swaim,TE,2,Dal,17713.0,[u'TE'],,,,,,,FA
 http://rotoworld.com/player/nfl/7144/dan-bailey,Dan Bailey,K,1,Dal,14322.0,[u'K'],2017.0,Dan Bailey,,K,,FA,FA
-http://rotoworld.com/player/nfl/1657/eli-manning,Eli Manning,QB,1,NYG,5526.0,[u'QB'],2017.0,Eli Manning,Trevor,QB,75.0,2017,Own
+http://rotoworld.com/player/nfl/1657/eli-manning,Eli Manning,QB,1,NYG,5526.0,[u'QB'],2017.0,Eli Manning,Trevor,QB,75.0,2017,RFA
 http://rotoworld.com/player/nfl/12208/davis-webb,Davis Webb,QB,2,NYG,18401.0,[u'QB'],2019.0,Davis Webb,Quinn,QB,1.0,2017,Own
 http://rotoworld.com/player/nfl/13048/saquon-barkley,Saquon Barkley,RB,1,NYG,18567.0,[u'RB'],,,,,,,Rookie
-http://rotoworld.com/player/nfl/4650/jonathan-stewart,Jonathan Stewart,RB,2,NYG,11247.0,[u'RB'],2017.0,Jonathan Stewart,Mitch,RB,50.0,2017,Own
+http://rotoworld.com/player/nfl/4650/jonathan-stewart,Jonathan Stewart,RB,2,NYG,11247.0,[u'RB'],2017.0,Jonathan Stewart,Mitch,RB,50.0,2017,RFA
 http://rotoworld.com/player/nfl/12309/wayne-gallman,Wayne Gallman,RB,3,NYG,18233.0,[u'RB'],2019.0,Wayne Gallman,James/Charles,RB,2.0,2017,Own
 http://rotoworld.com/player/nfl/12042/jalen-simmons,Jalen Simmons,RB,4,NYG,,,,,,,,,FA
-http://rotoworld.com/player/nfl/9403/odell-beckham,Odell Beckham Jr.,WR1,1,NYG,16733.0,[u'WR'],2017.0,Odell Beckham Jr.,Schex,WR,315.0,2017,Own
+http://rotoworld.com/player/nfl/9403/odell-beckham,Odell Beckham Jr.,WR1,1,NYG,16733.0,[u'WR'],2017.0,Odell Beckham Jr.,Schex,WR,315.0,2017,RFA
 http://rotoworld.com/player/nfl/9535/cody-latimer,Cody Latimer,WR1,2,NYG,16793.0,[u'WR'],2017.0,Cody Latimer,,WR,,FA,FA
-http://rotoworld.com/player/nfl/12486/travis-rudolph,Travis Rudolph,WR1,3,NYG,18525.0,[u'WR'],2017.0,Travis Rudolph,John/Zach,WR,3.0,FA,Own
+http://rotoworld.com/player/nfl/12486/travis-rudolph,Travis Rudolph,WR1,3,NYG,18525.0,[u'WR'],2017.0,Travis Rudolph,John/Zach,WR,3.0,FA,RFA
 http://rotoworld.com/player/nfl/11326/sterling-shepard,Sterling Shepard,WR2,1,NYG,17827.0,[u'WR'],2018.0,Sterling Shepard,Mitch,WR,17.0,2016,Own
 http://rotoworld.com/player/nfl/11532/roger-lewis,Roger Lewis,WR2,2,NYG,18047.0,[u'WR'],2017.0,Roger Lewis,,WR,,FA,FA
 http://rotoworld.com/player/nfl/7459/russell-shepard,Russell Shepard,WR2,3,NYG,16227.0,[u'WR'],,,,,,,FA
@@ -287,42 +287,42 @@ http://rotoworld.com/player/nfl/12205/evan-engram,Evan Engram,TE,1,NYG,18382.0,[
 http://rotoworld.com/player/nfl/7580/rhett-ellison,Rhett Ellison,TE,2,NYG,15003.0,[u'TE'],,,,,,,FA
 http://rotoworld.com/player/nfl/11998/aldrick-rosas,Aldrick Rosas,K,1,NYG,18165.0,[u'K'],,,,,,,FA
 http://rotoworld.com/player/nfl/11257/carson-wentz,Carson Wentz,QB,1,Phi,17795.0,[u'QB'],2018.0,Carson Wentz,Daniel,QB,8.0,2016,Own
-http://rotoworld.com/player/nfl/7475/nick-foles,Nick Foles,QB,2,Phi,14877.0,[u'QB'],2017.0,Nick Foles,Syed/Terence,QB,4.0,FA,OurOwn
-http://rotoworld.com/player/nfl/10361/jay-ajayi,Jay Ajayi,RB,1,Phi,17556.0,[u'RB'],2017.0,Jay Ajayi,Schex,RB,7.0,2015,Own
-http://rotoworld.com/player/nfl/12159/corey-clement,Corey Clement,RB,2,Phi,18425.0,[u'RB'],2017.0,Corey Clement,Syed/Terence,RB,1.0,FA,OurOwn
-http://rotoworld.com/player/nfl/3221/darren-sproles,Darren Sproles,RB,3,Phi,8544.0,[u'RB'],2017.0,Darren Sproles,Trevor,RB,18.0,2017,Own
+http://rotoworld.com/player/nfl/7475/nick-foles,Nick Foles,QB,2,Phi,14877.0,[u'QB'],2017.0,Nick Foles,Syed/Terence,QB,4.0,FA,OurRFA
+http://rotoworld.com/player/nfl/10361/jay-ajayi,Jay Ajayi,RB,1,Phi,17556.0,[u'RB'],2017.0,Jay Ajayi,Schex,RB,7.0,2015,RFA
+http://rotoworld.com/player/nfl/12159/corey-clement,Corey Clement,RB,2,Phi,18425.0,[u'RB'],2017.0,Corey Clement,Syed/Terence,RB,1.0,FA,OurRFA
+http://rotoworld.com/player/nfl/3221/darren-sproles,Darren Sproles,RB,3,Phi,8544.0,[u'RB'],2017.0,Darren Sproles,Trevor,RB,18.0,2017,RFA
 http://rotoworld.com/player/nfl/11451/wendell-smallwood,Wendell Smallwood,RB,4,Phi,17921.0,[u'RB'],2017.0,Wendell Smallwood,,RB,,FA,FA
 http://rotoworld.com/player/nfl/7441/alshon-jeffery,Alshon Jeffery,WR1,1,Phi,14912.0,[u'WR'],2019.0,Alshon Jeffery,Koci/Mueller,WR,90.0,2017,Own
 http://rotoworld.com/player/nfl/12349/mack-hollins,Mack Hollins,WR1,2,Phi,18350.0,[u'WR'],2019.0,Mack Hollins,Patrick,WR,3.0,2017,Own
 http://rotoworld.com/player/nfl/8406/markus-wheaton,Markus Wheaton,WR1,3,Phi,15873.0,[u'WR'],2017.0,Markus Wheaton,,WR,,FA,FA
-http://rotoworld.com/player/nfl/10360/nelson-agholor,Nelson Agholor,WR2,1,Phi,17668.0,[u'WR'],2017.0,Nelson Agholor,Brett/Luke,WR,17.0,2015,Own
-http://rotoworld.com/player/nfl/5329/mike-wallace,Mike Wallace,WR2,2,Phi,12601.0,[u'WR'],2017.0,Mike Wallace,Quinn,WR,30.0,2015,Own
+http://rotoworld.com/player/nfl/10360/nelson-agholor,Nelson Agholor,WR2,1,Phi,17668.0,[u'WR'],2017.0,Nelson Agholor,Brett/Luke,WR,17.0,2015,RFA
+http://rotoworld.com/player/nfl/5329/mike-wallace,Mike Wallace,WR2,2,Phi,12601.0,[u'WR'],2017.0,Mike Wallace,Quinn,WR,30.0,2015,RFA
 http://rotoworld.com/player/nfl/12313/shelton-gibson,Shelton Gibson,WR2,3,Phi,18300.0,[u'WR'],,,,,,,FA
-http://rotoworld.com/player/nfl/5329/mike-wallace,Mike Wallace,WR3,1,Phi,12601.0,[u'WR'],2017.0,Mike Wallace,Quinn,WR,30.0,2015,Own
+http://rotoworld.com/player/nfl/5329/mike-wallace,Mike Wallace,WR3,1,Phi,12601.0,[u'WR'],2017.0,Mike Wallace,Quinn,WR,30.0,2015,RFA
 http://rotoworld.com/player/nfl/8409/zach-ertz,Zach Ertz,TE,1,Phi,15835.0,[u'TE'],2019.0,Zach Ertz,Koci/Mueller,TE,18.0,2017,Own
 http://rotoworld.com/player/nfl/13151/dallas-goedert,Dallas Goedert,TE,2,Phi,18608.0,[u'TE'],,,,,,,Rookie
-http://rotoworld.com/player/nfl/12367/jake-elliott,Jake Elliott,K,1,Phi,18178.0,[u'K'],2017.0,Jake Elliott,Keyon,K,1.0,FA,Own
-http://rotoworld.com/player/nfl/3119/alex-smith,Alex Smith,QB,1,Wsh,8416.0,[u'QB'],2017.0,Alex Smith,Quinn,QB,32.0,2017,Own
+http://rotoworld.com/player/nfl/12367/jake-elliott,Jake Elliott,K,1,Phi,18178.0,[u'K'],2017.0,Jake Elliott,Keyon,K,1.0,FA,RFA
+http://rotoworld.com/player/nfl/3119/alex-smith,Alex Smith,QB,1,Wsh,8416.0,[u'QB'],2017.0,Alex Smith,Quinn,QB,32.0,2017,RFA
 http://rotoworld.com/player/nfl/5699/colt-mccoy,Colt McCoy,QB,2,Wsh,13199.0,[u'QB'],2017.0,Colt McCoy,,QB,,FA,FA
 http://rotoworld.com/player/nfl/8563/chris-thompson,Chris Thompson,RB,1,Wsh,15966.0,[u'RB'],2018.0,Chris Thompson,Koci/Mueller,RB,5.0,2016,Own
-http://rotoworld.com/player/nfl/4169/adrian-peterson,Adrian Peterson,RB,2,Wsh,10452.0,[u'RB'],2017.0,Adrian Peterson,Trevor,RB,40.0,2017,Own
-http://rotoworld.com/player/nfl/11834/rob-kelley,Rob Kelley,RB,3,Wsh,18078.0,[u'RB'],2017.0,Rob Kelley,Quinn,RB,38.0,2017,Own
+http://rotoworld.com/player/nfl/4169/adrian-peterson,Adrian Peterson,RB,2,Wsh,10452.0,[u'RB'],2017.0,Adrian Peterson,Trevor,RB,40.0,2017,RFA
+http://rotoworld.com/player/nfl/11834/rob-kelley,Rob Kelley,RB,3,Wsh,18078.0,[u'RB'],2017.0,Rob Kelley,Quinn,RB,38.0,2017,RFA
 http://rotoworld.com/player/nfl/12255/samaje-perine,Samaje Perine,RB,4,Wsh,18194.0,[u'RB'],2019.0,Samaje Perine,Quinn,RB,12.0,2017,Own
-http://rotoworld.com/player/nfl/10373/jamison-crowder,Jamison Crowder,WR1,1,Wsh,17600.0,[u'WR'],2017.0,Jamison Crowder,Schex,WR,1.0,2015,Own
+http://rotoworld.com/player/nfl/10373/jamison-crowder,Jamison Crowder,WR1,1,Wsh,17600.0,[u'WR'],2017.0,Jamison Crowder,Schex,WR,1.0,2015,RFA
 http://rotoworld.com/player/nfl/7477/brian-quick,Brian Quick,WR1,2,Wsh,14914.0,[u'WR'],2017.0,Brian Quick,,WR,,FA,FA
 http://rotoworld.com/player/nfl/13213/trey-quinn,Trey Quinn,WR1,3,Wsh,18814.0,[u'WR'],,,,,,,Rookie
-http://rotoworld.com/player/nfl/9545/paul-richardson,Paul Richardson,WR2,1,Wsh,16781.0,[u'WR'],2017.0,Paul Richardson,Quinn,WR,3.0,FA,Own
+http://rotoworld.com/player/nfl/9545/paul-richardson,Paul Richardson,WR2,1,Wsh,16781.0,[u'WR'],2017.0,Paul Richardson,Quinn,WR,3.0,FA,RFA
 http://rotoworld.com/player/nfl/11289/josh-doctson,Josh Doctson,WR2,2,Wsh,17810.0,[u'WR'],2018.0,Josh Doctson,Mitch,WR,17.0,2016,Own
 http://rotoworld.com/player/nfl/11788/maurice-harris,Maurice Harris,WR2,3,Wsh,18451.0,[u'WR'],,,,,,,FA
 http://rotoworld.com/player/nfl/11289/josh-doctson,Josh Doctson,WR3,1,Wsh,17810.0,[u'WR'],2018.0,Josh Doctson,Mitch,WR,17.0,2016,Own
 http://rotoworld.com/player/nfl/8412/jordan-reed,Jordan Reed,TE,1,Wsh,15860.0,[u'TE'],2019.0,Jordan Reed,Schex,TE,40.0,2017,Own
-http://rotoworld.com/player/nfl/3638/vernon-davis,Vernon Davis,TE,2,Wsh,9592.0,[u'TE'],2017.0,Vernon Davis,Schex,TE,1.0,FA,Own
+http://rotoworld.com/player/nfl/3638/vernon-davis,Vernon Davis,TE,2,Wsh,9592.0,[u'TE'],2017.0,Vernon Davis,Schex,TE,1.0,FA,RFA
 http://rotoworld.com/player/nfl/8581/dustin-hopkins,Dustin Hopkins,K,1,Wsh,15965.0,[u'K'],2017.0,Dustin Hopkins,,K,,FA,FA
 http://rotoworld.com/player/nfl/12135/mitchell-trubisky,Mitchell Trubisky,QB,1,Chi,18168.0,[u'QB'],2019.0,Mitchell Trubisky,Koci/Mueller,QB,31.0,2017,Own
 http://rotoworld.com/player/nfl/5170/chase-daniel,Chase Daniel,QB,2,Chi,12471.0,[u'QB'],2017.0,Chase Daniel,,QB,,FA,FA
 http://rotoworld.com/player/nfl/11339/jordan-howard,Jordan Howard,RB,1,Chi,17919.0,[u'RB'],2018.0,Jordan Howard,Keyon,RB,7.0,2016,Own
 http://rotoworld.com/player/nfl/12322/tarik-cohen,Tarik Cohen,RB,2,Chi,18171.0,[u'RB'],2019.0,Tarik Cohen,Syed/Terence,RB,3.0,2017,OurOwn
-http://rotoworld.com/player/nfl/8953/benny-cunningham,Benny Cunningham,RB,3,Chi,16055.0,[u'RB'],2017.0,Benjamin Cunningham,John/Zach,RB,1.0,2015,Own
+http://rotoworld.com/player/nfl/8953/benny-cunningham,Benny Cunningham,RB,3,Chi,16055.0,[u'RB'],2017.0,Benjamin Cunningham,John/Zach,RB,1.0,2015,RFA
 http://rotoworld.com/player/nfl/12647/taquan-mizzell,Taquan Mizzell,RB,4,Chi,18468.0,[u'RB'],,,,,,,FA
 http://rotoworld.com/player/nfl/9297/allen-robinson,Allen Robinson,WR1,1,Chi,16799.0,[u'WR'],2019.0,Allen Robinson,James/Charles,WR,75.0,2017,Own
 http://rotoworld.com/player/nfl/7841/josh-bellamy,Joshua Bellamy,WR1,2,Chi,15555.0,[u'WR'],,,,,,,FA
@@ -337,10 +337,10 @@ http://rotoworld.com/player/nfl/9893/cody-parkey,Cody Parkey,K,1,Chi,17173.0,[u'
 http://rotoworld.com/player/nfl/5132/matthew-stafford,Matthew Stafford,QB,1,Det,12483.0,[u'QB'],2018.0,Matthew Stafford,Patrick,QB,75.0,2016,Own
 http://rotoworld.com/player/nfl/3237/matt-cassel,Matt Cassel,QB,2,Det,8644.0,[u'QB'],,,,,,,FA
 http://rotoworld.com/player/nfl/13156/kerryon-johnson,Kerryon Johnson,RB,1,Det,18602.0,[u'RB'],,,,,,,Rookie
-http://rotoworld.com/player/nfl/8485/theo-riddick,Theo Riddick,RB,2,Det,15994.0,[u'RB'],2017.0,Theo Riddick,Koci/Mueller,RB,1.0,2015,Own
-http://rotoworld.com/player/nfl/5854/legarrette-blount,LeGarrette Blount,RB,3,Det,13213.0,[u'RB'],2017.0,LeGarrette Blount,Koci/Mueller,RB,25.0,2017,Own
-http://rotoworld.com/player/nfl/10338/ameer-abdullah,Ameer Abdullah,RB,4,Det,17580.0,[u'RB'],2017.0,Ameer Abdullah,Quinn,RB,27.0,2015,Own
-http://rotoworld.com/player/nfl/7503/marvin-jones,Marvin Jones Jr.,WR1,1,Det,15072.0,[u'WR'],2017.0,Marvin Jones Jr.,Schex,WR,6.0,2017,Own
+http://rotoworld.com/player/nfl/8485/theo-riddick,Theo Riddick,RB,2,Det,15994.0,[u'RB'],2017.0,Theo Riddick,Koci/Mueller,RB,1.0,2015,RFA
+http://rotoworld.com/player/nfl/5854/legarrette-blount,LeGarrette Blount,RB,3,Det,13213.0,[u'RB'],2017.0,LeGarrette Blount,Koci/Mueller,RB,25.0,2017,RFA
+http://rotoworld.com/player/nfl/10338/ameer-abdullah,Ameer Abdullah,RB,4,Det,17580.0,[u'RB'],2017.0,Ameer Abdullah,Quinn,RB,27.0,2015,RFA
+http://rotoworld.com/player/nfl/7503/marvin-jones,Marvin Jones Jr.,WR1,1,Det,15072.0,[u'WR'],2017.0,Marvin Jones Jr.,Schex,WR,6.0,2017,RFA
 http://rotoworld.com/player/nfl/12340/kenny-golladay,Kenny Golladay,WR1,2,Det,18345.0,[u'WR'],2019.0,Kenny Golladay,Schex,WR,9.0,2017,Own
 http://rotoworld.com/player/nfl/13364/teo-redding,Teo Redding,WR1,3,Det,,,,,,,,,FA
 http://rotoworld.com/player/nfl/5583/golden-tate,Golden Tate,WR2,1,Det,13217.0,[u'WR'],2018.0,Golden Tate,Keyon,WR,45.0,2016,Own
@@ -349,9 +349,9 @@ http://rotoworld.com/player/nfl/11888/jace-billingsley,Jace Billingsley,WR2,3,De
 http://rotoworld.com/player/nfl/12340/kenny-golladay,Kenny Golladay,WR3,1,Det,18345.0,[u'WR'],2019.0,Kenny Golladay,Schex,WR,9.0,2017,Own
 http://rotoworld.com/player/nfl/8567/luke-willson,Luke Willson,TE,1,Det,16121.0,[u'TE'],,,,,,,FA
 http://rotoworld.com/player/nfl/12354/michael-roberts,Michael Roberts,TE,2,Det,18227.0,[u'TE'],,,,,,,FA
-http://rotoworld.com/player/nfl/4502/matt-prater,Matt Prater,K,1,Det,11122.0,[u'K'],2017.0,Matt Prater,Quinn,K,1.0,FA,Own
+http://rotoworld.com/player/nfl/4502/matt-prater,Matt Prater,K,1,Det,11122.0,[u'K'],2017.0,Matt Prater,Quinn,K,1.0,FA,RFA
 http://rotoworld.com/player/nfl/3118/aaron-rodgers,Aaron Rodgers,QB,1,GB,8439.0,[u'QB'],2018.0,Aaron Rodgers,Syed/Terence,QB,270.0,2016,OurOwn
-http://rotoworld.com/player/nfl/10402/brett-hundley,Brett Hundley,QB,2,GB,17613.0,[u'QB'],2017.0,Brett Hundley,Mitch,QB,62.0,FA,Own
+http://rotoworld.com/player/nfl/10402/brett-hundley,Brett Hundley,QB,2,GB,17613.0,[u'QB'],2017.0,Brett Hundley,Mitch,QB,62.0,FA,RFA
 http://rotoworld.com/player/nfl/12298/jamaal-williams,Jamaal Williams,RB,1,GB,18362.0,[u'RB'],2019.0,Jamaal Williams,Daniel,RB,12.0,2017,Own
 http://rotoworld.com/player/nfl/10413/ty-montgomery,Ty Montgomery,RB,2,GB,17611.0,[u'RB'],2017.0,Ty Montgomery,,RB,,FA,FA
 http://rotoworld.com/player/nfl/12388/aaron-jones,Aaron Jones,RB,3,GB,18314.0,[u'RB'],2019.0,Aaron Jones,Schex,RB,2.0,2017,Own
@@ -366,55 +366,55 @@ http://rotoworld.com/player/nfl/11550/geronimo-allison,Geronimo Allison,WR3,1,GB
 http://rotoworld.com/player/nfl/5842/jimmy-graham,Jimmy Graham,TE,1,GB,13232.0,[u'TE'],2018.0,Jimmy Graham,Syed/Terence,TE,26.0,2016,OurOwn
 http://rotoworld.com/player/nfl/3615/marcedes-lewis,Marcedes Lewis,TE,2,GB,9614.0,[u'TE'],,,,,,,FA
 http://rotoworld.com/player/nfl/4182/mason-crosby,Mason Crosby,K,1,GB,10636.0,[u'K'],2017.0,Mason Crosby,,K,,FA,FA
-http://rotoworld.com/player/nfl/7486/kirk-cousins,Kirk Cousins,QB,1,Min,14880.0,[u'QB'],2017.0,Kirk Cousins,Patrick,QB,35.0,2015,Own
+http://rotoworld.com/player/nfl/7486/kirk-cousins,Kirk Cousins,QB,1,Min,14880.0,[u'QB'],2017.0,Kirk Cousins,Patrick,QB,35.0,2015,RFA
 http://rotoworld.com/player/nfl/10622/trevor-siemian,Trevor Siemian,QB,2,Min,17455.0,[u'QB'],2017.0,Trevor Siemian,,QB,,FA,FA
 http://rotoworld.com/player/nfl/12138/dalvin-cook,Dalvin Cook,RB,1,Min,18260.0,[u'RB'],2019.0,Dalvin Cook,Patrick,RB,24.0,2017,Own
 http://rotoworld.com/player/nfl/8585/latavius-murray,Latavius Murray,RB,2,Min,15920.0,[u'RB'],2019.0,Latavius Murray,Syed/Terence,RB,6.0,2017,OurOwn
 http://rotoworld.com/player/nfl/13438/mike-boone,Mike Boone,RB,3,Min,,,,,,,,,FA
 http://rotoworld.com/player/nfl/13417/roc-thomas,Roc Thomas,RB,4,Min,18825.0,[u'RB'],,,,,,,FA
 http://rotoworld.com/player/nfl/9054/adam-thielen,Adam Thielen,WR1,1,Min,17178.0,[u'WR'],2019.0,Adam Thielen,Koci/Mueller,WR,7.0,2017,Own
-http://rotoworld.com/player/nfl/7425/kendall-wright,Kendall Wright,WR1,2,Min,14909.0,[u'WR'],2017.0,Kendall Wright,Mitch,WR,1.0,2017,Own
+http://rotoworld.com/player/nfl/7425/kendall-wright,Kendall Wright,WR1,2,Min,14909.0,[u'WR'],2017.0,Kendall Wright,Mitch,WR,1.0,2017,RFA
 http://rotoworld.com/player/nfl/8569/tavarres-king,Tavarres King,WR1,3,Min,15911.0,[u'WR'],2017.0,Tavarres King,,WR,,FA,FA
-http://rotoworld.com/player/nfl/10380/stefon-diggs,Stefon Diggs,WR2,1,Min,17676.0,[u'WR'],2017.0,Stefon Diggs,Brett/Luke,WR,3.0,2015,Own
+http://rotoworld.com/player/nfl/10380/stefon-diggs,Stefon Diggs,WR2,1,Min,17676.0,[u'WR'],2017.0,Stefon Diggs,Brett/Luke,WR,3.0,2015,RFA
 http://rotoworld.com/player/nfl/11210/laquon-treadwell,Laquon Treadwell,WR2,2,Min,17811.0,[u'WR'],2017.0,Laquon Treadwell,,WR,,FA,FA
 http://rotoworld.com/player/nfl/12420/stacy-coley,Stacy Coley,WR2,3,Min,18387.0,[u'WR'],,,,,,,FA
 http://rotoworld.com/player/nfl/11210/laquon-treadwell,Laquon Treadwell,WR3,1,Min,17811.0,[u'WR'],2017.0,Laquon Treadwell,,WR,,FA,FA
 http://rotoworld.com/player/nfl/6459/kyle-rudolph,Kyle Rudolph,TE,1,Min,14054.0,[u'TE'],2018.0,Kyle Rudolph,Trevor,TE,20.0,2017,Own
 http://rotoworld.com/player/nfl/11477/david-morgan,David Morgan,TE,2,Min,17949.0,[u'TE'],,,,,,,FA
 http://rotoworld.com/player/nfl/13275/daniel-carlson,Daniel Carlson,K,1,Min,18726.0,[u'K'],,,,,,,Rookie
-http://rotoworld.com/player/nfl/4637/matt-ryan,Matt Ryan,QB,1,Atl,11237.0,[u'QB'],2017.0,Matt Ryan,Syed/Terence,QB,110.0,2015,OurOwn
+http://rotoworld.com/player/nfl/4637/matt-ryan,Matt Ryan,QB,1,Atl,11237.0,[u'QB'],2017.0,Matt Ryan,Syed/Terence,QB,110.0,2015,OurRFA
 http://rotoworld.com/player/nfl/16/matt-schaub,Matt Schaub,QB,2,Atl,5615.0,[u'QB'],,,,,,,FA
-http://rotoworld.com/player/nfl/9423/devonta-freeman,Devonta Freeman,RB,1,Atl,16944.0,[u'RB'],2017.0,Devonta Freeman,Koci/Mueller,RB,240.0,2017,Own
-http://rotoworld.com/player/nfl/10359/tevin-coleman,Tevin Coleman,RB,2,Atl,17689.0,[u'RB'],2017.0,Tevin Coleman,Syed/Terence,RB,27.0,2015,OurOwn
+http://rotoworld.com/player/nfl/9423/devonta-freeman,Devonta Freeman,RB,1,Atl,16944.0,[u'RB'],2017.0,Devonta Freeman,Koci/Mueller,RB,240.0,2017,RFA
+http://rotoworld.com/player/nfl/10359/tevin-coleman,Tevin Coleman,RB,2,Atl,17689.0,[u'RB'],2017.0,Tevin Coleman,Syed/Terence,RB,27.0,2015,OurRFA
 http://rotoworld.com/player/nfl/13252/ito-smith,Ito Smith,RB,3,Atl,18685.0,[u'RB'],,,,,,,Rookie
 http://rotoworld.com/player/nfl/10666/terrence-magee,Terrence Magee,RB,4,Atl,17737.0,[u'RB'],,,,,,,FA
-http://rotoworld.com/player/nfl/6475/julio-jones,Julio Jones,WR1,1,Atl,13982.0,[u'WR'],2017.0,Julio Jones,Koci/Mueller,WR,265.0,2017,Own
+http://rotoworld.com/player/nfl/6475/julio-jones,Julio Jones,WR1,1,Atl,13982.0,[u'WR'],2017.0,Julio Jones,Koci/Mueller,WR,265.0,2017,RFA
 http://rotoworld.com/player/nfl/13137/calvin-ridley,Calvin Ridley,WR1,2,Atl,18584.0,[u'WR'],,,,,,,Rookie
 http://rotoworld.com/player/nfl/13295/russell-gage,Russell Gage,WR1,3,Atl,18753.0,[u'WR'],,,,,,,Rookie
-http://rotoworld.com/player/nfl/7433/mohamed-sanu,Mohamed Sanu,WR2,1,Atl,14922.0,[u'WR'],2017.0,Mohamed Sanu,Keyon,WR,1.0,FA,Own
-http://rotoworld.com/player/nfl/10399/justin-hardy,Justin Hardy,WR2,2,Atl,17542.0,[u'WR'],2017.0,Justin Hardy,John/Zach,WR,9.0,2015,Own
+http://rotoworld.com/player/nfl/7433/mohamed-sanu,Mohamed Sanu,WR2,1,Atl,14922.0,[u'WR'],2017.0,Mohamed Sanu,Keyon,WR,1.0,FA,RFA
+http://rotoworld.com/player/nfl/10399/justin-hardy,Justin Hardy,WR2,2,Atl,17542.0,[u'WR'],2017.0,Justin Hardy,John/Zach,WR,9.0,2015,RFA
 http://rotoworld.com/player/nfl/12914/reggie-davis,Reggie Davis,WR2,3,Atl,,,,,,,,,FA
 http://rotoworld.com/player/nfl/13137/calvin-ridley,Calvin Ridley,WR3,1,Atl,18584.0,[u'WR'],,,,,,,Rookie
 http://rotoworld.com/player/nfl/11301/austin-hooper,Austin Hooper,TE,1,Atl,17861.0,[u'TE'],2018.0,Austin Hooper,Trevor,TE,4.0,2016,Own
 http://rotoworld.com/player/nfl/6368/logan-paulsen,Logan Paulsen,TE,2,Atl,13726.0,[u'TE'],,,,,,,FA
-http://rotoworld.com/player/nfl/978/matt-bryant,Matt Bryant,K,1,Atl,4333.0,[u'K'],2017.0,Matt Bryant,Patrick,K,1.0,FA,Own
+http://rotoworld.com/player/nfl/978/matt-bryant,Matt Bryant,K,1,Atl,4333.0,[u'K'],2017.0,Matt Bryant,Patrick,K,1.0,FA,RFA
 http://rotoworld.com/player/nfl/6491/cam-newton,Cam Newton,QB,1,Car,13994.0,[u'QB'],2019.0,Cam Newton,Brett/Luke,QB,175.0,2017,Own
 http://rotoworld.com/player/nfl/9522/garrett-gilbert,Garrett Gilbert,QB,2,Car,,,,,,,,,FA
 http://rotoworld.com/player/nfl/12198/christian-mccaffrey,Christian McCaffrey,RB,1,Car,18279.0,[u'RB'],2019.0,Christian McCaffrey,Daniel,RB,24.0,2017,Own
 http://rotoworld.com/player/nfl/8694/cj-anderson,C.J. Anderson,RB,2,Car,16040.0,[u'RB'],2019.0,C.J. Anderson,Daniel,RB,45.0,2017,Own
 http://rotoworld.com/player/nfl/10364/cameron-artis-payne,Cameron Artis-Payne,RB,3,Car,17704.0,[u'RB'],2017.0,Cameron Artis-Payne,,RB,,FA,FA
 http://rotoworld.com/player/nfl/8456/kenjon-barner,Kenjon Barner,RB,4,Car,15921.0,[u'RB'],2017.0,Kenjon Barner,,RB,,FA,FA
-http://rotoworld.com/player/nfl/10391/devin-funchess,Devin Funchess,WR1,1,Car,17682.0,[u'WR'],2017.0,Devin Funchess,Keyon,WR,9.0,2015,Own
-http://rotoworld.com/player/nfl/6442/torrey-smith,Torrey Smith,WR1,2,Car,14032.0,[u'WR'],2017.0,Torrey Smith,John/Zach,WR,1.0,FA,Own
+http://rotoworld.com/player/nfl/10391/devin-funchess,Devin Funchess,WR1,1,Car,17682.0,[u'WR'],2017.0,Devin Funchess,Keyon,WR,9.0,2015,RFA
+http://rotoworld.com/player/nfl/6442/torrey-smith,Torrey Smith,WR1,2,Car,14032.0,[u'WR'],2017.0,Torrey Smith,John/Zach,WR,1.0,FA,RFA
 http://rotoworld.com/player/nfl/10688/rasheed-bailey,Rasheed Bailey,WR1,3,Car,,,,,,,,,FA
 http://rotoworld.com/player/nfl/13114/dj-moore,DJ Moore,WR2,1,Car,18582.0,[u'WR'],,,,,,,Rookie
 http://rotoworld.com/player/nfl/12219/curtis-samuel,Curtis Samuel,WR2,2,Car,18284.0,[u'WR'],2019.0,Curtis Samuel,Syed/Terence,WR,5.0,2017,OurOwn
 http://rotoworld.com/player/nfl/7574/jarius-wright,Jarius Wright,WR2,3,Car,14918.0,[u'WR'],,,,,,,FA
-http://rotoworld.com/player/nfl/6442/torrey-smith,Torrey Smith,WR3,1,Car,14032.0,[u'WR'],2017.0,Torrey Smith,John/Zach,WR,1.0,FA,Own
-http://rotoworld.com/player/nfl/4190/greg-olsen,Greg Olsen,TE,1,Car,10475.0,[u'TE'],2017.0,Greg Olsen,Schex,TE,45.0,2017,Own
+http://rotoworld.com/player/nfl/6442/torrey-smith,Torrey Smith,WR3,1,Car,14032.0,[u'WR'],2017.0,Torrey Smith,John/Zach,WR,1.0,FA,RFA
+http://rotoworld.com/player/nfl/4190/greg-olsen,Greg Olsen,TE,1,Car,10475.0,[u'TE'],2017.0,Greg Olsen,Schex,TE,45.0,2017,RFA
 http://rotoworld.com/player/nfl/10295/chris-manhertz,Chris Manhertz,TE,2,Car,17549.0,[u'TE'],,,,,,,FA
 http://rotoworld.com/player/nfl/5468/graham-gano,Graham Gano,K,1,Car,12460.0,[u'K'],2018.0,Graham Gano,Koci/Mueller,K,1.0,2016,Own
-http://rotoworld.com/player/nfl/591/drew-brees,Drew Brees,QB,1,NO,2580.0,[u'QB'],2017.0,Drew Brees,Schex,QB,175.0,2017,Own
+http://rotoworld.com/player/nfl/591/drew-brees,Drew Brees,QB,1,NO,2580.0,[u'QB'],2017.0,Drew Brees,Schex,QB,175.0,2017,RFA
 http://rotoworld.com/player/nfl/9418/tom-savage,Tom Savage,QB,2,NO,16943.0,[u'QB'],2017.0,Tom Savage,,QB,,FA,FA
 http://rotoworld.com/player/nfl/12172/alvin-kamara,Alvin Kamara,RB,1,NO,18187.0,[u'RB'],2019.0,Alvin Kamara,Keyon,RB,12.0,2017,Own
 http://rotoworld.com/player/nfl/11405/jonathan-williams,Jonathan Williams,RB,2,NO,17923.0,[u'RB'],2017.0,Jonathan Williams,,RB,,FA,FA
@@ -427,28 +427,28 @@ http://rotoworld.com/player/nfl/4168/ted-ginn,Ted Ginn Jr.,WR2,1,NO,10453.0,[u'W
 http://rotoworld.com/player/nfl/11933/tommylee-lewis,Tommylee Lewis,WR2,2,NO,18100.0,[u'WR'],,,,,,,FA
 http://rotoworld.com/player/nfl/13196/trequan-smith,Tre'Quan Smith,WR2,3,NO,18650.0,[u'WR'],,,,,,,Rookie
 http://rotoworld.com/player/nfl/10770/cameron-meredith,Cameron Meredith,WR3,1,NO,17750.0,[u'WR'],2019.0,Cameron Meredith,Keyon,WR,12.0,2017,Own
-http://rotoworld.com/player/nfl/48/ben-watson,Benjamin Watson,TE,1,NO,5557.0,[u'TE'],2017.0,Benjamin Watson,John/Zach,TE,1.0,FA,Own
+http://rotoworld.com/player/nfl/48/ben-watson,Benjamin Watson,TE,1,NO,5557.0,[u'TE'],2017.0,Benjamin Watson,John/Zach,TE,1.0,FA,RFA
 http://rotoworld.com/player/nfl/8764/josh-hill,Josh Hill,TE,2,NO,16143.0,[u'TE'],,,,,,,FA
-http://rotoworld.com/player/nfl/11877/wil-lutz,Wil Lutz,K,1,NO,18104.0,[u'K'],2017.0,Wil Lutz,Schex,K,3.0,FA,Own
-http://rotoworld.com/player/nfl/9376/jameis-winston,Jameis Winston,QB,1,TB,17399.0,[u'QB'],2017.0,Jameis Winston,Mitch,QB,24.0,2015,Own
+http://rotoworld.com/player/nfl/11877/wil-lutz,Wil Lutz,K,1,NO,18104.0,[u'K'],2017.0,Wil Lutz,Schex,K,3.0,FA,RFA
+http://rotoworld.com/player/nfl/9376/jameis-winston,Jameis Winston,QB,1,TB,17399.0,[u'QB'],2017.0,Jameis Winston,Mitch,QB,24.0,2015,RFA
 http://rotoworld.com/player/nfl/3240/ryan-fitzpatrick,Ryan Fitzpatrick,QB,2,TB,8664.0,[u'QB'],2017.0,Ryan Fitzpatrick,,QB,,FA,FA
-http://rotoworld.com/player/nfl/11708/peyton-barber,Peyton Barber,RB,1,TB,18106.0,[u'RB'],2017.0,Peyton Barber,Schex,RB,14.0,FA,Own
+http://rotoworld.com/player/nfl/11708/peyton-barber,Peyton Barber,RB,1,TB,18106.0,[u'RB'],2017.0,Peyton Barber,Schex,RB,14.0,FA,RFA
 http://rotoworld.com/player/nfl/13061/ronald-jones,Ronald Jones,RB,2,TB,18597.0,[u'RB'],,,,,,,Rookie
 http://rotoworld.com/player/nfl/6482/jacquizz-rodgers,Jacquizz Rodgers,RB,3,TB,14193.0,[u'RB'],2017.0,Jacquizz Rodgers,,RB,,FA,FA
 http://rotoworld.com/player/nfl/13476/shaun-wilson,Shaun Wilson,RB,4,TB,18828.0,[u'RB'],,,,,,,FA
-http://rotoworld.com/player/nfl/9296/mike-evans,Mike Evans,WR1,1,TB,16737.0,[u'WR'],2017.0,Mike Evans,Keyon,WR,243.0,2017,Own
+http://rotoworld.com/player/nfl/9296/mike-evans,Mike Evans,WR1,1,TB,16737.0,[u'WR'],2017.0,Mike Evans,Keyon,WR,243.0,2017,RFA
 http://rotoworld.com/player/nfl/11072/adam-humphries,Adam Humphries,WR1,2,TB,17756.0,[u'WR'],2017.0,Adam Humphries,,WR,,FA,FA
 http://rotoworld.com/player/nfl/13208/justin-watson,Justin Watson,WR1,3,TB,18703.0,[u'WR'],,,,,,,Rookie
-http://rotoworld.com/player/nfl/4659/desean-jackson,DeSean Jackson,WR2,1,TB,11283.0,[u'WR'],2017.0,DeSean Jackson,Patrick,WR,23.0,2017,Own
+http://rotoworld.com/player/nfl/4659/desean-jackson,DeSean Jackson,WR2,1,TB,11283.0,[u'WR'],2017.0,DeSean Jackson,Patrick,WR,23.0,2017,RFA
 http://rotoworld.com/player/nfl/12201/chris-godwin,Chris Godwin,WR2,2,TB,18272.0,[u'WR'],2018.0,Chris Godwin,Brett/Luke,WR,5.0,2017,Own
 http://rotoworld.com/player/nfl/10016/freddie-martino,Freddie Martino,WR2,3,TB,17370.0,[u'WR'],,,,,,,FA
 http://rotoworld.com/player/nfl/11072/adam-humphries,Adam Humphries,WR3,1,TB,17756.0,[u'WR'],2017.0,Adam Humphries,,WR,,FA,FA
 http://rotoworld.com/player/nfl/12161/oj-howard,O.J. Howard,TE,1,TB,18322.0,[u'TE'],2019.0,O.J. Howard,Brett/Luke,TE,9.0,2017,Own
-http://rotoworld.com/player/nfl/10193/cameron-brate,Cameron Brate,TE,2,TB,17784.0,[u'TE'],2017.0,Cameron Brate,Quinn,TE,1.0,2017,Own
+http://rotoworld.com/player/nfl/10193/cameron-brate,Cameron Brate,TE,2,TB,17784.0,[u'TE'],2017.0,Cameron Brate,Quinn,TE,1.0,2017,RFA
 http://rotoworld.com/player/nfl/10045/chandler-catanzaro,Chandler Catanzaro,K,1,TB,17169.0,[u'K'],2018.0,Chandler Catanzaro,John/Zach,K,3.0,2016,Own
-http://rotoworld.com/player/nfl/5161/sam-bradford,Sam Bradford,QB,1,Ari,13197.0,[u'QB'],2017.0,Sam Bradford,Patrick,QB,1.0,FA,Own
+http://rotoworld.com/player/nfl/5161/sam-bradford,Sam Bradford,QB,1,Ari,13197.0,[u'QB'],2017.0,Sam Bradford,Patrick,QB,1.0,FA,RFA
 http://rotoworld.com/player/nfl/13047/josh-rosen,Josh Rosen,QB,2,Ari,18572.0,[u'QB'],,,,,,,Rookie
-http://rotoworld.com/player/nfl/10404/david-johnson,David Johnson,RB,1,Ari,17442.0,[u'RB'],2017.0,David Johnson,Schex,RB,14.0,2015,Own
+http://rotoworld.com/player/nfl/10404/david-johnson,David Johnson,RB,1,Ari,17442.0,[u'RB'],2017.0,David Johnson,Schex,RB,14.0,2015,RFA
 http://rotoworld.com/player/nfl/13255/chase-edmonds,Chase Edmonds,RB,2,Ari,18693.0,[u'RB'],,,,,,,Rookie
 http://rotoworld.com/player/nfl/11565/dj-foster,D.J. Foster,RB,3,Ari,18043.0,[u'RB'],2017.0,D.J. Foster,,RB,,FA,FA
 http://rotoworld.com/player/nfl/12386/tj-logan,T.J. Logan,RB,4,Ari,18286.0,[u'RB'],,,,,,,FA
@@ -459,35 +459,35 @@ http://rotoworld.com/player/nfl/8608/brice-butler,Brice Butler,WR2,1,Ari,15896.0
 http://rotoworld.com/player/nfl/10536/jj-nelson,J.J. Nelson,WR2,2,Ari,17514.0,[u'WR'],2017.0,J.J. Nelson,,WR,,FA,FA
 http://rotoworld.com/player/nfl/6575/greg-little,Greg Little,WR2,3,Ari,,,,,,,,,FA
 http://rotoworld.com/player/nfl/12343/chad-williams,Chad Williams,WR3,1,Ari,18169.0,[u'WR'],2017.0,Chad Williams,,WR,,FA,FA
-http://rotoworld.com/player/nfl/12463/ricky-seals-jones,Ricky Seals-Jones,TE,1,Ari,18431.0,[u'TE'],2017.0,Ricky Seals-Jones,Quinn,TE,14.0,FA,Own
+http://rotoworld.com/player/nfl/12463/ricky-seals-jones,Ricky Seals-Jones,TE,1,Ari,18431.0,[u'TE'],2017.0,Ricky Seals-Jones,Quinn,TE,14.0,FA,RFA
 http://rotoworld.com/player/nfl/11002/gabe-holmes,Gabe Holmes,TE,2,Ari,,,,,,,,,FA
 http://rotoworld.com/player/nfl/2631/phil-dawson,Phil Dawson,K,1,Ari,1440.0,[u'K'],,,,,,,FA
 http://rotoworld.com/player/nfl/11205/jared-goff,Jared Goff,QB,1,LAR,17794.0,[u'QB'],2018.0,Jared Goff,Schex,QB,32.0,2016,Own
 http://rotoworld.com/player/nfl/10409/sean-mannion,Sean Mannion,QB,2,LAR,17533.0,[u'QB'],,,,,,,FA
-http://rotoworld.com/player/nfl/10288/todd-gurley,Todd Gurley II,RB,1,LAR,17683.0,[u'RB'],2017.0,Todd Gurley II,Patrick,RB,27.0,2015,Own
-http://rotoworld.com/player/nfl/10674/malcolm-brown,Malcolm Brown,RB,2,LAR,17742.0,[u'RB'],2017.0,Malcolm Brown,Mitch,RB,2.0,FA,Own
+http://rotoworld.com/player/nfl/10288/todd-gurley,Todd Gurley II,RB,1,LAR,17683.0,[u'RB'],2017.0,Todd Gurley II,Patrick,RB,27.0,2015,RFA
+http://rotoworld.com/player/nfl/10674/malcolm-brown,Malcolm Brown,RB,2,LAR,17742.0,[u'RB'],2017.0,Malcolm Brown,Mitch,RB,2.0,FA,RFA
 http://rotoworld.com/player/nfl/13212/john-kelly,John Kelly,RB,3,LAR,18735.0,[u'RB'],,,,,,,Rookie
 http://rotoworld.com/player/nfl/12511/justin-davis,Justin Davis,RB,4,LAR,18465.0,[u'RB'],,,,,,,FA
-http://rotoworld.com/player/nfl/9404/brandin-cooks,Brandin Cooks,WR1,1,LAR,16731.0,[u'WR'],2017.0,Brandin Cooks,Syed/Terence,WR,150.0,2017,OurOwn
+http://rotoworld.com/player/nfl/9404/brandin-cooks,Brandin Cooks,WR1,1,LAR,16731.0,[u'WR'],2017.0,Brandin Cooks,Syed/Terence,WR,150.0,2017,OurRFA
 http://rotoworld.com/player/nfl/12253/josh-reynolds,Josh Reynolds,WR1,2,LAR,18214.0,[u'WR'],2017.0,Josh Reynolds,,WR,,FA,FA
 http://rotoworld.com/player/nfl/11281/pharoh-cooper,Pharoh Cooper,WR1,3,LAR,17893.0,[u'WR'],2017.0,Pharoh Cooper,,WR,,FA,FA
 http://rotoworld.com/player/nfl/8407/robert-woods,Robert Woods,WR2,1,LAR,15880.0,[u'WR'],2018.0,Robert Woods,Koci/Mueller,WR,3.0,2016,Own
 http://rotoworld.com/player/nfl/12177/cooper-kupp,Cooper Kupp,WR2,2,LAR,18415.0,[u'WR'],2019.0,Cooper Kupp,Trevor,WR,5.0,2017,Own
 http://rotoworld.com/player/nfl/11491/mike-thomas,Mike Thomas,WR2,3,LAR,17964.0,[u'WR'],2017.0,Michael Thomas (LA),,WR,,FA,FA
 http://rotoworld.com/player/nfl/12177/cooper-kupp,Cooper Kupp,WR3,1,LAR,18415.0,[u'WR'],2019.0,Cooper Kupp,Trevor,WR,5.0,2017,Own
-http://rotoworld.com/player/nfl/11430/tyler-higbee,Tyler Higbee,TE,1,LAR,17886.0,[u'TE'],2017.0,Tyler Higbee,Daniel,TE,2.0,FA,Own
+http://rotoworld.com/player/nfl/11430/tyler-higbee,Tyler Higbee,TE,1,LAR,17886.0,[u'TE'],2017.0,Tyler Higbee,Daniel,TE,2.0,FA,RFA
 http://rotoworld.com/player/nfl/12284/gerald-everett,Gerald Everett,TE,2,LAR,18374.0,[u'TE'],2017.0,Gerald Everett,,TE,,FA,FA
-http://rotoworld.com/player/nfl/7616/greg-zuerlein,Greg Zuerlein,K,1,LAR,14993.0,[u'K'],2017.0,Greg Zuerlein,Trevor,K,1.0,FA,Own
-http://rotoworld.com/player/nfl/7460/russell-wilson,Russell Wilson,QB,1,Sea,14881.0,[u'QB'],2017.0,Russell Wilson,Keyon,QB,200.0,2017,Own
+http://rotoworld.com/player/nfl/7616/greg-zuerlein,Greg Zuerlein,K,1,LAR,14993.0,[u'K'],2017.0,Greg Zuerlein,Trevor,K,1.0,FA,RFA
+http://rotoworld.com/player/nfl/7460/russell-wilson,Russell Wilson,QB,1,Sea,14881.0,[u'QB'],2017.0,Russell Wilson,Keyon,QB,200.0,2017,RFA
 http://rotoworld.com/player/nfl/8069/austin-davis,Austin Davis,QB,2,Sea,15187.0,[u'QB'],,,,,,,FA
 http://rotoworld.com/player/nfl/12446/chris-carson,Chris Carson,RB,1,Sea,18341.0,[u'RB'],2019.0,Chris Carson,Koci/Mueller,RB,3.0,2017,Own
 http://rotoworld.com/player/nfl/13143/rashaad-penny,Rashaad Penny,RB,2,Sea,18585.0,[u'RB'],,,,,,,Rookie
-http://rotoworld.com/player/nfl/10378/mike-davis,Mike Davis,RB,3,Sea,17700.0,[u'RB'],2017.0,Mike Davis,Syed/Terence,RB,4.0,FA,OurOwn
+http://rotoworld.com/player/nfl/10378/mike-davis,Mike Davis,RB,3,Sea,17700.0,[u'RB'],2017.0,Mike Davis,Syed/Terence,RB,4.0,FA,OurRFA
 http://rotoworld.com/player/nfl/11319/cj-prosise,C.J. Prosise,RB,4,Sea,17869.0,[u'RB'],2018.0,C.J. Prosise,Trevor,RB,13.0,2016,Own
-http://rotoworld.com/player/nfl/6825/doug-baldwin,Doug Baldwin,WR1,1,Sea,14221.0,[u'WR'],2017.0,Doug Baldwin,Patrick,WR,10.0,2015,Own
+http://rotoworld.com/player/nfl/6825/doug-baldwin,Doug Baldwin,WR1,1,Sea,14221.0,[u'WR'],2017.0,Doug Baldwin,Patrick,WR,10.0,2015,RFA
 http://rotoworld.com/player/nfl/8869/jaron-brown,Jaron Brown,WR1,2,Sea,16172.0,[u'WR'],2019.0,Jaron Brown,Schex,WR,1.0,2017,Own
 http://rotoworld.com/player/nfl/11918/tanner-mcevoy,Tanner McEvoy,WR1,3,Sea,18082.0,[u'WR'],,,,,,,FA
-http://rotoworld.com/player/nfl/10408/tyler-lockett,Tyler Lockett,WR2,1,Sea,17619.0,[u'WR'],2017.0,Tyler Lockett,Quinn,WR,5.0,2015,Own
+http://rotoworld.com/player/nfl/10408/tyler-lockett,Tyler Lockett,WR2,1,Sea,17619.0,[u'WR'],2017.0,Tyler Lockett,Quinn,WR,5.0,2015,RFA
 http://rotoworld.com/player/nfl/3653/brandon-marshall,Brandon Marshall,WR2,2,Sea,9705.0,[u'WR'],2017.0,Brandon Marshall (NYG),,WR,,FA,FA
 http://rotoworld.com/player/nfl/12306/amara-darboh,Amara Darboh,WR2,3,Sea,18201.0,[u'WR'],2017.0,Amara Darboh,,WR,,FA,FA
 http://rotoworld.com/player/nfl/8869/jaron-brown,Jaron Brown,WR3,1,Sea,16172.0,[u'WR'],2019.0,Jaron Brown,Schex,WR,1.0,2017,Own
@@ -496,17 +496,17 @@ http://rotoworld.com/player/nfl/11329/nick-vannett,Nick Vannett,TE,2,Sea,17873.0
 http://rotoworld.com/player/nfl/819/sebastian-janikowski,Sebastian Janikowski,K,1,Sea,2148.0,[u'K'],2017.0,Sebastian Janikowski,,K,,FA,FA
 http://rotoworld.com/player/nfl/9360/jimmy-garoppolo,Jimmy Garoppolo,QB,1,SF,16760.0,[u'QB'],2019.0,Jimmy Garoppolo,Keyon,QB,31.0,2017,Own
 http://rotoworld.com/player/nfl/12328/cj-beathard,C.J. Beathard,QB,2,SF,18268.0,[u'QB'],2019.0,C.J. Beathard,Patrick,QB,2.0,2017,Own
-http://rotoworld.com/player/nfl/9651/jerick-mckinnon,Jerick McKinnon,RB,1,SF,16782.0,[u'RB'],2017.0,Jerick McKinnon,Mitch,RB,3.0,FA,Own
-http://rotoworld.com/player/nfl/12678/matt-breida,Matt Breida,RB,2,SF,18424.0,[u'RB'],2017.0,Matt Breida,Keyon,RB,3.0,FA,Own
-http://rotoworld.com/player/nfl/7618/alfred-morris,Alfred Morris,RB,3,SF,15009.0,[u'RB'],2017.0,Alfred Morris,Brett/Luke,RB,25.0,2016,Own
+http://rotoworld.com/player/nfl/9651/jerick-mckinnon,Jerick McKinnon,RB,1,SF,16782.0,[u'RB'],2017.0,Jerick McKinnon,Mitch,RB,3.0,FA,RFA
+http://rotoworld.com/player/nfl/12678/matt-breida,Matt Breida,RB,2,SF,18424.0,[u'RB'],2017.0,Matt Breida,Keyon,RB,3.0,FA,RFA
+http://rotoworld.com/player/nfl/7618/alfred-morris,Alfred Morris,RB,3,SF,15009.0,[u'RB'],2017.0,Alfred Morris,Brett/Luke,RB,25.0,2016,RFA
 http://rotoworld.com/player/nfl/12204/joe-williams,Joe Williams,RB,4,SF,18354.0,[u'RB'],2017.0,Joe Williams,,RB,,FA,FA
-http://rotoworld.com/player/nfl/8461/marquise-goodwin,Marquise Goodwin,WR1,1,SF,15839.0,[u'WR'],2017.0,Marqise Goodwin,Schex,WR,1.0,FA,Own
+http://rotoworld.com/player/nfl/8461/marquise-goodwin,Marquise Goodwin,WR1,1,SF,15839.0,[u'WR'],2017.0,Marqise Goodwin,Schex,WR,1.0,FA,RFA
 http://rotoworld.com/player/nfl/6685/aldrick-robinson,Aldrick Robinson,WR1,2,SF,14164.0,[u'WR'],,,,,,,FA
 http://rotoworld.com/player/nfl/12677/kendrick-bourne,Kendrick Bourne,WR1,3,SF,18467.0,[u'WR'],,,,,,,FA
 http://rotoworld.com/player/nfl/4945/pierre-garcon,Pierre Garcon,WR2,1,SF,11439.0,[u'WR'],2019.0,Pierre Garcon,Koci/Mueller,WR,32.0,2017,Own
-http://rotoworld.com/player/nfl/12305/trent-taylor,Trent Taylor,WR2,2,SF,18296.0,[u'WR'],2017.0,Trent Taylor,Keyon,WR,1.0,FA,Own
+http://rotoworld.com/player/nfl/12305/trent-taylor,Trent Taylor,WR2,2,SF,18296.0,[u'WR'],2017.0,Trent Taylor,Keyon,WR,1.0,FA,RFA
 http://rotoworld.com/player/nfl/13160/dante-pettis,Dante Pettis,WR2,3,SF,18603.0,[u'WR'],,,,,,,Rookie
-http://rotoworld.com/player/nfl/12305/trent-taylor,Trent Taylor,WR3,1,SF,18296.0,[u'WR'],2017.0,Trent Taylor,Keyon,WR,1.0,FA,Own
-http://rotoworld.com/player/nfl/12276/george-kittle,George Kittle,TE,1,SF,18292.0,[u'TE'],2017.0,George Kittle,Daniel,TE,1.0,FA,Own
+http://rotoworld.com/player/nfl/12305/trent-taylor,Trent Taylor,WR3,1,SF,18296.0,[u'WR'],2017.0,Trent Taylor,Keyon,WR,1.0,FA,RFA
+http://rotoworld.com/player/nfl/12276/george-kittle,George Kittle,TE,1,SF,18292.0,[u'TE'],2017.0,George Kittle,Daniel,TE,1.0,FA,RFA
 http://rotoworld.com/player/nfl/7982/garrett-celek,Garrett Celek,TE,2,SF,15204.0,[u'TE'],,,,,,,FA
-http://rotoworld.com/player/nfl/3519/robbie-gould,Robbie Gould,K,1,SF,9354.0,[u'K'],2017.0,Robbie Gould,Mitch,K,1.0,FA,Own
+http://rotoworld.com/player/nfl/3519/robbie-gould,Robbie Gould,K,1,SF,9354.0,[u'K'],2017.0,Robbie Gould,Mitch,K,1.0,FA,RFA

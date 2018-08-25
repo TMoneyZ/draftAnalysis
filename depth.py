@@ -4,7 +4,7 @@ import numpy as np
 u = pd.read_csv('csv/rotoworld_espn_id_unique.csv')
 roster = pd.read_csv('csv/roster.csv')
 rookies = pd.read_csv('csv/rookie_id.csv')
-year = 2017
+year = 2018
 
 t = pd.merge(u, roster, how='left', on=['id'])
 
